@@ -1,18 +1,18 @@
 {
-  "generated_utc": "2026-07-28T14:21:59+00:00",
-  "last_sync_utc": "2026-07-28T10:51:35+00:00",
+  "generated_utc": "2026-07-28T14:28:17+00:00",
+  "last_sync_utc": "2026-07-28T14:28:07+00:00",
   "window_days": 400,
   "fires": {
-    "total": 2001,
-    "active": 25,
-    "dying_down": 35,
-    "out": 1941
+    "total": 4391,
+    "active": 24,
+    "dying_down": 31,
+    "out": 4336
   },
   "classes": {
-    "agricultural": 64,
-    "forest": 1020,
-    "likely_agricultural": 834,
-    "mixed": 21,
+    "agricultural": 73,
+    "forest": 2253,
+    "likely_agricultural": 1973,
+    "mixed": 30,
     "urban": 62
   },
   "satellite_hotspots_24h": 26,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 217180.0,
-  "detections": 39047,
+  "detections": 39048,
   "highlights": [
     {
       "id": "bf20a32e0893",
@@ -83,18 +83,18 @@
     },
     {
       "id": "ce542678ebc4",
-      "ine": "12007",
-      "municipality": "Alfondeguilla",
+      "ine": "12109",
+      "municipality": "Tales",
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 4855.2,
       "pixel_area_ha": 9082.8,
       "official_area_ha": 10046.0,
-      "detections": 1833,
-      "last_utc": "2026-07-28T02:53:00Z",
+      "detections": 1836,
+      "last_utc": "2026-07-28T09:28:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "alfondeguilla"
+      "slug": "tales"
     },
     {
       "id": "1917861ec684",
