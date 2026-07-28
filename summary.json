@@ -1,28 +1,31 @@
 {
-  "generated_utc": "2026-07-28T20:24:40+00:00",
-  "last_sync_utc": "2026-07-28T20:22:21+00:00",
+  "generated_utc": "2026-07-28T20:37:40+00:00",
+  "last_sync_utc": "2026-07-28T18:47:07+00:00",
   "window_days": 400,
   "fires": {
-    "total": 106,
-    "active": 35,
-    "dying_down": 48,
-    "out": 23
+    "total": 4408,
+    "active": 30,
+    "dying_down": 37,
+    "out": 4341
   },
   "classes": {
-    "forest": 69,
-    "likely_agricultural": 37
+    "agricultural": 73,
+    "forest": 2257,
+    "likely_agricultural": 1986,
+    "mixed": 30,
+    "urban": 62
   },
-  "satellite_hotspots_24h": 41,
-  "satellite_intense_24h": 14,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 0,
-    "windy": 0,
-    "met": 0
+    "hot_dry": 6101,
+    "windy": 27,
+    "met": 4
   },
   "official": {
-    "active": 40,
-    "not_extinguished": 101,
+    "active": 44,
+    "not_extinguished": 98,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -33,105 +36,65 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 23,
-        "total": 634,
-        "last_report_utc": "2026-07-28T10:00:00+00:00"
+        "active": 24,
+        "total": 620,
+        "last_report_utc": "2026-07-27T08:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 15,
-        "total": 15,
-        "last_report_utc": "2026-07-28T20:06:22+00:00"
+        "active": 18,
+        "total": 18,
+        "last_report_utc": "2026-07-28T09:34:25+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 2,
-        "total": 646,
-        "last_report_utc": "2026-07-28T15:17:00+00:00"
+        "total": 636,
+        "last_report_utc": "2026-07-27T20:11:00+00:00"
       },
       {
         "source": "bombers",
         "region": "Cataluña",
         "active": 0,
-        "total": 1953,
+        "total": 1982,
         "last_report_utc": "2026-07-22T22:00:00+00:00"
       }
     ]
   },
-  "burnt_ha_effis": null,
-  "detections": 2422,
+  "burnt_ha_effis": 217180.0,
+  "detections": 39247,
   "highlights": [
     {
-      "id": "c0e2fb1d4224",
-      "ine": "12006",
-      "municipality": "Alcudia de Veo",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 345.1,
-      "pixel_area_ha": 2418.3,
-      "detections": 537,
-      "last_utc": "2026-07-28T13:57:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "alcudia-de-veo"
-    },
-    {
-      "id": "e85bd1dfb1b7",
-      "ine": "12109",
-      "municipality": "Tales",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 88.0,
-      "pixel_area_ha": 1321.6,
-      "detections": 303,
-      "last_utc": "2026-07-28T13:57:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "tales"
-    },
-    {
-      "id": "5257f59db452",
-      "ine": "05905",
-      "municipality": "Villanueva de Ávila",
-      "province": "Ávila",
-      "region": "Castilla y León",
-      "frp_max_mw": 588.4,
-      "pixel_area_ha": 815.5,
-      "detections": 192,
-      "last_utc": "2026-07-28T12:17:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villanueva-de-avila"
-    },
-    {
-      "id": "a263639257b4",
+      "id": "bf20a32e0893",
       "ine": "28133",
       "municipality": "San Martín de Valdeiglesias",
       "province": "Madrid",
       "region": "Comunidad de Madrid",
-      "frp_max_mw": 147.3,
-      "pixel_area_ha": 787.4,
-      "detections": 173,
+      "frp_max_mw": 1898.5,
+      "pixel_area_ha": 50039.5,
+      "official_area_ha": 23078.0,
+      "detections": 10387,
       "last_utc": "2026-07-28T15:44:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "san-martin-de-valdeiglesias"
     },
     {
-      "id": "5b8567db2b9e",
-      "ine": "28133",
-      "municipality": "San Martín de Valdeiglesias",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 73.1,
-      "pixel_area_ha": 309.3,
-      "detections": 42,
-      "last_utc": "2026-07-28T12:17:00Z",
+      "id": "ce542678ebc4",
+      "ine": "12109",
+      "municipality": "Tales",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 4855.2,
+      "pixel_area_ha": 9406.1,
+      "official_area_ha": 10046.0,
+      "detections": 1946,
+      "last_utc": "2026-07-28T13:57:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "san-martin-de-valdeiglesias"
+      "slug": "tales"
     },
     {
       "id": "aa8576d79bf4",
@@ -146,6 +109,48 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "las-omanas"
+    },
+    {
+      "id": "1917861ec684",
+      "ine": "33014",
+      "municipality": "Carreño",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 16.3,
+      "pixel_area_ha": 168.7,
+      "detections": 32,
+      "last_utc": "2026-07-28T15:46:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carreno"
+    },
+    {
+      "id": "c2ef2aadd716",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 5.8,
+      "pixel_area_ha": 126.5,
+      "detections": 99,
+      "last_utc": "2026-07-28T14:18:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "3d96d8965d4e",
+      "ine": "09467",
+      "municipality": "Villaverde-Mogina",
+      "province": "Burgos",
+      "region": "Castilla y León",
+      "frp_max_mw": 18.8,
+      "pixel_area_ha": 84.4,
+      "detections": 13,
+      "last_utc": "2026-07-28T14:18:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villaverde-mogina"
     }
   ]
 }
