@@ -1,5 +1,7 @@
 {
-  "sha": "88c49d5020f9eaa4977b810a5c619687f854a08b",
-  "generated_utc": "2026-07-28T19:27:42+00:00",
-  "files": []
+  "sha": "39b0b346a34ed1a988c412bb7178c01bcbd82231",
+  "generated_utc": "2026-07-28T19:28:18+00:00",
+  "files": [
+    "indicators.json"
+  ]
 }
