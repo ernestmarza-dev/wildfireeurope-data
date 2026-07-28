@@ -1,9 +1,13 @@
 {
-  "generated_utc": "2026-07-28T10:54:04+00:00",
+  "generated_utc": "2026-07-28T10:54:24+00:00",
   "files": {
     "fires.geojson": {
       "bytes": 878701,
       "sha": "eac71920e5312062"
+    },
+    "detections.json": {
+      "bytes": 1337769,
+      "sha": "feabc8e620f80578"
     },
     "indicators.json": {
       "bytes": 1001924,
