@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-28T12:30:55+00:00",
+  "generated_utc": "2026-07-28T13:18:56+00:00",
   "last_sync_utc": "2026-07-28T10:51:35+00:00",
   "window_days": 400,
   "fires": {
@@ -67,20 +67,6 @@
   "detections": 39047,
   "highlights": [
     {
-      "id": "ce542678ebc4",
-      "ine": "12007",
-      "municipality": "Alfondeguilla",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 4855.2,
-      "pixel_area_ha": 9082.8,
-      "official_area_ha": 10046.0,
-      "detections": 1833,
-      "last_utc": "2026-07-28T02:53:00Z",
-      "status": "active",
-      "fire_class": "forest"
-    },
-    {
       "id": "bf20a32e0893",
       "ine": "05054",
       "municipality": "Casavieja",
@@ -95,15 +81,16 @@
       "fire_class": "forest"
     },
     {
-      "id": "3d96d8965d4e",
-      "ine": "09467",
-      "municipality": "Villaverde-Mogina",
-      "province": "Burgos",
-      "region": "Castilla y León",
-      "frp_max_mw": 14.9,
-      "pixel_area_ha": 56.2,
-      "detections": 7,
-      "last_utc": "2026-07-28T04:42:00Z",
+      "id": "ce542678ebc4",
+      "ine": "12007",
+      "municipality": "Alfondeguilla",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 4855.2,
+      "pixel_area_ha": 9082.8,
+      "official_area_ha": 10046.0,
+      "detections": 1833,
+      "last_utc": "2026-07-28T02:53:00Z",
       "status": "active",
       "fire_class": "forest"
     },
@@ -117,6 +104,19 @@
       "pixel_area_ha": 154.7,
       "detections": 24,
       "last_utc": "2026-07-28T02:53:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "c2ef2aadd716",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 5.8,
+      "pixel_area_ha": 126.5,
+      "detections": 97,
+      "last_utc": "2026-07-28T02:56:00Z",
       "status": "active",
       "fire_class": "forest"
     },
