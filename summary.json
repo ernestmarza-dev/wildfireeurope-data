@@ -1,0 +1,133 @@
+{
+  "generated_utc": "2026-07-28T09:33:22+00:00",
+  "last_sync_utc": "2026-07-28T09:32:30+00:00",
+  "window_days": 7,
+  "fires": {
+    "total": 485,
+    "active": 50,
+    "dying_down": 65,
+    "out": 370
+  },
+  "classes": {
+    "agricultural": 2,
+    "forest": 273,
+    "likely_agricultural": 207,
+    "mixed": 3
+  },
+  "satellite_hotspots_24h": 20,
+  "official": {
+    "active": 43,
+    "not_extinguished": 97,
+    "regions": [
+      "Andalucía",
+      "Castilla y León",
+      "Cataluña",
+      "Comunitat Valenciana"
+    ],
+    "by_source": [
+      {
+        "source": "jcyl",
+        "region": "Castilla y León",
+        "active": 24,
+        "total": 620,
+        "last_report_utc": "2026-07-27T08:00:00+00:00"
+      },
+      {
+        "source": "112cv",
+        "region": "Comunitat Valenciana",
+        "active": 17,
+        "total": 17,
+        "last_report_utc": "2026-07-28T08:50:41+00:00"
+      },
+      {
+        "source": "infoca",
+        "region": "Andalucía",
+        "active": 2,
+        "total": 636,
+        "last_report_utc": "2026-07-27T20:11:00+00:00"
+      },
+      {
+        "source": "bombers",
+        "region": "Cataluña",
+        "active": 0,
+        "total": 1953,
+        "last_report_utc": "2026-07-22T22:00:00+00:00"
+      }
+    ]
+  },
+  "burnt_ha_effis": 217180.0,
+  "detections": 17683,
+  "highlights": [
+    {
+      "id": "ce542678ebc4",
+      "municipality": "Alfondeguilla",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 4855.2,
+      "pixel_area_ha": 9082.8,
+      "official_area_ha": 10046.0,
+      "detections": 1833,
+      "last_utc": "2026-07-28T02:53:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "bf20a32e0893",
+      "municipality": "Casavieja",
+      "province": "Ávila",
+      "region": "Castilla y León",
+      "frp_max_mw": 1898.5,
+      "pixel_area_ha": 50039.5,
+      "official_area_ha": 23078.0,
+      "detections": 10384,
+      "last_utc": "2026-07-28T04:42:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "5f5fa2a83ffd",
+      "municipality": "Fuentes de Oñoro",
+      "province": "Salamanca",
+      "region": "Castilla y León",
+      "frp_max_mw": 405.8,
+      "pixel_area_ha": 464.0,
+      "detections": 48,
+      "last_utc": "2026-07-28T04:42:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "f5626bd14c28",
+      "municipality": "Lobios",
+      "province": "Ourense",
+      "region": "Galicia",
+      "frp_max_mw": 236.4,
+      "pixel_area_ha": 548.3,
+      "detections": 72,
+      "last_utc": "2026-07-28T04:42:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "7aca0e9053a6",
+      "frp_max_mw": 176.3,
+      "pixel_area_ha": 956.1,
+      "detections": 912,
+      "last_utc": "2026-07-28T02:56:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    },
+    {
+      "id": "31a3b3e07907",
+      "municipality": "Setcases",
+      "province": "Girona",
+      "region": "Cataluña",
+      "frp_max_mw": 58.4,
+      "pixel_area_ha": 210.9,
+      "detections": 37,
+      "last_utc": "2026-07-28T02:53:00Z",
+      "status": "active",
+      "fire_class": "forest"
+    }
+  ]
+}

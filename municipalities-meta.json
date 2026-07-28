@@ -1,0 +1,22 @@
+{
+  "geometries": 8182,
+  "municipalities_in_db": 8131,
+  "with_geometry": 8119,
+  "without_geometry": [
+    "03017",
+    "03109",
+    "08174",
+    "08215",
+    "12067",
+    "17046",
+    "41028",
+    "45138",
+    "46066",
+    "46117",
+    "46152",
+    "50156"
+  ],
+  "geometry_without_municipality": 63,
+  "tolerance_degrees": 0.002,
+  "source": "es-atlas (martgnz), from the IGN municipal boundary lines"
+}

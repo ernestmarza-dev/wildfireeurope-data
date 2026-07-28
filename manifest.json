@@ -1,0 +1,33 @@
+{
+  "generated_utc": "2026-07-28T09:35:46+00:00",
+  "files": {
+    "fires.geojson": {
+      "bytes": 202684,
+      "sha": "f1cfbe7eecf17d59"
+    },
+    "indicators.json": {
+      "bytes": 999455,
+      "sha": "c64ba3c53aa2fc39"
+    },
+    "summary.json": {
+      "bytes": 3252,
+      "sha": "b6231378e7044847"
+    },
+    "municipalities.geojson": {
+      "bytes": 3087491,
+      "sha": "d50edb460ffb1234"
+    },
+    "municipalities-meta.json": {
+      "bytes": 407,
+      "sha": "6c7842db595a6f5b"
+    },
+    "provinces.geojson": {
+      "bytes": 133100,
+      "sha": "705dfefc6df020e1"
+    },
+    "search.json": {
+      "bytes": 425683,
+      "sha": "2affc3f3418c1381"
+    }
+  }
+}
