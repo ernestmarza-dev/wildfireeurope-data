@@ -1,7 +1,10 @@
 {
-  "sha": "d3df82b08f705f1116979d0954aafe884fdbbcf0",
-  "generated_utc": "2026-07-28T10:54:26+00:00",
+  "sha": "8986de83bcb9a96e955fef5b3702c8f3b42f9efb",
+  "generated_utc": "2026-07-28T11:44:28+00:00",
   "files": [
-    "detections.json"
+    "detections.json",
+    "indicators.json",
+    "search.json",
+    "summary.json"
   ]
 }
