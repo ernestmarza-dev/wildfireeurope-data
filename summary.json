@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-07-28T10:47:04+00:00",
-  "last_sync_utc": "2026-07-28T10:16:37+00:00",
+  "generated_utc": "2026-07-28T11:44:25+00:00",
+  "last_sync_utc": "2026-07-28T10:51:35+00:00",
   "window_days": 400,
   "fires": {
     "total": 2001,
@@ -57,7 +57,7 @@
     ]
   },
   "burnt_ha_effis": 217180.0,
-  "detections": 32437,
+  "detections": 39047,
   "highlights": [
     {
       "id": "ce542678ebc4",
