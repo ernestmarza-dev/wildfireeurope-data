@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-28T11:46:59+00:00",
+  "generated_utc": "2026-07-28T12:30:55+00:00",
   "last_sync_utc": "2026-07-28T10:51:35+00:00",
   "window_days": 400,
   "fires": {
@@ -68,6 +68,7 @@
   "highlights": [
     {
       "id": "ce542678ebc4",
+      "ine": "12007",
       "municipality": "Alfondeguilla",
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
@@ -81,6 +82,7 @@
     },
     {
       "id": "bf20a32e0893",
+      "ine": "05054",
       "municipality": "Casavieja",
       "province": "Ávila",
       "region": "Castilla y León",
@@ -94,6 +96,7 @@
     },
     {
       "id": "3d96d8965d4e",
+      "ine": "09467",
       "municipality": "Villaverde-Mogina",
       "province": "Burgos",
       "region": "Castilla y León",
@@ -106,6 +109,7 @@
     },
     {
       "id": "1917861ec684",
+      "ine": "33024",
       "municipality": "Gijón",
       "province": "Asturias",
       "region": "Principado de Asturias",
@@ -118,6 +122,7 @@
     },
     {
       "id": "6206778f6708",
+      "ine": "33014",
       "municipality": "Carreño",
       "province": "Asturias",
       "region": "Principado de Asturias",
@@ -130,6 +135,7 @@
     },
     {
       "id": "2bd557c2a53f",
+      "ine": "30041",
       "municipality": "La Unión",
       "province": "Murcia",
       "region": "Región de Murcia",
