@@ -1,18 +1,19 @@
 {
-  "generated_utc": "2026-07-28T10:20:43+00:00",
+  "generated_utc": "2026-07-28T10:47:04+00:00",
   "last_sync_utc": "2026-07-28T10:16:37+00:00",
-  "window_days": 7,
+  "window_days": 400,
   "fires": {
-    "total": 284,
+    "total": 2001,
     "active": 25,
     "dying_down": 35,
-    "out": 224
+    "out": 1941
   },
   "classes": {
-    "agricultural": 2,
-    "forest": 170,
-    "likely_agricultural": 109,
-    "mixed": 3
+    "agricultural": 64,
+    "forest": 1020,
+    "likely_agricultural": 834,
+    "mixed": 21,
+    "urban": 62
   },
   "satellite_hotspots_24h": 4,
   "official": {
@@ -56,7 +57,7 @@
     ]
   },
   "burnt_ha_effis": 217180.0,
-  "detections": 15918,
+  "detections": 32437,
   "highlights": [
     {
       "id": "ce542678ebc4",
