@@ -1,29 +1,31 @@
 {
-  "generated_utc": "2026-07-30T14:28:55+00:00",
-  "last_sync_utc": "2026-07-30T14:26:34+00:00",
+  "generated_utc": "2026-07-30T15:05:55+00:00",
+  "last_sync_utc": "2026-07-30T14:52:55+00:00",
   "window_days": 400,
   "fires": {
-    "total": 196,
-    "active": 12,
-    "dying_down": 89,
-    "out": 95
+    "total": 171,
+    "active": 20,
+    "dying_down": 72,
+    "out": 79
   },
   "classes": {
-    "forest": 130,
-    "likely_agricultural": 65,
+    "agricultural": 2,
+    "forest": 96,
+    "likely_agricultural": 68,
+    "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 53,
-  "satellite_intense_24h": 23,
+  "satellite_hotspots_24h": 39,
+  "satellite_intense_24h": 12,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5914,
-    "windy": 135,
-    "met": 16
+    "hot_dry": 6012,
+    "windy": 196,
+    "met": 25
   },
   "official": {
     "active": 42,
-    "not_extinguished": 99,
+    "not_extinguished": 101,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -42,15 +44,15 @@
         "source": "112cv",
         "region": "Comunitat Valenciana",
         "active": 15,
-        "total": 56,
-        "last_report_utc": "2026-07-30T09:21:39+00:00"
+        "total": 63,
+        "last_report_utc": "2026-07-30T14:52:56+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 3,
-        "total": 653,
-        "last_report_utc": "2026-07-30T00:30:00+00:00"
+        "total": 656,
+        "last_report_utc": "2026-07-30T13:49:00+00:00"
       },
       {
         "source": "bombers",
@@ -61,9 +63,24 @@
       }
     ]
   },
-  "burnt_ha_effis": null,
-  "detections": 3466,
+  "burnt_ha_effis": 229120.0,
+  "detections": 3476,
   "highlights": [
+    {
+      "id": "84ffaff6f3e9",
+      "ine": "49264",
+      "municipality": "Villar del Buey",
+      "province": "Zamora",
+      "region": "Castilla y León",
+      "frp_max_mw": 122.2,
+      "pixel_area_ha": 98.4,
+      "official_area_ha": 10225.0,
+      "detections": 7,
+      "last_utc": "2026-07-30T12:46:00Z",
+      "status": "active",
+      "fire_class": "mixed",
+      "slug": "villar-del-buey"
+    },
     {
       "id": "c0e2fb1d4224",
       "ine": "12057",
@@ -72,6 +89,7 @@
       "region": "Comunitat Valenciana",
       "frp_max_mw": 345.1,
       "pixel_area_ha": 2812.0,
+      "official_area_ha": 9155.0,
       "detections": 709,
       "last_utc": "2026-07-30T09:09:00Z",
       "status": "active",
@@ -86,25 +104,12 @@
       "region": "Castilla y León",
       "frp_max_mw": 210.7,
       "pixel_area_ha": 1251.3,
+      "official_area_ha": 1156.0,
       "detections": 215,
       "last_utc": "2026-07-30T09:09:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
-    },
-    {
-      "id": "4e62641da10f",
-      "ine": "24064",
-      "municipality": "Cubillos del Sil",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 10.7,
-      "pixel_area_ha": 168.7,
-      "detections": 25,
-      "last_utc": "2026-07-30T04:19:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cubillos-del-sil"
     },
     {
       "id": "c8760ad89381",
