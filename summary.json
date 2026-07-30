@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-07-30T12:02:28+00:00",
-  "last_sync_utc": "2026-07-30T12:00:06+00:00",
+  "generated_utc": "2026-07-30T14:28:55+00:00",
+  "last_sync_utc": "2026-07-30T14:26:34+00:00",
   "window_days": 400,
   "fires": {
     "total": 196,
-    "active": 37,
-    "dying_down": 67,
-    "out": 92
+    "active": 12,
+    "dying_down": 89,
+    "out": 95
   },
   "classes": {
     "forest": 130,
     "likely_agricultural": 65,
     "urban": 1
   },
-  "satellite_hotspots_24h": 61,
-  "satellite_intense_24h": 28,
+  "satellite_hotspots_24h": 53,
+  "satellite_intense_24h": 23,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5914,
@@ -93,20 +93,6 @@
       "slug": "villafranca-del-bierzo"
     },
     {
-      "id": "3a96ab0f30f5",
-      "ine": "27038",
-      "municipality": "Ourol",
-      "province": "Lugo",
-      "region": "Galicia",
-      "frp_max_mw": 29.9,
-      "pixel_area_ha": 168.7,
-      "detections": 29,
-      "last_utc": "2026-07-30T02:15:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "ourol"
-    },
-    {
       "id": "4e62641da10f",
       "ine": "24064",
       "municipality": "Cubillos del Sil",
@@ -147,6 +133,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "la-union"
+    },
+    {
+      "id": "789c54fe1c08",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 5.0,
+      "pixel_area_ha": 84.4,
+      "detections": 28,
+      "last_utc": "2026-07-30T03:02:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
     }
   ]
 }
