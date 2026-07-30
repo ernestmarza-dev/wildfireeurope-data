@@ -1,31 +1,29 @@
 {
-  "generated_utc": "2026-07-28T20:37:40+00:00",
-  "last_sync_utc": "2026-07-28T18:47:07+00:00",
+  "generated_utc": "2026-07-30T09:33:59+00:00",
+  "last_sync_utc": "2026-07-30T06:37:14+00:00",
   "window_days": 400,
   "fires": {
-    "total": 4408,
-    "active": 30,
-    "dying_down": 37,
-    "out": 4341
+    "total": 193,
+    "active": 32,
+    "dying_down": 69,
+    "out": 92
   },
   "classes": {
-    "agricultural": 73,
-    "forest": 2257,
-    "likely_agricultural": 1986,
-    "mixed": 30,
-    "urban": 62
+    "forest": 127,
+    "likely_agricultural": 65,
+    "urban": 1
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 58,
+  "satellite_intense_24h": 29,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6101,
-    "windy": 27,
-    "met": 4
+    "hot_dry": 5914,
+    "windy": 135,
+    "met": 16
   },
   "official": {
-    "active": 44,
-    "not_extinguished": 98,
+    "active": 42,
+    "not_extinguished": 99,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -37,22 +35,22 @@
         "source": "jcyl",
         "region": "Castilla y León",
         "active": 24,
-        "total": 620,
-        "last_report_utc": "2026-07-27T08:00:00+00:00"
+        "total": 643,
+        "last_report_utc": "2026-07-28T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 18,
-        "total": 18,
-        "last_report_utc": "2026-07-28T09:34:25+00:00"
+        "active": 15,
+        "total": 56,
+        "last_report_utc": "2026-07-30T09:21:39+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 2,
-        "total": 636,
-        "last_report_utc": "2026-07-27T20:11:00+00:00"
+        "active": 3,
+        "total": 653,
+        "last_report_utc": "2026-07-30T00:30:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,94 +61,92 @@
       }
     ]
   },
-  "burnt_ha_effis": 217180.0,
-  "detections": 39247,
+  "burnt_ha_effis": null,
+  "detections": 3280,
   "highlights": [
     {
-      "id": "bf20a32e0893",
-      "ine": "28133",
-      "municipality": "San Martín de Valdeiglesias",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 1898.5,
-      "pixel_area_ha": 50039.5,
-      "official_area_ha": 23078.0,
-      "detections": 10387,
-      "last_utc": "2026-07-28T15:44:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "san-martin-de-valdeiglesias"
-    },
-    {
-      "id": "ce542678ebc4",
-      "ine": "12109",
-      "municipality": "Tales",
+      "id": "c0e2fb1d4224",
+      "ine": "12057",
+      "municipality": "Eslida",
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
-      "frp_max_mw": 4855.2,
-      "pixel_area_ha": 9406.1,
-      "official_area_ha": 10046.0,
-      "detections": 1946,
-      "last_utc": "2026-07-28T13:57:00Z",
+      "frp_max_mw": 345.1,
+      "pixel_area_ha": 2812.0,
+      "detections": 698,
+      "last_utc": "2026-07-30T02:17:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "tales"
+      "slug": "eslida"
     },
     {
-      "id": "aa8576d79bf4",
-      "ine": "24104",
-      "municipality": "Las Omañas",
+      "id": "82572e08affa",
+      "ine": "24209",
+      "municipality": "Villafranca del Bierzo",
       "province": "León",
       "region": "Castilla y León",
-      "frp_max_mw": 417.0,
-      "pixel_area_ha": 281.2,
-      "detections": 32,
-      "last_utc": "2026-07-28T15:46:00Z",
+      "frp_max_mw": 100.3,
+      "pixel_area_ha": 913.9,
+      "detections": 90,
+      "last_utc": "2026-07-30T02:15:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "las-omanas"
+      "slug": "villafranca-del-bierzo"
     },
     {
-      "id": "1917861ec684",
-      "ine": "33014",
-      "municipality": "Carreño",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 16.3,
-      "pixel_area_ha": 168.7,
-      "detections": 32,
-      "last_utc": "2026-07-28T15:46:00Z",
+      "id": "3a96ab0f30f5",
+      "ine": "27038",
+      "municipality": "Ourol",
+      "province": "Lugo",
+      "region": "Galicia",
+      "frp_max_mw": 29.9,
+      "pixel_area_ha": 140.6,
+      "detections": 22,
+      "last_utc": "2026-07-30T02:15:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "carreno"
+      "slug": "ourol"
     },
     {
-      "id": "c2ef2aadd716",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 5.8,
-      "pixel_area_ha": 126.5,
-      "detections": 99,
-      "last_utc": "2026-07-28T14:18:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "3d96d8965d4e",
-      "ine": "09467",
-      "municipality": "Villaverde-Mogina",
-      "province": "Burgos",
+      "id": "d4e4880964f1",
+      "ine": "24064",
+      "municipality": "Cubillos del Sil",
+      "province": "León",
       "region": "Castilla y León",
-      "frp_max_mw": 18.8,
-      "pixel_area_ha": 84.4,
-      "detections": 13,
-      "last_utc": "2026-07-28T14:18:00Z",
+      "frp_max_mw": 10.7,
+      "pixel_area_ha": 126.5,
+      "detections": 15,
+      "last_utc": "2026-07-30T02:15:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villaverde-mogina"
+      "slug": "cubillos-del-sil"
+    },
+    {
+      "id": "c8760ad89381",
+      "ine": "13071",
+      "municipality": "Puertollano",
+      "province": "Ciudad Real",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 25.1,
+      "pixel_area_ha": 112.5,
+      "detections": 16,
+      "last_utc": "2026-07-30T02:17:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "puertollano"
+    },
+    {
+      "id": "2bd557c2a53f",
+      "ine": "30041",
+      "municipality": "La Unión",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 7.1,
+      "pixel_area_ha": 112.5,
+      "detections": 19,
+      "last_utc": "2026-07-30T01:58:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "la-union"
     }
   ]
 }
