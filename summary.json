@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-07-30T15:05:55+00:00",
-  "last_sync_utc": "2026-07-30T14:52:55+00:00",
+  "generated_utc": "2026-07-30T16:46:02+00:00",
+  "last_sync_utc": "2026-07-30T16:43:36+00:00",
   "window_days": 400,
   "fires": {
-    "total": 171,
-    "active": 20,
-    "dying_down": 72,
-    "out": 79
+    "total": 170,
+    "active": 14,
+    "dying_down": 74,
+    "out": 82
   },
   "classes": {
     "agricultural": 2,
-    "forest": 96,
-    "likely_agricultural": 68,
+    "forest": 94,
+    "likely_agricultural": 69,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 39,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 37,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 6012,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 229120.0,
-  "detections": 3476,
+  "detections": 3514,
   "highlights": [
     {
-      "id": "84ffaff6f3e9",
-      "ine": "49264",
-      "municipality": "Villar del Buey",
+      "id": "83519d15851e",
+      "ine": "49064",
+      "municipality": "Fariza",
       "province": "Zamora",
       "region": "Castilla y León",
-      "frp_max_mw": 122.2,
+      "frp_max_mw": 37.7,
       "pixel_area_ha": 98.4,
       "official_area_ha": 10225.0,
-      "detections": 7,
-      "last_utc": "2026-07-30T12:46:00Z",
+      "detections": 9,
+      "last_utc": "2026-07-30T13:40:00Z",
       "status": "active",
       "fire_class": "mixed",
-      "slug": "villar-del-buey"
+      "slug": "fariza"
     },
     {
       "id": "c0e2fb1d4224",
@@ -103,27 +103,13 @@
       "province": "León",
       "region": "Castilla y León",
       "frp_max_mw": 210.7,
-      "pixel_area_ha": 1251.3,
+      "pixel_area_ha": 1363.8,
       "official_area_ha": 1156.0,
-      "detections": 215,
-      "last_utc": "2026-07-30T09:09:00Z",
+      "detections": 237,
+      "last_utc": "2026-07-30T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
-    },
-    {
-      "id": "c8760ad89381",
-      "ine": "13071",
-      "municipality": "Puertollano",
-      "province": "Ciudad Real",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 25.1,
-      "pixel_area_ha": 126.5,
-      "detections": 18,
-      "last_utc": "2026-07-30T03:04:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "puertollano"
     },
     {
       "id": "2bd557c2a53f",
@@ -133,8 +119,8 @@
       "region": "Región de Murcia",
       "frp_max_mw": 7.1,
       "pixel_area_ha": 112.5,
-      "detections": 21,
-      "last_utc": "2026-07-30T03:04:00Z",
+      "detections": 22,
+      "last_utc": "2026-07-30T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "la-union"
@@ -145,13 +131,27 @@
       "municipality": "Morata de Tajuña",
       "province": "Madrid",
       "region": "Comunidad de Madrid",
-      "frp_max_mw": 5.0,
+      "frp_max_mw": 7.5,
       "pixel_area_ha": 84.4,
-      "detections": 28,
-      "last_utc": "2026-07-30T03:02:00Z",
+      "detections": 30,
+      "last_utc": "2026-07-30T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "c2e9518bf4c4",
+      "ine": "22158",
+      "municipality": "Monzón",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 5.6,
+      "pixel_area_ha": 28.1,
+      "detections": 3,
+      "last_utc": "2026-07-30T13:40:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "monzon"
     }
   ]
 }
