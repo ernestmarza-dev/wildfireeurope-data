@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-07-30T18:48:17+00:00",
-  "last_sync_utc": "2026-07-30T16:43:36+00:00",
+  "generated_utc": "2026-07-30T20:14:54+00:00",
+  "last_sync_utc": "2026-07-30T20:04:18+00:00",
   "window_days": 400,
   "fires": {
-    "total": 170,
-    "active": 14,
-    "dying_down": 74,
+    "total": 176,
+    "active": 23,
+    "dying_down": 71,
     "out": 82
   },
   "classes": {
     "agricultural": 2,
-    "forest": 94,
-    "likely_agricultural": 69,
+    "forest": 97,
+    "likely_agricultural": 72,
     "mixed": 4,
     "urban": 1
   },
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6012,
-    "windy": 196,
-    "met": 25
+    "hot_dry": 6008,
+    "windy": 199,
+    "met": 61
   },
   "official": {
-    "active": 42,
-    "not_extinguished": 101,
+    "active": 55,
+    "not_extinguished": 116,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 24,
-        "total": 643,
-        "last_report_utc": "2026-07-28T19:00:00+00:00"
+        "active": 30,
+        "total": 659,
+        "last_report_utc": "2026-07-30T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 15,
-        "total": 63,
-        "last_report_utc": "2026-07-30T14:52:56+00:00"
+        "active": 21,
+        "total": 77,
+        "last_report_utc": "2026-07-30T20:04:21+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 3,
-        "total": 656,
-        "last_report_utc": "2026-07-30T13:49:00+00:00"
+        "active": 4,
+        "total": 657,
+        "last_report_utc": "2026-07-30T16:00:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,8 +63,8 @@
       }
     ]
   },
-  "burnt_ha_effis": 229120.0,
-  "detections": 3514,
+  "burnt_ha_effis": 228706.0,
+  "detections": 3571,
   "highlights": [
     {
       "id": "83519d15851e",
@@ -73,10 +73,10 @@
       "province": "Zamora",
       "region": "Castilla y León",
       "frp_max_mw": 37.7,
-      "pixel_area_ha": 98.4,
+      "pixel_area_ha": 182.8,
       "official_area_ha": 10225.0,
-      "detections": 9,
-      "last_utc": "2026-07-30T13:40:00Z",
+      "detections": 20,
+      "last_utc": "2026-07-30T15:24:00Z",
       "status": "active",
       "fire_class": "mixed",
       "slug": "fariza"
@@ -89,7 +89,7 @@
       "region": "Comunitat Valenciana",
       "frp_max_mw": 345.1,
       "pixel_area_ha": 2812.0,
-      "official_area_ha": 9155.0,
+      "official_area_ha": 8739.0,
       "detections": 709,
       "last_utc": "2026-07-30T09:09:00Z",
       "status": "active",
@@ -102,14 +102,29 @@
       "municipality": "Villafranca del Bierzo",
       "province": "León",
       "region": "Castilla y León",
-      "frp_max_mw": 210.7,
-      "pixel_area_ha": 1363.8,
+      "frp_max_mw": 501.0,
+      "pixel_area_ha": 1448.2,
       "official_area_ha": 1156.0,
-      "detections": 237,
-      "last_utc": "2026-07-30T13:40:00Z",
+      "detections": 259,
+      "last_utc": "2026-07-30T15:24:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
+    },
+    {
+      "id": "cfc77b45f3a0",
+      "ine": "49065",
+      "municipality": "Fermoselle",
+      "province": "Zamora",
+      "region": "Castilla y León",
+      "frp_max_mw": 1584.5,
+      "pixel_area_ha": 1771.6,
+      "official_area_ha": 944.0,
+      "detections": 243,
+      "last_utc": "2026-07-30T15:24:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "fermoselle"
     },
     {
       "id": "2bd557c2a53f",
@@ -138,20 +153,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "c2e9518bf4c4",
-      "ine": "22158",
-      "municipality": "Monzón",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 5.6,
-      "pixel_area_ha": 28.1,
-      "detections": 3,
-      "last_utc": "2026-07-30T13:40:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "monzon"
     }
   ]
 }
