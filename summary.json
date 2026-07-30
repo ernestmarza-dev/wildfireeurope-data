@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-07-30T20:24:48+00:00",
-  "last_sync_utc": "2026-07-30T20:22:23+00:00",
+  "generated_utc": "2026-07-30T22:18:02+00:00",
+  "last_sync_utc": "2026-07-30T22:15:37+00:00",
   "window_days": 400,
   "fires": {
-    "total": 176,
+    "total": 177,
     "active": 23,
-    "dying_down": 71,
-    "out": 82
+    "dying_down": 70,
+    "out": 84
   },
   "classes": {
     "agricultural": 2,
-    "forest": 97,
+    "forest": 98,
     "likely_agricultural": 72,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 37,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 36,
+  "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 6008,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 228706.0,
-  "detections": 3571,
+  "detections": 3573,
   "highlights": [
     {
       "id": "83519d15851e",
@@ -80,21 +80,6 @@
       "status": "active",
       "fire_class": "mixed",
       "slug": "fariza"
-    },
-    {
-      "id": "c0e2fb1d4224",
-      "ine": "12057",
-      "municipality": "Eslida",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 345.1,
-      "pixel_area_ha": 2812.0,
-      "official_area_ha": 8739.0,
-      "detections": 709,
-      "last_utc": "2026-07-30T09:09:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "eslida"
     },
     {
       "id": "dde2aad34346",
@@ -153,6 +138,21 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "845a30e873c3",
+      "ine": "24202",
+      "municipality": "Villablino",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 11.9,
+      "pixel_area_ha": 28.1,
+      "official_area_ha": 75.0,
+      "detections": 2,
+      "last_utc": "2026-07-30T14:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villablino"
     }
   ]
 }
