@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-07-31T04:40:58+00:00",
-  "last_sync_utc": "2026-07-31T04:03:55+00:00",
+  "generated_utc": "2026-07-31T08:09:20+00:00",
+  "last_sync_utc": "2026-07-31T08:06:53+00:00",
   "window_days": 400,
   "fires": {
-    "total": 177,
-    "active": 1,
+    "total": 179,
+    "active": 3,
     "dying_down": 52,
     "out": 124
   },
   "classes": {
     "agricultural": 2,
-    "forest": 98,
+    "forest": 100,
     "likely_agricultural": 72,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 10,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 12,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5007,
@@ -64,8 +64,37 @@
     ]
   },
   "burnt_ha_effis": 228706.0,
-  "detections": 3573,
+  "detections": 3577,
   "highlights": [
+    {
+      "id": "8059a5594a23",
+      "ine": "10183",
+      "municipality": "Tornavacas",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 245.2,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-07-31T04:59:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "tornavacas"
+    },
+    {
+      "id": "4e95b5f653a8",
+      "ine": "10183",
+      "municipality": "Tornavacas",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 508.1,
+      "pixel_area_ha": 28.1,
+      "official_area_ha": 21.0,
+      "detections": 2,
+      "last_utc": "2026-07-31T04:59:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "tornavacas"
+    },
     {
       "id": "dc9b9ff8f65d",
       "ine": "34139",
