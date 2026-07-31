@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-07-31T20:37:05+00:00",
-  "last_sync_utc": "2026-07-31T20:34:40+00:00",
+  "generated_utc": "2026-07-31T22:15:38+00:00",
+  "last_sync_utc": "2026-07-31T22:13:10+00:00",
   "window_days": 400,
   "fires": {
-    "total": 195,
-    "active": 17,
-    "dying_down": 34,
-    "out": 144
+    "total": 200,
+    "active": 19,
+    "dying_down": 36,
+    "out": 145
   },
   "classes": {
     "agricultural": 3,
-    "forest": 107,
+    "forest": 112,
     "likely_agricultural": 80,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 21,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 26,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4967,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231362.0,
-  "detections": 3828,
+  "detections": 3840,
   "highlights": [
     {
       "id": "dde2aad34346",
@@ -73,27 +73,13 @@
       "province": "León",
       "region": "Castilla y León",
       "frp_max_mw": 501.0,
-      "pixel_area_ha": 1701.3,
+      "pixel_area_ha": 1729.4,
       "official_area_ha": 1718.0,
-      "detections": 340,
-      "last_utc": "2026-07-31T16:03:00Z",
+      "detections": 343,
+      "last_utc": "2026-07-31T20:51:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
-    },
-    {
-      "id": "716c47ee8593",
-      "ine": "10183",
-      "municipality": "Tornavacas",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 508.1,
-      "pixel_area_ha": 351.5,
-      "detections": 36,
-      "last_utc": "2026-07-31T09:47:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "tornavacas"
     },
     {
       "id": "00a548f2dadc",
@@ -102,9 +88,9 @@
       "province": "Badajoz",
       "region": "Extremadura",
       "frp_max_mw": 135.4,
-      "pixel_area_ha": 281.2,
-      "detections": 24,
-      "last_utc": "2026-07-31T14:05:00Z",
+      "pixel_area_ha": 337.4,
+      "detections": 28,
+      "last_utc": "2026-07-31T20:51:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "herrera-del-duque"
@@ -122,6 +108,48 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "la-union"
+    },
+    {
+      "id": "8a6ab4302dfb",
+      "ine": "22243",
+      "municipality": "Valle de Bardají",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 28.9,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-07-31T20:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "valle-de-bardaji"
+    },
+    {
+      "id": "a2b8d98d5db3",
+      "ine": "22074",
+      "municipality": "Campo",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 22.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-07-31T20:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "campo"
+    },
+    {
+      "id": "56db10ca17e2",
+      "ine": "06063",
+      "municipality": "Herrera del Duque",
+      "province": "Badajoz",
+      "region": "Extremadura",
+      "frp_max_mw": 18.1,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-07-31T20:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "herrera-del-duque"
     }
   ]
 }
