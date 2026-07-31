@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-07-31T15:17:17+00:00",
-  "last_sync_utc": "2026-07-31T15:04:14+00:00",
+  "generated_utc": "2026-07-31T16:52:21+00:00",
+  "last_sync_utc": "2026-07-31T16:52:00+00:00",
   "window_days": 400,
   "fires": {
-    "total": 188,
+    "total": 190,
     "active": 12,
     "dying_down": 34,
-    "out": 142
+    "out": 144
   },
   "classes": {
     "agricultural": 3,
     "forest": 106,
-    "likely_agricultural": 74,
+    "likely_agricultural": 76,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 21,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 20,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4988,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231362.0,
-  "detections": 3761,
+  "detections": 3775,
   "highlights": [
     {
       "id": "dde2aad34346",
@@ -75,8 +75,8 @@
       "frp_max_mw": 501.0,
       "pixel_area_ha": 1687.2,
       "official_area_ha": 1718.0,
-      "detections": 322,
-      "last_utc": "2026-07-31T12:27:00Z",
+      "detections": 326,
+      "last_utc": "2026-07-31T13:23:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vega-de-espinareda"
@@ -96,46 +96,18 @@
       "slug": "tornavacas"
     },
     {
-      "id": "9279c67e0c34",
-      "ine": "24198",
-      "municipality": "Vega de Valcarce",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 48.7,
-      "pixel_area_ha": 98.4,
-      "detections": 11,
-      "last_utc": "2026-07-31T03:19:00Z",
+      "id": "2bd557c2a53f",
+      "ine": "30041",
+      "municipality": "La Unión",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 7.1,
+      "pixel_area_ha": 126.5,
+      "detections": 27,
+      "last_utc": "2026-07-31T13:21:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "vega-de-valcarce"
-    },
-    {
-      "id": "dc9b9ff8f65d",
-      "ine": "34139",
-      "municipality": "Prádanos de Ojeda",
-      "province": "Palencia",
-      "region": "Castilla y León",
-      "frp_max_mw": 5.8,
-      "pixel_area_ha": 42.2,
-      "detections": 6,
-      "last_utc": "2026-07-31T03:19:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "pradanos-de-ojeda"
-    },
-    {
-      "id": "c2e9518bf4c4",
-      "ine": "22158",
-      "municipality": "Monzón",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 5.6,
-      "pixel_area_ha": 42.2,
-      "detections": 5,
-      "last_utc": "2026-07-31T03:19:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "monzon"
+      "slug": "la-union"
     }
   ]
 }
