@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-07-31T08:09:20+00:00",
-  "last_sync_utc": "2026-07-31T08:06:53+00:00",
+  "generated_utc": "2026-07-31T09:38:55+00:00",
+  "last_sync_utc": "2026-07-31T09:26:03+00:00",
   "window_days": 400,
   "fires": {
-    "total": 179,
-    "active": 3,
-    "dying_down": 52,
+    "total": 177,
+    "active": 2,
+    "dying_down": 51,
     "out": 124
   },
   "classes": {
     "agricultural": 2,
-    "forest": 100,
-    "likely_agricultural": 72,
+    "forest": 99,
+    "likely_agricultural": 71,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 12,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 11,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5007,
-    "windy": 173,
+    "hot_dry": 4987,
+    "windy": 121,
     "met": 6
   },
   "official": {
-    "active": 45,
-    "not_extinguished": 106,
+    "active": 41,
+    "not_extinguished": 102,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 12,
-        "total": 79,
-        "last_report_utc": "2026-07-31T04:03:56+00:00"
+        "active": 9,
+        "total": 80,
+        "last_report_utc": "2026-07-31T09:26:05+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 3,
-        "total": 658,
-        "last_report_utc": "2026-07-30T23:14:00+00:00"
+        "active": 2,
+        "total": 659,
+        "last_report_utc": "2026-07-31T04:55:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 228706.0,
+  "burnt_ha_effis": 231859.0,
   "detections": 3577,
   "highlights": [
     {
@@ -94,20 +94,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "tornavacas"
-    },
-    {
-      "id": "dc9b9ff8f65d",
-      "ine": "34139",
-      "municipality": "Prádanos de Ojeda",
-      "province": "Palencia",
-      "region": "Castilla y León",
-      "frp_max_mw": 5.8,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-07-30T20:12:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "pradanos-de-ojeda"
     }
   ]
 }
