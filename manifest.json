@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-07-31T11:36:15+00:00",
+  "generated_utc": "2026-07-31T14:31:24+00:00",
   "files": {
     "fires.geojson": {
-      "bytes": 80871,
-      "sha": "cb9673e8b44d791d"
+      "bytes": 84814,
+      "sha": "f97311c736b15a12"
     },
     "fires-year.geojson": {
-      "bytes": 80871,
-      "sha": "cb9673e8b44d791d"
+      "bytes": 84814,
+      "sha": "f97311c736b15a12"
     },
     "detections.json": {
-      "bytes": 147785,
-      "sha": "8f818d38bb899fa6"
+      "bytes": 154883,
+      "sha": "4d2ef876149c088d"
     },
     "indicators.json": {
-      "bytes": 1051036,
-      "sha": "b73e46e9df1bff6e"
+      "bytes": 1049910,
+      "sha": "0a91c3bab844b73b"
     },
     "summary.json": {
-      "bytes": 2271,
-      "sha": "c7a190a716ff8b2b"
+      "bytes": 3852,
+      "sha": "b0769baca0c0117c"
     },
     "municipalities.geojson": {
       "bytes": 3087491,
