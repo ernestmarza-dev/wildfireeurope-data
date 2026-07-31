@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-07-31T00:15:05+00:00",
-  "last_sync_utc": "2026-07-31T00:12:41+00:00",
+  "generated_utc": "2026-07-31T04:14:11+00:00",
+  "last_sync_utc": "2026-07-31T04:03:55+00:00",
   "window_days": 400,
   "fires": {
     "total": 177,
-    "active": 19,
-    "dying_down": 73,
-    "out": 85
+    "active": 1,
+    "dying_down": 52,
+    "out": 124
   },
   "classes": {
     "agricultural": 2,
@@ -15,17 +15,17 @@
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 36,
-  "satellite_intense_24h": 8,
+  "satellite_hotspots_24h": 11,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5099,
-    "windy": 239,
-    "met": 8
+    "hot_dry": 5007,
+    "windy": 173,
+    "met": 6
   },
   "official": {
-    "active": 55,
-    "not_extinguished": 116,
+    "active": 45,
+    "not_extinguished": 106,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 21,
-        "total": 77,
-        "last_report_utc": "2026-07-30T20:04:21+00:00"
+        "active": 12,
+        "total": 79,
+        "last_report_utc": "2026-07-31T04:03:56+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 4,
-        "total": 657,
-        "last_report_utc": "2026-07-30T16:00:00+00:00"
+        "active": 3,
+        "total": 658,
+        "last_report_utc": "2026-07-30T23:14:00+00:00"
       },
       {
         "source": "bombers",
@@ -67,92 +67,18 @@
   "detections": 3573,
   "highlights": [
     {
-      "id": "83519d15851e",
-      "ine": "49064",
-      "municipality": "Fariza",
-      "province": "Zamora",
+      "id": "dc9b9ff8f65d",
+      "ine": "34139",
+      "municipality": "Prádanos de Ojeda",
+      "province": "Palencia",
       "region": "Castilla y León",
-      "frp_max_mw": 37.7,
-      "pixel_area_ha": 182.8,
-      "official_area_ha": 10225.0,
-      "detections": 20,
-      "last_utc": "2026-07-30T15:24:00Z",
-      "status": "active",
-      "fire_class": "mixed",
-      "slug": "fariza"
-    },
-    {
-      "id": "dde2aad34346",
-      "ine": "24209",
-      "municipality": "Villafranca del Bierzo",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 501.0,
-      "pixel_area_ha": 1448.2,
-      "official_area_ha": 1156.0,
-      "detections": 259,
-      "last_utc": "2026-07-30T15:24:00Z",
+      "frp_max_mw": 5.8,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-07-30T20:12:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villafranca-del-bierzo"
-    },
-    {
-      "id": "cfc77b45f3a0",
-      "ine": "49065",
-      "municipality": "Fermoselle",
-      "province": "Zamora",
-      "region": "Castilla y León",
-      "frp_max_mw": 1584.5,
-      "pixel_area_ha": 1771.6,
-      "official_area_ha": 944.0,
-      "detections": 243,
-      "last_utc": "2026-07-30T15:24:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "fermoselle"
-    },
-    {
-      "id": "2bd557c2a53f",
-      "ine": "30041",
-      "municipality": "La Unión",
-      "province": "Murcia",
-      "region": "Región de Murcia",
-      "frp_max_mw": 7.1,
-      "pixel_area_ha": 112.5,
-      "detections": 22,
-      "last_utc": "2026-07-30T13:40:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "la-union"
-    },
-    {
-      "id": "789c54fe1c08",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 84.4,
-      "detections": 30,
-      "last_utc": "2026-07-30T13:40:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "845a30e873c3",
-      "ine": "24202",
-      "municipality": "Villablino",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 11.9,
-      "pixel_area_ha": 28.1,
-      "official_area_ha": 75.0,
-      "detections": 2,
-      "last_utc": "2026-07-30T14:27:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villablino"
+      "slug": "pradanos-de-ojeda"
     }
   ]
 }
