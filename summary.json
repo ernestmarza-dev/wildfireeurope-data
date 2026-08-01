@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-01T04:31:17+00:00",
-  "last_sync_utc": "2026-08-01T04:28:49+00:00",
+  "generated_utc": "2026-08-01T07:37:53+00:00",
+  "last_sync_utc": "2026-08-01T07:35:26+00:00",
   "window_days": 400,
   "fires": {
-    "total": 200,
-    "active": 7,
-    "dying_down": 33,
+    "total": 212,
+    "active": 25,
+    "dying_down": 27,
     "out": 160
   },
   "classes": {
     "agricultural": 3,
-    "forest": 112,
+    "forest": 124,
     "likely_agricultural": 80,
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 9,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 26,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5184,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231362.0,
-  "detections": 3840,
+  "detections": 3929,
   "highlights": [
     {
       "id": "dde2aad34346",
@@ -75,8 +75,8 @@
       "frp_max_mw": 501.0,
       "pixel_area_ha": 1729.4,
       "official_area_ha": 1718.0,
-      "detections": 343,
-      "last_utc": "2026-07-31T20:51:00Z",
+      "detections": 349,
+      "last_utc": "2026-08-01T03:00:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
@@ -89,8 +89,8 @@
       "region": "Extremadura",
       "frp_max_mw": 135.4,
       "pixel_area_ha": 337.4,
-      "detections": 28,
-      "last_utc": "2026-07-31T20:51:00Z",
+      "detections": 29,
+      "last_utc": "2026-08-01T02:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "herrera-del-duque"
@@ -102,54 +102,54 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 28.9,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-07-31T20:51:00Z",
+      "pixel_area_ha": 196.8,
+      "detections": 22,
+      "last_utc": "2026-08-01T03:00:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "valle-de-bardaji"
     },
     {
-      "id": "a2b8d98d5db3",
-      "ine": "22074",
-      "municipality": "Campo",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 22.6,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-07-31T20:51:00Z",
+      "id": "2bd557c2a53f",
+      "ine": "30041",
+      "municipality": "La Unión",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 7.1,
+      "pixel_area_ha": 126.5,
+      "detections": 32,
+      "last_utc": "2026-08-01T03:02:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "campo"
+      "slug": "la-union"
     },
     {
-      "id": "56db10ca17e2",
-      "ine": "06063",
-      "municipality": "Herrera del Duque",
-      "province": "Badajoz",
-      "region": "Extremadura",
-      "frp_max_mw": 18.1,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-07-31T20:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "herrera-del-duque"
-    },
-    {
-      "id": "9ff06cd02a7b",
+      "id": "1e08b51a804d",
       "ine": "24175",
       "municipality": "Valdefresno",
       "province": "León",
       "region": "Castilla y León",
       "frp_max_mw": 9.6,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-07-31T20:51:00Z",
+      "pixel_area_ha": 56.2,
+      "detections": 5,
+      "last_utc": "2026-08-01T03:00:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "valdefresno"
+    },
+    {
+      "id": "e8b0c760a01d",
+      "ine": "06039",
+      "municipality": "La Coronada",
+      "province": "Badajoz",
+      "region": "Extremadura",
+      "frp_max_mw": 2.6,
+      "pixel_area_ha": 56.2,
+      "detections": 4,
+      "last_utc": "2026-08-01T02:26:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "la-coronada"
     }
   ]
 }
