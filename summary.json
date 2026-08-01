@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-01T00:11:59+00:00",
-  "last_sync_utc": "2026-08-01T00:09:33+00:00",
+  "generated_utc": "2026-08-01T04:16:11+00:00",
+  "last_sync_utc": "2026-08-01T04:03:11+00:00",
   "window_days": 400,
   "fires": {
     "total": 200,
-    "active": 19,
-    "dying_down": 32,
-    "out": 149
+    "active": 7,
+    "dying_down": 33,
+    "out": 160
   },
   "classes": {
     "agricultural": 3,
@@ -15,17 +15,17 @@
     "mixed": 4,
     "urban": 1
   },
-  "satellite_hotspots_24h": 26,
-  "satellite_intense_24h": 9,
+  "satellite_hotspots_24h": 9,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5178,
-    "windy": 204,
-    "met": 116
+    "hot_dry": 5184,
+    "windy": 180,
+    "met": 95
   },
   "official": {
-    "active": 43,
-    "not_extinguished": 108,
+    "active": 38,
+    "not_extinguished": 103,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 15,
-        "total": 96,
-        "last_report_utc": "2026-07-31T20:06:01+00:00"
+        "active": 10,
+        "total": 98,
+        "last_report_utc": "2026-08-01T04:03:13+00:00"
       },
       {
         "source": "infoca",
@@ -96,20 +96,6 @@
       "slug": "herrera-del-duque"
     },
     {
-      "id": "2bd557c2a53f",
-      "ine": "30041",
-      "municipality": "La Unión",
-      "province": "Murcia",
-      "region": "Región de Murcia",
-      "frp_max_mw": 7.1,
-      "pixel_area_ha": 126.5,
-      "detections": 28,
-      "last_utc": "2026-07-31T14:05:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "la-union"
-    },
-    {
       "id": "8a6ab4302dfb",
       "ine": "22243",
       "municipality": "Valle de Bardají",
@@ -150,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "herrera-del-duque"
+    },
+    {
+      "id": "9ff06cd02a7b",
+      "ine": "24175",
+      "municipality": "Valdefresno",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 9.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-07-31T20:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "valdefresno"
     }
   ]
 }
