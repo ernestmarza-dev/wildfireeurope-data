@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-01T14:21:32+00:00",
-  "last_sync_utc": "2026-08-01T14:08:33+00:00",
+  "generated_utc": "2026-08-01T14:41:29+00:00",
+  "last_sync_utc": "2026-08-01T14:39:03+00:00",
   "window_days": 400,
   "fires": {
     "total": 212,
-    "active": 18,
-    "dying_down": 30,
+    "active": 9,
+    "dying_down": 39,
     "out": 164
   },
   "classes": {
@@ -82,20 +82,6 @@
       "slug": "villafranca-del-bierzo"
     },
     {
-      "id": "00a548f2dadc",
-      "ine": "06063",
-      "municipality": "Herrera del Duque",
-      "province": "Badajoz",
-      "region": "Extremadura",
-      "frp_max_mw": 135.4,
-      "pixel_area_ha": 337.4,
-      "detections": 29,
-      "last_utc": "2026-08-01T02:26:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "herrera-del-duque"
-    },
-    {
       "id": "8a6ab4302dfb",
       "ine": "22243",
       "municipality": "Valle de Bardají",
@@ -138,18 +124,32 @@
       "slug": "valdefresno"
     },
     {
-      "id": "e8b0c760a01d",
-      "ine": "06039",
-      "municipality": "La Coronada",
-      "province": "Badajoz",
-      "region": "Extremadura",
-      "frp_max_mw": 2.6,
+      "id": "e983a788c136",
+      "ine": "25057",
+      "municipality": "Es Bòrdes",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 1.6,
       "pixel_area_ha": 56.2,
-      "detections": 4,
-      "last_utc": "2026-08-01T02:26:00Z",
+      "detections": 6,
+      "last_utc": "2026-08-01T03:00:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "la-coronada"
+      "slug": "es-bordes"
+    },
+    {
+      "id": "598b84526334",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 3.8,
+      "pixel_area_ha": 42.2,
+      "detections": 7,
+      "last_utc": "2026-08-01T03:19:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
     }
   ]
 }
