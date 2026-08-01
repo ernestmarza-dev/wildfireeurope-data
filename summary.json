@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-01T07:37:53+00:00",
-  "last_sync_utc": "2026-08-01T07:35:26+00:00",
+  "generated_utc": "2026-08-01T09:12:45+00:00",
+  "last_sync_utc": "2026-08-01T08:54:55+00:00",
   "window_days": 400,
   "fires": {
     "total": 212,
-    "active": 25,
-    "dying_down": 27,
+    "active": 24,
+    "dying_down": 28,
     "out": 160
   },
   "classes": {
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5184,
-    "windy": 180,
-    "met": 95
+    "hot_dry": 5215,
+    "windy": 153,
+    "met": 60
   },
   "official": {
     "active": 38,
-    "not_extinguished": 103,
+    "not_extinguished": 104,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -44,15 +44,15 @@
         "source": "112cv",
         "region": "Comunitat Valenciana",
         "active": 10,
-        "total": 98,
-        "last_report_utc": "2026-08-01T04:03:13+00:00"
+        "total": 102,
+        "last_report_utc": "2026-08-01T08:54:57+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 2,
-        "total": 662,
-        "last_report_utc": "2026-07-31T16:47:00+00:00"
+        "total": 663,
+        "last_report_utc": "2026-07-31T20:35:00+00:00"
       },
       {
         "source": "bombers",
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231362.0,
-  "detections": 3929,
+  "detections": 3934,
   "highlights": [
     {
       "id": "dde2aad34346",
@@ -75,8 +75,8 @@
       "frp_max_mw": 501.0,
       "pixel_area_ha": 1729.4,
       "official_area_ha": 1718.0,
-      "detections": 349,
-      "last_utc": "2026-08-01T03:00:00Z",
+      "detections": 351,
+      "last_utc": "2026-08-01T03:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villafranca-del-bierzo"
@@ -103,8 +103,8 @@
       "region": "Aragón",
       "frp_max_mw": 28.9,
       "pixel_area_ha": 196.8,
-      "detections": 22,
-      "last_utc": "2026-08-01T03:00:00Z",
+      "detections": 23,
+      "last_utc": "2026-08-01T04:00:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "valle-de-bardaji"
