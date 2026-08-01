@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-01T20:16:31+00:00",
-  "last_sync_utc": "2026-08-01T20:14:03+00:00",
+  "generated_utc": "2026-08-01T22:08:01+00:00",
+  "last_sync_utc": "2026-08-01T22:05:32+00:00",
   "window_days": 400,
   "fires": {
-    "total": 231,
-    "active": 23,
-    "dying_down": 36,
-    "out": 172
+    "total": 236,
+    "active": 29,
+    "dying_down": 32,
+    "out": 175
   },
   "classes": {
     "agricultural": 3,
-    "forest": 127,
+    "forest": 132,
     "likely_agricultural": 95,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 30,
-  "satellite_intense_24h": 8,
+  "satellite_hotspots_24h": 34,
+  "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5175,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4082,
+  "detections": 4090,
   "highlights": [
     {
       "id": "869c8a53aa81",
@@ -103,9 +103,9 @@
       "province": "Cáceres",
       "region": "Extremadura",
       "frp_max_mw": 1657.1,
-      "pixel_area_ha": 506.2,
-      "detections": 65,
-      "last_utc": "2026-08-01T15:01:00Z",
+      "pixel_area_ha": 520.2,
+      "detections": 67,
+      "last_utc": "2026-08-01T19:51:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "canaveral"
