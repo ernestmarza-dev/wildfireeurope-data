@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-01T16:12:23+00:00",
-  "last_sync_utc": "2026-08-01T16:09:54+00:00",
+  "generated_utc": "2026-08-01T18:09:49+00:00",
+  "last_sync_utc": "2026-08-01T18:07:21+00:00",
   "window_days": 400,
   "fires": {
     "total": 231,
-    "active": 21,
-    "dying_down": 37,
-    "out": 173
+    "active": 23,
+    "dying_down": 36,
+    "out": 172
   },
   "classes": {
     "agricultural": 3,
@@ -15,8 +15,8 @@
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 30,
+  "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5143,
@@ -64,8 +64,52 @@
     ]
   },
   "burnt_ha_effis": 231362.0,
-  "detections": 3987,
+  "detections": 4082,
   "highlights": [
+    {
+      "id": "869c8a53aa81",
+      "ine": "19226",
+      "municipality": "Prádena de Atienza",
+      "province": "Guadalajara",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 20.8,
+      "pixel_area_ha": 42.2,
+      "official_area_ha": 33022.0,
+      "detections": 3,
+      "last_utc": "2026-08-01T15:01:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "pradena-de-atienza"
+    },
+    {
+      "id": "dde2aad34346",
+      "ine": "24209",
+      "municipality": "Villafranca del Bierzo",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 501.0,
+      "pixel_area_ha": 1729.4,
+      "official_area_ha": 1718.0,
+      "detections": 354,
+      "last_utc": "2026-08-01T14:25:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villafranca-del-bierzo"
+    },
+    {
+      "id": "7851706e4730",
+      "ine": "10045",
+      "municipality": "Cañaveral",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 1657.1,
+      "pixel_area_ha": 506.2,
+      "detections": 65,
+      "last_utc": "2026-08-01T15:01:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "canaveral"
+    },
     {
       "id": "c35f7e2be4d9",
       "ine": "21046",
@@ -73,9 +117,9 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 41.5,
-      "pixel_area_ha": 42.2,
+      "pixel_area_ha": 70.3,
       "official_area_ha": 231.0,
-      "detections": 3,
+      "detections": 5,
       "last_utc": "2026-08-01T15:01:00Z",
       "status": "active",
       "fire_class": "mixed",
@@ -96,60 +140,18 @@
       "slug": "valle-de-bardaji"
     },
     {
-      "id": "7851706e4730",
-      "ine": "10045",
-      "municipality": "Cañaveral",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 914.9,
-      "pixel_area_ha": 70.3,
-      "detections": 5,
+      "id": "b6e47cd7fdb1",
+      "ine": "36034",
+      "municipality": "As Neves",
+      "province": "Pontevedra",
+      "region": "Galicia",
+      "frp_max_mw": 161.3,
+      "pixel_area_ha": 126.5,
+      "detections": 12,
       "last_utc": "2026-08-01T15:01:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "canaveral"
-    },
-    {
-      "id": "a07f79d2ce40",
-      "ine": "10045",
-      "municipality": "Cañaveral",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 1657.1,
-      "pixel_area_ha": 56.2,
-      "detections": 4,
-      "last_utc": "2026-08-01T15:01:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "canaveral"
-    },
-    {
-      "id": "598b84526334",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 3.8,
-      "pixel_area_ha": 42.2,
-      "detections": 8,
-      "last_utc": "2026-08-01T12:44:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "bc60af4c86c7",
-      "ine": "12082",
-      "municipality": "Nules",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 1.0,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-01T13:01:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "nules"
+      "slug": "as-neves"
     }
   ]
 }
