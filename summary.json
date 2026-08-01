@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-01T18:09:49+00:00",
+  "generated_utc": "2026-08-01T20:06:32+00:00",
   "last_sync_utc": "2026-08-01T18:07:21+00:00",
   "window_days": 400,
   "fires": {
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5143,
-    "windy": 129,
-    "met": 50
+    "hot_dry": 5175,
+    "windy": 119,
+    "met": 30
   },
   "official": {
-    "active": 42,
-    "not_extinguished": 105,
+    "active": 52,
+    "not_extinguished": 118,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -37,22 +37,22 @@
         "source": "jcyl",
         "region": "Castilla y León",
         "active": 27,
-        "total": 673,
-        "last_report_utc": "2026-07-31T19:00:00+00:00"
+        "total": 675,
+        "last_report_utc": "2026-08-01T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 12,
-        "total": 108,
-        "last_report_utc": "2026-08-01T14:08:34+00:00"
+        "active": 22,
+        "total": 124,
+        "last_report_utc": "2026-08-01T19:53:23+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 3,
-        "total": 666,
-        "last_report_utc": "2026-08-01T11:05:00+00:00"
+        "total": 670,
+        "last_report_utc": "2026-08-01T14:45:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 231362.0,
+  "burnt_ha_effis": 231425.0,
   "detections": 4082,
   "highlights": [
     {
@@ -126,20 +126,6 @@
       "slug": "lucena-del-puerto"
     },
     {
-      "id": "8a6ab4302dfb",
-      "ine": "22243",
-      "municipality": "Valle de Bardají",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 28.9,
-      "pixel_area_ha": 210.9,
-      "detections": 32,
-      "last_utc": "2026-08-01T13:01:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "valle-de-bardaji"
-    },
-    {
       "id": "b6e47cd7fdb1",
       "ine": "36034",
       "municipality": "As Neves",
@@ -152,6 +138,21 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "as-neves"
+    },
+    {
+      "id": "8a6ab4302dfb",
+      "ine": "22243",
+      "municipality": "Valle de Bardají",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 28.9,
+      "pixel_area_ha": 210.9,
+      "official_area_ha": 63.0,
+      "detections": 32,
+      "last_utc": "2026-08-01T13:01:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "valle-de-bardaji"
     }
   ]
 }
