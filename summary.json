@@ -1,21 +1,22 @@
 {
-  "generated_utc": "2026-08-02T10:14:02+00:00",
-  "last_sync_utc": "2026-08-02T04:07:05+00:00",
+  "generated_utc": "2026-08-02T12:13:34+00:00",
+  "last_sync_utc": "2026-08-02T12:11:06+00:00",
   "window_days": 400,
   "fires": {
-    "total": 237,
-    "dying_down": 50,
+    "total": 244,
+    "active": 22,
+    "dying_down": 35,
     "out": 187
   },
   "classes": {
     "agricultural": 3,
-    "forest": 133,
-    "likely_agricultural": 95,
+    "forest": 139,
+    "likely_agricultural": 96,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 15,
-  "satellite_intense_24h": 11,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5415,
@@ -63,6 +64,92 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4098,
-  "highlights": []
+  "detections": 4250,
+  "highlights": [
+    {
+      "id": "7851706e4730",
+      "ine": "10056",
+      "municipality": "Casas de Millán",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 1657.1,
+      "pixel_area_ha": 731.1,
+      "detections": 101,
+      "last_utc": "2026-08-02T03:02:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "casas-de-millan"
+    },
+    {
+      "id": "1dbaf10dfb1a",
+      "ine": "10123",
+      "municipality": "Mirabel",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 2264.7,
+      "pixel_area_ha": 520.2,
+      "official_area_ha": 184.0,
+      "detections": 67,
+      "last_utc": "2026-08-02T04:36:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "mirabel"
+    },
+    {
+      "id": "fc99f8f7afb0",
+      "ine": "25245",
+      "municipality": "Vilaller",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 8.3,
+      "pixel_area_ha": 140.6,
+      "detections": 21,
+      "last_utc": "2026-08-02T03:00:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vilaller"
+    },
+    {
+      "id": "2bd557c2a53f",
+      "ine": "30041",
+      "municipality": "La Unión",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 7.1,
+      "pixel_area_ha": 126.5,
+      "detections": 36,
+      "last_utc": "2026-08-02T02:09:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "la-union"
+    },
+    {
+      "id": "598b84526334",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 4.0,
+      "pixel_area_ha": 70.3,
+      "detections": 16,
+      "last_utc": "2026-08-02T03:02:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "e983a788c136",
+      "ine": "25243",
+      "municipality": "Vielha e Mijaran",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 2.8,
+      "pixel_area_ha": 70.3,
+      "detections": 10,
+      "last_utc": "2026-08-02T03:00:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vielha-e-mijaran"
+    }
+  ]
 }
