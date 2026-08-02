@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-02T00:09:16+00:00",
-  "last_sync_utc": "2026-08-02T00:06:46+00:00",
+  "generated_utc": "2026-08-02T04:20:13+00:00",
+  "last_sync_utc": "2026-08-02T04:07:05+00:00",
   "window_days": 400,
   "fires": {
     "total": 237,
-    "active": 30,
-    "dying_down": 32,
-    "out": 175
+    "active": 8,
+    "dying_down": 43,
+    "out": 186
   },
   "classes": {
     "agricultural": 3,
@@ -15,17 +15,17 @@
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 35,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 15,
+  "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5469,
-    "windy": 119,
-    "met": 2
+    "hot_dry": 5450,
+    "windy": 93,
+    "met": 12
   },
   "official": {
-    "active": 52,
-    "not_extinguished": 118,
+    "active": 37,
+    "not_extinguished": 100,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 22,
+        "active": 7,
         "total": 124,
-        "last_report_utc": "2026-08-01T19:53:23+00:00"
+        "last_report_utc": "2026-08-02T04:07:10+00:00"
       },
       {
         "source": "infoca",
@@ -67,36 +67,6 @@
   "detections": 4098,
   "highlights": [
     {
-      "id": "869c8a53aa81",
-      "ine": "19226",
-      "municipality": "Prádena de Atienza",
-      "province": "Guadalajara",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 20.8,
-      "pixel_area_ha": 42.2,
-      "official_area_ha": 33022.0,
-      "detections": 3,
-      "last_utc": "2026-08-01T15:01:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "pradena-de-atienza"
-    },
-    {
-      "id": "dde2aad34346",
-      "ine": "24209",
-      "municipality": "Villafranca del Bierzo",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 501.0,
-      "pixel_area_ha": 1729.4,
-      "official_area_ha": 1718.0,
-      "detections": 354,
-      "last_utc": "2026-08-01T14:25:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villafranca-del-bierzo"
-    },
-    {
       "id": "7851706e4730",
       "ine": "10099",
       "municipality": "Holguera",
@@ -111,48 +81,74 @@
       "slug": "holguera"
     },
     {
-      "id": "c35f7e2be4d9",
-      "ine": "21046",
-      "municipality": "Lucena del Puerto",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 41.5,
-      "pixel_area_ha": 70.3,
-      "official_area_ha": 231.0,
-      "detections": 5,
-      "last_utc": "2026-08-01T15:01:00Z",
-      "status": "active",
-      "fire_class": "mixed",
-      "slug": "lucena-del-puerto"
-    },
-    {
-      "id": "b6e47cd7fdb1",
-      "ine": "36034",
-      "municipality": "As Neves",
-      "province": "Pontevedra",
-      "region": "Galicia",
-      "frp_max_mw": 161.3,
-      "pixel_area_ha": 126.5,
-      "detections": 12,
-      "last_utc": "2026-08-01T15:01:00Z",
+      "id": "fc99f8f7afb0",
+      "ine": "25245",
+      "municipality": "Vilaller",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 6.7,
+      "pixel_area_ha": 42.2,
+      "detections": 6,
+      "last_utc": "2026-08-01T19:51:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "as-neves"
+      "slug": "vilaller"
     },
     {
-      "id": "8a6ab4302dfb",
-      "ine": "22243",
-      "municipality": "Valle de Bardají",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 28.9,
-      "pixel_area_ha": 210.9,
-      "official_area_ha": 63.0,
-      "detections": 32,
-      "last_utc": "2026-08-01T13:01:00Z",
+      "id": "9c949c3f607b",
+      "ine": "10056",
+      "municipality": "Casas de Millán",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 1667.2,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-01T21:29:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "valle-de-bardaji"
+      "slug": "casas-de-millan"
+    },
+    {
+      "id": "1dbaf10dfb1a",
+      "ine": "10123",
+      "municipality": "Mirabel",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 873.1,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-01T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "mirabel"
+    },
+    {
+      "id": "607bdf5a9324",
+      "ine": "10123",
+      "municipality": "Mirabel",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 2264.7,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-01T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "mirabel"
+    },
+    {
+      "id": "9c7ca8d475dd",
+      "ine": "10099",
+      "municipality": "Holguera",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 63.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-01T19:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "holguera"
     }
   ]
 }
