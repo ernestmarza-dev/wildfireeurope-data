@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-02T07:47:20+00:00",
+  "generated_utc": "2026-08-02T09:11:54+00:00",
   "last_sync_utc": "2026-08-02T04:07:05+00:00",
   "window_days": 400,
   "fires": {
     "total": 237,
-    "active": 8,
-    "dying_down": 43,
-    "out": 186
+    "active": 4,
+    "dying_down": 46,
+    "out": 187
   },
   "classes": {
     "agricultural": 3,
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5450,
-    "windy": 93,
+    "hot_dry": 5415,
+    "windy": 108,
     "met": 12
   },
   "official": {
-    "active": 37,
-    "not_extinguished": 100,
+    "active": 39,
+    "not_extinguished": 102,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 7,
-        "total": 124,
-        "last_report_utc": "2026-08-02T04:07:10+00:00"
+        "active": 9,
+        "total": 127,
+        "last_report_utc": "2026-08-02T09:03:03+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 3,
-        "total": 670,
-        "last_report_utc": "2026-08-01T14:45:00+00:00"
+        "total": 671,
+        "last_report_utc": "2026-08-02T06:35:00+00:00"
       },
       {
         "source": "bombers",
@@ -79,20 +79,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "holguera"
-    },
-    {
-      "id": "fc99f8f7afb0",
-      "ine": "25245",
-      "municipality": "Vilaller",
-      "province": "Lleida",
-      "region": "Cataluña",
-      "frp_max_mw": 6.7,
-      "pixel_area_ha": 42.2,
-      "detections": 6,
-      "last_utc": "2026-08-01T19:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vilaller"
     },
     {
       "id": "9c949c3f607b",
@@ -135,20 +121,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "mirabel"
-    },
-    {
-      "id": "9c7ca8d475dd",
-      "ine": "10099",
-      "municipality": "Holguera",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 63.6,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-01T19:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "holguera"
     }
   ]
 }
