@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-02T22:13:16+00:00",
-  "last_sync_utc": "2026-08-02T20:15:30+00:00",
+  "generated_utc": "2026-08-02T23:10:28+00:00",
+  "last_sync_utc": "2026-08-02T23:07:58+00:00",
   "window_days": 400,
   "fires": {
-    "total": 262,
-    "active": 22,
+    "total": 265,
+    "active": 25,
     "dying_down": 41,
     "out": 199
   },
   "classes": {
     "agricultural": 3,
-    "forest": 142,
+    "forest": 145,
     "likely_agricultural": 111,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 23,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 26,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5579,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4309,
+  "detections": 4312,
   "highlights": [
     {
       "id": "869c8a53aa81",
@@ -136,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "moixent-mogente"
+    },
+    {
+      "id": "cbf20cd67856",
+      "ine": "11004",
+      "municipality": "Algeciras",
+      "province": "Cádiz",
+      "region": "Andalucía",
+      "frp_max_mw": 100.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-02T20:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "algeciras"
     }
   ]
 }
