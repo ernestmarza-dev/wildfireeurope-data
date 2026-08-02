@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-02T20:18:00+00:00",
+  "generated_utc": "2026-08-02T22:13:16+00:00",
   "last_sync_utc": "2026-08-02T20:15:30+00:00",
   "window_days": 400,
   "fires": {
     "total": 262,
-    "active": 24,
-    "dying_down": 39,
+    "active": 22,
+    "dying_down": 41,
     "out": 199
   },
   "classes": {
@@ -136,20 +136,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "moixent-mogente"
-    },
-    {
-      "id": "c32e489f56ed",
-      "ine": "12135",
-      "municipality": "Vila-real",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 16.4,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-02T09:26:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vila-real"
     }
   ]
 }
