@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-02T12:13:34+00:00",
-  "last_sync_utc": "2026-08-02T12:11:06+00:00",
+  "generated_utc": "2026-08-02T14:24:18+00:00",
+  "last_sync_utc": "2026-08-02T14:10:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 244,
-    "active": 22,
-    "dying_down": 35,
-    "out": 187
+    "active": 15,
+    "dying_down": 36,
+    "out": 193
   },
   "classes": {
     "agricultural": 3,
-    "forest": 139,
-    "likely_agricultural": 96,
+    "forest": 141,
+    "likely_agricultural": 94,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 27,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5415,
-    "windy": 108,
+    "hot_dry": 5502,
+    "windy": 97,
     "met": 12
   },
   "official": {
-    "active": 39,
-    "not_extinguished": 102,
+    "active": 46,
+    "not_extinguished": 107,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 27,
-        "total": 675,
-        "last_report_utc": "2026-08-01T10:00:00+00:00"
+        "active": 29,
+        "total": 685,
+        "last_report_utc": "2026-08-01T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 9,
-        "total": 127,
-        "last_report_utc": "2026-08-02T09:03:03+00:00"
+        "active": 12,
+        "total": 132,
+        "last_report_utc": "2026-08-02T14:10:49+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 3,
-        "total": 671,
-        "last_report_utc": "2026-08-02T06:35:00+00:00"
+        "active": 5,
+        "total": 677,
+        "last_report_utc": "2026-08-02T12:31:00+00:00"
       },
       {
         "source": "bombers",
@@ -110,20 +110,6 @@
       "slug": "vilaller"
     },
     {
-      "id": "2bd557c2a53f",
-      "ine": "30041",
-      "municipality": "La Unión",
-      "province": "Murcia",
-      "region": "Región de Murcia",
-      "frp_max_mw": 7.1,
-      "pixel_area_ha": 126.5,
-      "detections": 36,
-      "last_utc": "2026-08-02T02:09:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "la-union"
-    },
-    {
       "id": "598b84526334",
       "ine": "28091",
       "municipality": "Morata de Tajuña",
@@ -150,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "vielha-e-mijaran"
+    },
+    {
+      "id": "defdd2422788",
+      "ine": "24206",
+      "municipality": "Toral de los Vados",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 1.4,
+      "pixel_area_ha": 70.3,
+      "detections": 15,
+      "last_utc": "2026-08-02T02:41:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "toral-de-los-vados"
     }
   ]
 }
