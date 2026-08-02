@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-08-01T22:08:01+00:00",
-  "last_sync_utc": "2026-08-01T22:05:32+00:00",
+  "generated_utc": "2026-08-02T00:09:16+00:00",
+  "last_sync_utc": "2026-08-02T00:06:46+00:00",
   "window_days": 400,
   "fires": {
-    "total": 236,
-    "active": 29,
+    "total": 237,
+    "active": 30,
     "dying_down": 32,
     "out": 175
   },
   "classes": {
     "agricultural": 3,
-    "forest": 132,
+    "forest": 133,
     "likely_agricultural": 95,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 34,
-  "satellite_intense_24h": 11,
+  "satellite_hotspots_24h": 35,
+  "satellite_intense_24h": 12,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5175,
+    "hot_dry": 5469,
     "windy": 119,
-    "met": 30
+    "met": 2
   },
   "official": {
     "active": 52,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4090,
+  "detections": 4098,
   "highlights": [
     {
       "id": "869c8a53aa81",
@@ -98,17 +98,17 @@
     },
     {
       "id": "7851706e4730",
-      "ine": "10045",
-      "municipality": "Cañaveral",
+      "ine": "10099",
+      "municipality": "Holguera",
       "province": "Cáceres",
       "region": "Extremadura",
       "frp_max_mw": 1657.1,
-      "pixel_area_ha": 520.2,
-      "detections": 67,
-      "last_utc": "2026-08-01T19:51:00Z",
+      "pixel_area_ha": 590.5,
+      "detections": 72,
+      "last_utc": "2026-08-01T21:29:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "canaveral"
+      "slug": "holguera"
     },
     {
       "id": "c35f7e2be4d9",
