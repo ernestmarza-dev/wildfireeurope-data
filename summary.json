@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-02T16:12:20+00:00",
-  "last_sync_utc": "2026-08-02T16:09:50+00:00",
+  "generated_utc": "2026-08-02T18:10:18+00:00",
+  "last_sync_utc": "2026-08-02T18:07:47+00:00",
   "window_days": 400,
   "fires": {
-    "total": 258,
-    "active": 21,
-    "dying_down": 38,
+    "total": 262,
+    "active": 24,
+    "dying_down": 39,
     "out": 199
   },
   "classes": {
     "agricultural": 3,
     "forest": 142,
-    "likely_agricultural": 107,
+    "likely_agricultural": 111,
     "mixed": 5,
     "urban": 1
   },
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4304,
+  "detections": 4309,
   "highlights": [
     {
       "id": "869c8a53aa81",
@@ -80,21 +80,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "pradena-de-atienza"
-    },
-    {
-      "id": "1dbaf10dfb1a",
-      "ine": "10123",
-      "municipality": "Mirabel",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 2264.7,
-      "pixel_area_ha": 520.2,
-      "official_area_ha": 184.0,
-      "detections": 67,
-      "last_utc": "2026-08-02T04:36:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "mirabel"
     },
     {
       "id": "fc99f8f7afb0",
@@ -151,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "moixent-mogente"
+    },
+    {
+      "id": "c32e489f56ed",
+      "ine": "12135",
+      "municipality": "Vila-real",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 16.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-02T09:26:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vila-real"
     }
   ]
 }
