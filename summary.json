@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-02T14:50:02+00:00",
-  "last_sync_utc": "2026-08-02T14:10:46+00:00",
+  "generated_utc": "2026-08-02T16:12:20+00:00",
+  "last_sync_utc": "2026-08-02T16:09:50+00:00",
   "window_days": 400,
   "fires": {
-    "total": 244,
-    "active": 11,
-    "dying_down": 35,
-    "out": 198
+    "total": 258,
+    "active": 21,
+    "dying_down": 38,
+    "out": 199
   },
   "classes": {
     "agricultural": 3,
-    "forest": 141,
-    "likely_agricultural": 94,
+    "forest": 142,
+    "likely_agricultural": 107,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 26,
-  "satellite_intense_24h": 8,
+  "satellite_hotspots_24h": 25,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5502,
@@ -64,21 +64,22 @@
     ]
   },
   "burnt_ha_effis": 231425.0,
-  "detections": 4250,
+  "detections": 4304,
   "highlights": [
     {
-      "id": "7851706e4730",
-      "ine": "10056",
-      "municipality": "Casas de Millán",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 1657.1,
-      "pixel_area_ha": 731.1,
-      "detections": 101,
-      "last_utc": "2026-08-02T03:02:00Z",
+      "id": "869c8a53aa81",
+      "ine": "19226",
+      "municipality": "Prádena de Atienza",
+      "province": "Guadalajara",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 20.8,
+      "pixel_area_ha": 56.2,
+      "official_area_ha": 33022.0,
+      "detections": 5,
+      "last_utc": "2026-08-02T14:05:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "casas-de-millan"
+      "slug": "pradena-de-atienza"
     },
     {
       "id": "1dbaf10dfb1a",
@@ -101,13 +102,27 @@
       "municipality": "Vilaller",
       "province": "Lleida",
       "region": "Cataluña",
-      "frp_max_mw": 8.3,
-      "pixel_area_ha": 140.6,
-      "detections": 21,
-      "last_utc": "2026-08-02T03:00:00Z",
+      "frp_max_mw": 68.9,
+      "pixel_area_ha": 168.7,
+      "detections": 26,
+      "last_utc": "2026-08-02T13:29:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vilaller"
+    },
+    {
+      "id": "e983a788c136",
+      "ine": "25057",
+      "municipality": "Es Bòrdes",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 12.1,
+      "pixel_area_ha": 98.4,
+      "detections": 12,
+      "last_utc": "2026-08-02T13:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "es-bordes"
     },
     {
       "id": "598b84526334",
@@ -117,39 +132,25 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 4.0,
       "pixel_area_ha": 70.3,
-      "detections": 16,
-      "last_utc": "2026-08-02T03:02:00Z",
+      "detections": 17,
+      "last_utc": "2026-08-02T12:44:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "e983a788c136",
-      "ine": "25243",
-      "municipality": "Vielha e Mijaran",
-      "province": "Lleida",
-      "region": "Cataluña",
-      "frp_max_mw": 2.8,
-      "pixel_area_ha": 70.3,
-      "detections": 10,
-      "last_utc": "2026-08-02T03:00:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vielha-e-mijaran"
-    },
-    {
-      "id": "046b078b7337",
-      "ine": "08251",
-      "municipality": "Santa Margarida i els Monjos",
-      "province": "Barcelona",
-      "region": "Cataluña",
-      "frp_max_mw": 2.9,
+      "id": "c50db56c26c8",
+      "ine": "46170",
+      "municipality": "Moixent/Mogente",
+      "province": "València/Valencia",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 28.3,
       "pixel_area_ha": 56.2,
-      "detections": 8,
-      "last_utc": "2026-08-02T03:00:00Z",
+      "detections": 6,
+      "last_utc": "2026-08-02T12:44:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "santa-margarida-i-els-monjos"
+      "slug": "moixent-mogente"
     }
   ]
 }
