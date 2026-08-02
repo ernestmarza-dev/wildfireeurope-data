@@ -1,11 +1,10 @@
 {
-  "generated_utc": "2026-08-02T09:11:54+00:00",
+  "generated_utc": "2026-08-02T10:14:02+00:00",
   "last_sync_utc": "2026-08-02T04:07:05+00:00",
   "window_days": 400,
   "fires": {
     "total": 237,
-    "active": 4,
-    "dying_down": 46,
+    "dying_down": 50,
     "out": 187
   },
   "classes": {
@@ -65,62 +64,5 @@
   },
   "burnt_ha_effis": 231425.0,
   "detections": 4098,
-  "highlights": [
-    {
-      "id": "7851706e4730",
-      "ine": "10099",
-      "municipality": "Holguera",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 1657.1,
-      "pixel_area_ha": 590.5,
-      "detections": 72,
-      "last_utc": "2026-08-01T21:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "holguera"
-    },
-    {
-      "id": "9c949c3f607b",
-      "ine": "10056",
-      "municipality": "Casas de Millán",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 1667.2,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-01T21:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "casas-de-millan"
-    },
-    {
-      "id": "1dbaf10dfb1a",
-      "ine": "10123",
-      "municipality": "Mirabel",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 873.1,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-01T21:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "mirabel"
-    },
-    {
-      "id": "607bdf5a9324",
-      "ine": "10123",
-      "municipality": "Mirabel",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 2264.7,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-01T21:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "mirabel"
-    }
-  ]
+  "highlights": []
 }
