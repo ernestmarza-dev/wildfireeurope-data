@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-03T19:54:29+00:00",
+  "generated_utc": "2026-08-03T20:37:14+00:00",
   "last_sync_utc": "2026-08-03T19:51:56+00:00",
   "window_days": 400,
   "fires": {
@@ -10,22 +10,22 @@
   },
   "classes": {
     "agricultural": 4,
-    "forest": 150,
-    "likely_agricultural": 117,
+    "forest": 151,
+    "likely_agricultural": 116,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 14,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 12,
+  "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3430,
-    "windy": 136,
-    "met": 20
+    "hot_dry": 3460,
+    "windy": 100,
+    "met": 2
   },
   "official": {
-    "active": 37,
-    "not_extinguished": 100,
+    "active": 46,
+    "not_extinguished": 109,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 25,
-        "total": 689,
-        "last_report_utc": "2026-08-03T10:00:00+00:00"
+        "active": 31,
+        "total": 700,
+        "last_report_utc": "2026-08-03T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 10,
-        "total": 143,
-        "last_report_utc": "2026-08-03T15:27:39+00:00"
+        "active": 13,
+        "total": 150,
+        "last_report_utc": "2026-08-03T20:22:10+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 2,
-        "total": 683,
-        "last_report_utc": "2026-08-03T12:24:00+00:00"
+        "total": 685,
+        "last_report_utc": "2026-08-03T17:27:00+00:00"
       },
       {
         "source": "bombers",
@@ -65,5 +65,20 @@
   },
   "burnt_ha_effis": 254100.0,
   "detections": 4355,
-  "highlights": []
+  "highlights": [
+    {
+      "id": "c0edbf5b3976",
+      "ine": "49227",
+      "municipality": "Valcabado",
+      "province": "Zamora",
+      "region": "Castilla y León",
+      "frp_max_mw": 15.0,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-03T14:05:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "valcabado"
+    }
+  ]
 }
