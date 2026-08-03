@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-03T15:40:49+00:00",
-  "last_sync_utc": "2026-08-03T15:27:36+00:00",
+  "generated_utc": "2026-08-03T18:03:28+00:00",
+  "last_sync_utc": "2026-08-03T18:00:57+00:00",
   "window_days": 400,
   "fires": {
-    "total": 275,
-    "active": 7,
-    "dying_down": 36,
-    "out": 232
+    "total": 277,
+    "active": 9,
+    "dying_down": 35,
+    "out": 233
   },
   "classes": {
     "agricultural": 4,
     "forest": 150,
-    "likely_agricultural": 115,
+    "likely_agricultural": 117,
     "mixed": 5,
     "urban": 1
   },
@@ -64,6 +64,6 @@
     ]
   },
   "burnt_ha_effis": 254100.0,
-  "detections": 4352,
+  "detections": 4355,
   "highlights": []
 }
