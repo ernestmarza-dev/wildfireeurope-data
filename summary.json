@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-02T23:10:28+00:00",
-  "last_sync_utc": "2026-08-02T23:07:58+00:00",
+  "generated_utc": "2026-08-03T03:50:17+00:00",
+  "last_sync_utc": "2026-08-03T03:47:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 265,
-    "active": 25,
-    "dying_down": 41,
-    "out": 199
+    "active": 3,
+    "dying_down": 43,
+    "out": 219
   },
   "classes": {
     "agricultural": 3,
@@ -15,13 +15,13 @@
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 26,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 10,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5579,
-    "windy": 82,
-    "met": 2
+    "hot_dry": 3626,
+    "windy": 141,
+    "met": 5
   },
   "official": {
     "active": 43,
@@ -67,83 +67,40 @@
   "detections": 4312,
   "highlights": [
     {
-      "id": "869c8a53aa81",
-      "ine": "19226",
-      "municipality": "Prádena de Atienza",
-      "province": "Guadalajara",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 20.8,
-      "pixel_area_ha": 56.2,
-      "official_area_ha": 33022.0,
-      "detections": 5,
-      "last_utc": "2026-08-02T14:05:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "pradena-de-atienza"
-    },
-    {
-      "id": "fc99f8f7afb0",
-      "ine": "25245",
-      "municipality": "Vilaller",
-      "province": "Lleida",
-      "region": "Cataluña",
-      "frp_max_mw": 68.9,
-      "pixel_area_ha": 168.7,
-      "detections": 26,
-      "last_utc": "2026-08-02T13:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vilaller"
-    },
-    {
-      "id": "e983a788c136",
-      "ine": "25057",
-      "municipality": "Es Bòrdes",
-      "province": "Lleida",
-      "region": "Cataluña",
-      "frp_max_mw": 12.1,
-      "pixel_area_ha": 98.4,
-      "detections": 12,
-      "last_utc": "2026-08-02T13:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "es-bordes"
-    },
-    {
-      "id": "598b84526334",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 4.0,
-      "pixel_area_ha": 70.3,
-      "detections": 17,
-      "last_utc": "2026-08-02T12:44:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "c50db56c26c8",
-      "ine": "46170",
-      "municipality": "Moixent/Mogente",
-      "province": "València/Valencia",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 28.3,
-      "pixel_area_ha": 56.2,
-      "detections": 6,
-      "last_utc": "2026-08-02T12:44:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "moixent-mogente"
-    },
-    {
       "id": "cbf20cd67856",
       "ine": "11004",
       "municipality": "Algeciras",
       "province": "Cádiz",
       "region": "Andalucía",
       "frp_max_mw": 100.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-02T20:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "algeciras"
+    },
+    {
+      "id": "2c5a92d2f3b1",
+      "ine": "11004",
+      "municipality": "Algeciras",
+      "province": "Cádiz",
+      "region": "Andalucía",
+      "frp_max_mw": 28.0,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-02T20:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "algeciras"
+    },
+    {
+      "id": "0b936f62b39e",
+      "ine": "11004",
+      "municipality": "Algeciras",
+      "province": "Cádiz",
+      "region": "Andalucía",
+      "frp_max_mw": 14.3,
       "pixel_area_ha": 14.1,
       "detections": 1,
       "last_utc": "2026-08-02T20:29:00Z",
