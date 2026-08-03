@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-03T20:37:14+00:00",
-  "last_sync_utc": "2026-08-03T19:51:56+00:00",
+  "generated_utc": "2026-08-03T21:18:32+00:00",
+  "last_sync_utc": "2026-08-03T21:16:02+00:00",
   "window_days": 400,
   "fires": {
-    "total": 277,
-    "active": 9,
+    "total": 279,
+    "active": 11,
     "dying_down": 35,
     "out": 233
   },
   "classes": {
     "agricultural": 4,
-    "forest": 151,
+    "forest": 153,
     "likely_agricultural": 116,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 12,
-  "satellite_intense_24h": 3,
+  "satellite_hotspots_24h": 14,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3460,
@@ -64,8 +64,36 @@
     ]
   },
   "burnt_ha_effis": 254100.0,
-  "detections": 4355,
+  "detections": 4359,
   "highlights": [
+    {
+      "id": "dd570e13cc50",
+      "ine": "22163",
+      "municipality": "Nueno",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 53.3,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-03T19:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "nueno"
+    },
+    {
+      "id": "5dd9dafcb5a3",
+      "ine": "22163",
+      "municipality": "Nueno",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 41.6,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-03T19:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "nueno"
+    },
     {
       "id": "c0edbf5b3976",
       "ine": "49227",
