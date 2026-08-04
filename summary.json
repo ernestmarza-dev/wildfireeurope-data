@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-04T06:39:38+00:00",
-  "last_sync_utc": "2026-08-04T06:37:07+00:00",
+  "generated_utc": "2026-08-04T09:38:17+00:00",
+  "last_sync_utc": "2026-08-04T09:23:35+00:00",
   "window_days": 400,
   "fires": {
-    "total": 297,
-    "active": 23,
-    "dying_down": 20,
-    "out": 254
+    "total": 296,
+    "active": 22,
+    "dying_down": 18,
+    "out": 256
   },
   "classes": {
-    "agricultural": 4,
-    "forest": 172,
-    "likely_agricultural": 115,
-    "mixed": 5,
-    "urban": 1
+    "agricultural": 16,
+    "forest": 159,
+    "likely_agricultural": 107,
+    "mixed": 7,
+    "urban": 7
   },
-  "satellite_hotspots_24h": 24,
+  "satellite_hotspots_24h": 23,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3191,
-    "windy": 76,
+    "hot_dry": 3082,
+    "windy": 84,
     "met": 3
   },
   "official": {
-    "active": 40,
-    "not_extinguished": 103,
+    "active": 44,
+    "not_extinguished": 106,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 6,
-        "total": 150,
-        "last_report_utc": "2026-08-04T03:52:05+00:00"
+        "active": 9,
+        "total": 155,
+        "last_report_utc": "2026-08-04T09:23:38+00:00"
       },
       {
         "source": "infoca",
@@ -57,14 +57,14 @@
       {
         "source": "bombers",
         "region": "Cataluña",
-        "active": 0,
-        "total": 1982,
-        "last_report_utc": "2026-07-22T22:00:00+00:00"
+        "active": 1,
+        "total": 2223,
+        "last_report_utc": "2026-08-03T22:00:00+00:00"
       }
     ]
   },
-  "burnt_ha_effis": 254100.0,
-  "detections": 4422,
+  "burnt_ha_effis": 254732.0,
+  "detections": 4425,
   "highlights": [
     {
       "id": "dd570e13cc50",
@@ -74,8 +74,8 @@
       "region": "Aragón",
       "frp_max_mw": 53.3,
       "pixel_area_ha": 154.7,
-      "detections": 20,
-      "last_utc": "2026-08-04T03:08:00Z",
+      "detections": 22,
+      "last_utc": "2026-08-04T04:14:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "nueno"
@@ -95,6 +95,20 @@
       "slug": "albunol"
     },
     {
+      "id": "a46be6d1a895",
+      "ine": "30019",
+      "municipality": "Cieza",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 10.6,
+      "pixel_area_ha": 56.2,
+      "detections": 4,
+      "last_utc": "2026-08-04T04:14:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cieza-murcia"
+    },
+    {
       "id": "c9ddc794fef5",
       "ine": "28091",
       "municipality": "Morata de Tajuña",
@@ -109,34 +123,6 @@
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "5919d78d2590",
-      "ine": "08157",
-      "municipality": "Pallejà",
-      "province": "Barcelona",
-      "region": "Cataluña",
-      "frp_max_mw": 1.8,
-      "pixel_area_ha": 56.2,
-      "detections": 4,
-      "last_utc": "2026-08-04T02:24:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "palleja"
-    },
-    {
-      "id": "a46be6d1a895",
-      "ine": "30019",
-      "municipality": "Cieza",
-      "province": "Murcia",
-      "region": "Región de Murcia",
-      "frp_max_mw": 10.6,
-      "pixel_area_ha": 42.2,
-      "detections": 3,
-      "last_utc": "2026-08-04T03:10:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cieza-murcia"
-    },
-    {
       "id": "596932e76d40",
       "ine": "50093",
       "municipality": "Chodes",
@@ -149,6 +135,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "chodes"
+    },
+    {
+      "id": "8e9b82d62f90",
+      "ine": "22163",
+      "municipality": "Nueno",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 7.7,
+      "pixel_area_ha": 28.1,
+      "detections": 3,
+      "last_utc": "2026-08-04T03:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "nueno"
     }
   ]
 }
