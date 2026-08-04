@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-04T21:25:13+00:00",
+  "generated_utc": "2026-08-04T23:23:00+00:00",
   "last_sync_utc": "2026-08-04T21:22:41+00:00",
   "window_days": 400,
   "fires": {
     "total": 317,
     "active": 23,
-    "dying_down": 30,
-    "out": 264
+    "dying_down": 29,
+    "out": 265
   },
   "classes": {
     "agricultural": 16,
