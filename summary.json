@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-04T20:24:24+00:00",
-  "last_sync_utc": "2026-08-04T20:11:18+00:00",
+  "generated_utc": "2026-08-04T21:25:13+00:00",
+  "last_sync_utc": "2026-08-04T21:22:41+00:00",
   "window_days": 400,
   "fires": {
     "total": 317,
-    "active": 25,
-    "dying_down": 28,
+    "active": 23,
+    "dying_down": 30,
     "out": 264
   },
   "classes": {
@@ -124,32 +124,18 @@
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "2e136d178bfd",
-      "ine": "03904",
-      "municipality": "San Isidro",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 28.3,
+      "id": "d37c7514cc04",
+      "ine": "47104",
+      "municipality": "Olmedo",
+      "province": "Valladolid",
+      "region": "Castilla y León",
+      "frp_max_mw": 6.1,
       "pixel_area_ha": 14.1,
       "detections": 1,
-      "last_utc": "2026-08-04T09:09:00Z",
+      "last_utc": "2026-08-04T15:16:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "san-isidro"
-    },
-    {
-      "id": "2132b06ce201",
-      "ine": "03074",
-      "municipality": "Granja de Rocamora",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 11.1,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-04T09:09:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "granja-de-rocamora"
+      "slug": "olmedo"
     }
   ]
 }
