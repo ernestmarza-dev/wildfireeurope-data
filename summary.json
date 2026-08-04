@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-04T12:18:43+00:00",
-  "last_sync_utc": "2026-08-04T09:45:40+00:00",
+  "generated_utc": "2026-08-04T15:17:04+00:00",
+  "last_sync_utc": "2026-08-04T15:05:49+00:00",
   "window_days": 400,
   "fires": {
-    "total": 296,
-    "active": 22,
-    "dying_down": 18,
-    "out": 256
+    "total": 311,
+    "active": 24,
+    "dying_down": 23,
+    "out": 264
   },
   "classes": {
     "agricultural": 16,
-    "forest": 159,
-    "likely_agricultural": 107,
+    "forest": 161,
+    "likely_agricultural": 119,
     "mixed": 7,
-    "urban": 7
+    "urban": 8
   },
-  "satellite_hotspots_24h": 23,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 25,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3082,
-    "windy": 84,
+    "hot_dry": 3329,
+    "windy": 114,
     "met": 3
   },
   "official": {
     "active": 44,
-    "not_extinguished": 106,
+    "not_extinguished": 107,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,29 +43,44 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 9,
-        "total": 155,
-        "last_report_utc": "2026-08-04T09:23:38+00:00"
+        "active": 10,
+        "total": 160,
+        "last_report_utc": "2026-08-04T15:05:50+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 3,
-        "total": 686,
-        "last_report_utc": "2026-08-04T01:03:00+00:00"
+        "total": 689,
+        "last_report_utc": "2026-08-04T13:23:00+00:00"
       },
       {
         "source": "bombers",
         "region": "Cataluña",
-        "active": 1,
+        "active": 0,
         "total": 2223,
         "last_report_utc": "2026-08-03T22:00:00+00:00"
       }
     ]
   },
-  "burnt_ha_effis": 254732.0,
-  "detections": 4425,
+  "burnt_ha_effis": 254761.0,
+  "detections": 4455,
   "highlights": [
+    {
+      "id": "ff74530cfa84",
+      "ine": "33042",
+      "municipality": "Noreña",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 4.5,
+      "pixel_area_ha": 28.1,
+      "official_area_ha": 406.0,
+      "detections": 2,
+      "last_utc": "2026-08-04T12:53:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "norena"
+    },
     {
       "id": "dd570e13cc50",
       "ine": "22163",
@@ -73,9 +88,9 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 53.3,
-      "pixel_area_ha": 154.7,
-      "detections": 22,
-      "last_utc": "2026-08-04T04:14:00Z",
+      "pixel_area_ha": 168.7,
+      "detections": 25,
+      "last_utc": "2026-08-04T12:06:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "nueno"
@@ -121,20 +136,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "596932e76d40",
-      "ine": "50093",
-      "municipality": "Chodes",
-      "province": "Zaragoza",
-      "region": "Aragón",
-      "frp_max_mw": 1.3,
-      "pixel_area_ha": 42.2,
-      "detections": 15,
-      "last_utc": "2026-08-04T02:24:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "chodes"
     },
     {
       "id": "8e9b82d62f90",
