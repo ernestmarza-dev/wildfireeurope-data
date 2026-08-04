@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-03T23:23:11+00:00",
-  "last_sync_utc": "2026-08-03T21:16:02+00:00",
+  "generated_utc": "2026-08-04T03:31:12+00:00",
+  "last_sync_utc": "2026-08-04T03:30:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 279,
-    "active": 10,
-    "dying_down": 34,
-    "out": 235
+    "active": 2,
+    "dying_down": 25,
+    "out": 252
   },
   "classes": {
     "agricultural": 4,
@@ -15,13 +15,13 @@
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 14,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 3,
+  "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3460,
-    "windy": 100,
-    "met": 2
+    "hot_dry": 3097,
+    "windy": 124,
+    "met": 3
   },
   "official": {
     "active": 46,
@@ -93,20 +93,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "nueno"
-    },
-    {
-      "id": "c0edbf5b3976",
-      "ine": "49227",
-      "municipality": "Valcabado",
-      "province": "Zamora",
-      "region": "Castilla y León",
-      "frp_max_mw": 15.0,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-03T14:05:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "valcabado"
     }
   ]
 }
