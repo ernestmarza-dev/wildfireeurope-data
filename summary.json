@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-04T15:17:04+00:00",
-  "last_sync_utc": "2026-08-04T15:05:49+00:00",
+  "generated_utc": "2026-08-04T15:34:52+00:00",
+  "last_sync_utc": "2026-08-04T15:32:17+00:00",
   "window_days": 400,
   "fires": {
     "total": 311,
-    "active": 24,
-    "dying_down": 23,
+    "active": 19,
+    "dying_down": 28,
     "out": 264
   },
   "classes": {
@@ -96,20 +96,6 @@
       "slug": "nueno"
     },
     {
-      "id": "8ec054f2aa70",
-      "ine": "18006",
-      "municipality": "Albuñol",
-      "province": "Granada",
-      "region": "Andalucía",
-      "frp_max_mw": 20.4,
-      "pixel_area_ha": 84.4,
-      "detections": 7,
-      "last_utc": "2026-08-04T03:10:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "albunol"
-    },
-    {
       "id": "a46be6d1a895",
       "ine": "30019",
       "municipality": "Cieza",
@@ -124,32 +110,32 @@
       "slug": "cieza-murcia"
     },
     {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 5.5,
-      "pixel_area_ha": 56.2,
-      "detections": 6,
-      "last_utc": "2026-08-04T03:10:00Z",
+      "id": "2e136d178bfd",
+      "ine": "03904",
+      "municipality": "San Isidro",
+      "province": "Alacant/Alicante",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 28.3,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-04T09:09:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "morata-de-tajuna"
+      "slug": "san-isidro"
     },
     {
-      "id": "8e9b82d62f90",
-      "ine": "22163",
-      "municipality": "Nueno",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 7.7,
-      "pixel_area_ha": 28.1,
-      "detections": 3,
-      "last_utc": "2026-08-04T03:08:00Z",
+      "id": "2132b06ce201",
+      "ine": "03074",
+      "municipality": "Granja de Rocamora",
+      "province": "Alacant/Alicante",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 11.1,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-04T09:09:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "nueno"
+      "slug": "granja-de-rocamora"
     }
   ]
 }
