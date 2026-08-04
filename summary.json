@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-04T04:03:24+00:00",
-  "last_sync_utc": "2026-08-04T03:52:03+00:00",
+  "generated_utc": "2026-08-04T06:39:38+00:00",
+  "last_sync_utc": "2026-08-04T06:37:07+00:00",
   "window_days": 400,
   "fires": {
-    "total": 279,
-    "active": 2,
-    "dying_down": 23,
+    "total": 297,
+    "active": 23,
+    "dying_down": 20,
     "out": 254
   },
   "classes": {
     "agricultural": 4,
-    "forest": 153,
-    "likely_agricultural": 116,
+    "forest": 172,
+    "likely_agricultural": 115,
     "mixed": 5,
     "urban": 1
   },
-  "satellite_hotspots_24h": 3,
-  "satellite_intense_24h": 3,
+  "satellite_hotspots_24h": 24,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3191,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 254100.0,
-  "detections": 4359,
+  "detections": 4422,
   "highlights": [
     {
       "id": "dd570e13cc50",
@@ -73,26 +73,82 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 53.3,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-03T19:32:00Z",
+      "pixel_area_ha": 154.7,
+      "detections": 20,
+      "last_utc": "2026-08-04T03:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "nueno"
     },
     {
-      "id": "5dd9dafcb5a3",
-      "ine": "22163",
-      "municipality": "Nueno",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 41.6,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-03T19:32:00Z",
+      "id": "8ec054f2aa70",
+      "ine": "18006",
+      "municipality": "Albuñol",
+      "province": "Granada",
+      "region": "Andalucía",
+      "frp_max_mw": 20.4,
+      "pixel_area_ha": 84.4,
+      "detections": 7,
+      "last_utc": "2026-08-04T03:10:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "nueno"
+      "slug": "albunol"
+    },
+    {
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 5.5,
+      "pixel_area_ha": 56.2,
+      "detections": 6,
+      "last_utc": "2026-08-04T03:10:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "5919d78d2590",
+      "ine": "08157",
+      "municipality": "Pallejà",
+      "province": "Barcelona",
+      "region": "Cataluña",
+      "frp_max_mw": 1.8,
+      "pixel_area_ha": 56.2,
+      "detections": 4,
+      "last_utc": "2026-08-04T02:24:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "palleja"
+    },
+    {
+      "id": "a46be6d1a895",
+      "ine": "30019",
+      "municipality": "Cieza",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 10.6,
+      "pixel_area_ha": 42.2,
+      "detections": 3,
+      "last_utc": "2026-08-04T03:10:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cieza-murcia"
+    },
+    {
+      "id": "596932e76d40",
+      "ine": "50093",
+      "municipality": "Chodes",
+      "province": "Zaragoza",
+      "region": "Aragón",
+      "frp_max_mw": 1.3,
+      "pixel_area_ha": 42.2,
+      "detections": 15,
+      "last_utc": "2026-08-04T02:24:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "chodes"
     }
   ]
 }
