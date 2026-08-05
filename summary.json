@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-05T15:24:57+00:00",
-  "last_sync_utc": "2026-08-05T15:24:28+00:00",
+  "generated_utc": "2026-08-05T17:53:10+00:00",
+  "last_sync_utc": "2026-08-05T17:50:35+00:00",
   "window_days": 400,
   "fires": {
-    "total": 343,
-    "active": 9,
-    "dying_down": 49,
-    "out": 285
+    "total": 361,
+    "active": 24,
+    "dying_down": 51,
+    "out": 286
   },
   "classes": {
     "agricultural": 16,
-    "forest": 185,
-    "likely_agricultural": 127,
+    "forest": 187,
+    "likely_agricultural": 143,
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 2,
+  "satellite_hotspots_24h": 31,
+  "satellite_intense_24h": 4,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4117,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 254878.0,
-  "detections": 4592,
+  "detections": 4628,
   "highlights": [
     {
       "id": "c9ddc794fef5",
@@ -72,57 +72,41 @@
       "municipality": "Morata de Tajuña",
       "province": "Madrid",
       "region": "Comunidad de Madrid",
-      "frp_max_mw": 5.5,
+      "frp_max_mw": 7.5,
       "pixel_area_ha": 98.4,
-      "detections": 16,
-      "last_utc": "2026-08-05T03:25:00Z",
+      "detections": 20,
+      "last_utc": "2026-08-05T14:14:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "82778ce56f7a",
-      "ine": "22190",
-      "municipality": "El Pueyo de Araguás",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 98.9,
-      "pixel_area_ha": 267.1,
-      "official_area_ha": 89.0,
-      "detections": 47,
-      "last_utc": "2026-08-05T03:25:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "el-pueyo-de-araguas"
-    },
-    {
-      "id": "ae19d90ae42f",
-      "ine": "29902",
-      "municipality": "Villanueva de la Concepción",
-      "province": "Málaga",
+      "id": "9fbd9f2c3771",
+      "ine": "21046",
+      "municipality": "Lucena del Puerto",
+      "province": "Huelva",
       "region": "Andalucía",
-      "frp_max_mw": 1.6,
-      "pixel_area_ha": 56.2,
-      "detections": 4,
-      "last_utc": "2026-08-05T03:28:00Z",
+      "frp_max_mw": 476.1,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-05T15:54:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villanueva-de-la-concepcion"
+      "slug": "lucena-del-puerto"
     },
     {
-      "id": "fcced9ae8e29",
-      "ine": "09413",
-      "municipality": "Valle de Valdebezana",
-      "province": "Burgos",
-      "region": "Castilla y León",
-      "frp_max_mw": 0.7,
+      "id": "4ef520883291",
+      "ine": "21046",
+      "municipality": "Lucena del Puerto",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 173.8,
       "pixel_area_ha": 14.1,
-      "official_area_ha": 2.22,
       "detections": 1,
-      "last_utc": "2026-08-05T03:25:00Z",
+      "last_utc": "2026-08-05T15:54:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "valle-de-valdebezana"
+      "slug": "lucena-del-puerto"
     }
   ]
 }
