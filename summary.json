@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-08-05T04:00:33+00:00",
-  "last_sync_utc": "2026-08-05T03:46:54+00:00",
+  "generated_utc": "2026-08-05T06:40:19+00:00",
+  "last_sync_utc": "2026-08-05T06:37:44+00:00",
   "window_days": 400,
   "fires": {
-    "total": 317,
-    "active": 1,
-    "dying_down": 45,
+    "total": 337,
+    "active": 29,
+    "dying_down": 37,
     "out": 271
   },
   "classes": {
     "agricultural": 16,
-    "forest": 163,
-    "likely_agricultural": 123,
+    "forest": 184,
+    "likely_agricultural": 122,
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 8,
+  "satellite_hotspots_24h": 33,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 254761.0,
-  "detections": 4492,
+  "detections": 4580,
   "highlights": [
     {
       "id": "82778ce56f7a",
@@ -73,12 +73,82 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 98.9,
-      "pixel_area_ha": 154.7,
-      "detections": 16,
-      "last_utc": "2026-08-04T20:12:00Z",
+      "pixel_area_ha": 253.1,
+      "detections": 46,
+      "last_utc": "2026-08-05T02:49:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "el-pueyo-de-araguas"
+    },
+    {
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 5.5,
+      "pixel_area_ha": 84.4,
+      "detections": 13,
+      "last_utc": "2026-08-05T02:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "bb0bd68efaac",
+      "ine": "22074",
+      "municipality": "Campo",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 52.4,
+      "pixel_area_ha": 70.3,
+      "detections": 9,
+      "last_utc": "2026-08-05T02:04:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "campo"
+    },
+    {
+      "id": "dca3cf939ca3",
+      "ine": "30019",
+      "municipality": "Cieza",
+      "province": "Murcia",
+      "region": "Región de Murcia",
+      "frp_max_mw": 2.7,
+      "pixel_area_ha": 56.2,
+      "detections": 6,
+      "last_utc": "2026-08-05T02:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cieza-murcia"
+    },
+    {
+      "id": "4f232220f819",
+      "ine": "13096",
+      "municipality": "Villarrubia de los Ojos",
+      "province": "Ciudad Real",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 3.0,
+      "pixel_area_ha": 42.2,
+      "detections": 5,
+      "last_utc": "2026-08-05T02:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villarrubia-de-los-ojos"
+    },
+    {
+      "id": "308e328472eb",
+      "ine": "04032",
+      "municipality": "Carboneras",
+      "province": "Almería",
+      "region": "Andalucía",
+      "frp_max_mw": 2.0,
+      "pixel_area_ha": 42.2,
+      "detections": 3,
+      "last_utc": "2026-08-05T02:51:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carboneras"
     }
   ]
 }
