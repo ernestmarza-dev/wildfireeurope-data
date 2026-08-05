@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-05T12:16:57+00:00",
-  "last_sync_utc": "2026-08-05T09:43:53+00:00",
+  "generated_utc": "2026-08-05T15:09:32+00:00",
+  "last_sync_utc": "2026-08-05T14:58:46+00:00",
   "window_days": 400,
   "fires": {
-    "total": 338,
-    "active": 30,
-    "dying_down": 36,
-    "out": 272
+    "total": 343,
+    "active": 9,
+    "dying_down": 53,
+    "out": 281
   },
   "classes": {
     "agricultural": 16,
     "forest": 185,
-    "likely_agricultural": 122,
+    "likely_agricultural": 127,
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 32,
-  "satellite_intense_24h": 3,
+  "satellite_hotspots_24h": 30,
+  "satellite_intense_24h": 2,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3727,
-    "windy": 245,
+    "hot_dry": 4117,
+    "windy": 267,
     "met": 0
   },
   "official": {
     "active": 41,
-    "not_extinguished": 105,
+    "not_extinguished": 101,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,7 +36,7 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 30,
+        "active": 29,
         "total": 706,
         "last_report_utc": "2026-08-04T19:00:00+00:00"
       },
@@ -44,15 +44,15 @@
         "source": "112cv",
         "region": "Comunitat Valenciana",
         "active": 8,
-        "total": 173,
-        "last_report_utc": "2026-08-05T09:21:16+00:00"
+        "total": 177,
+        "last_report_utc": "2026-08-05T14:58:54+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 3,
-        "total": 697,
-        "last_report_utc": "2026-08-05T08:34:00+00:00"
+        "active": 4,
+        "total": 701,
+        "last_report_utc": "2026-08-05T14:00:00+00:00"
       },
       {
         "source": "bombers",
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 254878.0,
-  "detections": 4587,
+  "detections": 4592,
   "highlights": [
     {
       "id": "c9ddc794fef5",
@@ -96,34 +96,6 @@
       "slug": "el-pueyo-de-araguas"
     },
     {
-      "id": "bb0bd68efaac",
-      "ine": "22074",
-      "municipality": "Campo",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 52.4,
-      "pixel_area_ha": 70.3,
-      "detections": 9,
-      "last_utc": "2026-08-05T02:04:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "campo"
-    },
-    {
-      "id": "dca3cf939ca3",
-      "ine": "30019",
-      "municipality": "Cieza",
-      "province": "Murcia",
-      "region": "Región de Murcia",
-      "frp_max_mw": 2.7,
-      "pixel_area_ha": 56.2,
-      "detections": 6,
-      "last_utc": "2026-08-05T02:49:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cieza-murcia"
-    },
-    {
       "id": "ae19d90ae42f",
       "ine": "29902",
       "municipality": "Villanueva de la Concepción",
@@ -138,18 +110,19 @@
       "slug": "villanueva-de-la-concepcion"
     },
     {
-      "id": "4f232220f819",
-      "ine": "13096",
-      "municipality": "Villarrubia de los Ojos",
-      "province": "Ciudad Real",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 3.0,
-      "pixel_area_ha": 42.2,
-      "detections": 5,
-      "last_utc": "2026-08-05T02:49:00Z",
+      "id": "fcced9ae8e29",
+      "ine": "09413",
+      "municipality": "Valle de Valdebezana",
+      "province": "Burgos",
+      "region": "Castilla y León",
+      "frp_max_mw": 0.7,
+      "pixel_area_ha": 14.1,
+      "official_area_ha": 2.22,
+      "detections": 1,
+      "last_utc": "2026-08-05T03:25:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villarrubia-de-los-ojos"
+      "slug": "valle-de-valdebezana"
     }
   ]
 }
