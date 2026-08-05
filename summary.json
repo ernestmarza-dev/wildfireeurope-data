@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-05T21:30:10+00:00",
-  "last_sync_utc": "2026-08-05T17:50:35+00:00",
+  "generated_utc": "2026-08-05T23:13:50+00:00",
+  "last_sync_utc": "2026-08-05T23:13:20+00:00",
   "window_days": 400,
   "fires": {
-    "total": 361,
-    "active": 24,
-    "dying_down": 49,
+    "total": 363,
+    "active": 23,
+    "dying_down": 52,
     "out": 288
   },
   "classes": {
     "agricultural": 16,
-    "forest": 187,
-    "likely_agricultural": 143,
+    "forest": 190,
+    "likely_agricultural": 142,
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 31,
-  "satellite_intense_24h": 4,
+  "satellite_hotspots_24h": 34,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4157,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 254878.0,
-  "detections": 4628,
+  "detections": 4631,
   "highlights": [
     {
       "id": "c9ddc794fef5",
@@ -79,6 +79,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "2478549964b5",
+      "ine": "21074",
+      "municipality": "Villalba del Alcor",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 24.9,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-05T20:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villalba-del-alcor"
     },
     {
       "id": "9fbd9f2c3771",
@@ -107,6 +121,34 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "lucena-del-puerto"
+    },
+    {
+      "id": "71e288453d31",
+      "ine": "50089",
+      "municipality": "Cuarte de Huerva",
+      "province": "Zaragoza",
+      "region": "Aragón",
+      "frp_max_mw": 27.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-05T20:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cuarte-de-huerva"
+    },
+    {
+      "id": "8c2a9daa9079",
+      "ine": "50089",
+      "municipality": "Cuarte de Huerva",
+      "province": "Zaragoza",
+      "region": "Aragón",
+      "frp_max_mw": 25.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-05T20:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cuarte-de-huerva"
     }
   ]
 }
