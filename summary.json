@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-05T19:58:14+00:00",
+  "generated_utc": "2026-08-05T20:35:35+00:00",
   "last_sync_utc": "2026-08-05T17:50:35+00:00",
   "window_days": 400,
   "fires": {
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 4,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 4117,
-    "windy": 267,
+    "hot_dry": 4157,
+    "windy": 268,
     "met": 0
   },
   "official": {
-    "active": 41,
-    "not_extinguished": 101,
+    "active": 40,
+    "not_extinguished": 104,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 29,
-        "total": 706,
-        "last_report_utc": "2026-08-04T19:00:00+00:00"
+        "active": 27,
+        "total": 709,
+        "last_report_utc": "2026-08-05T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 8,
-        "total": 177,
-        "last_report_utc": "2026-08-05T14:58:54+00:00"
+        "active": 10,
+        "total": 183,
+        "last_report_utc": "2026-08-05T20:18:07+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 4,
-        "total": 701,
-        "last_report_utc": "2026-08-05T14:00:00+00:00"
+        "active": 3,
+        "total": 703,
+        "last_report_utc": "2026-08-05T17:17:00+00:00"
       },
       {
         "source": "bombers",
