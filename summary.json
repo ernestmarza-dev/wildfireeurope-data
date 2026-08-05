@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-05T06:40:19+00:00",
-  "last_sync_utc": "2026-08-05T06:37:44+00:00",
+  "generated_utc": "2026-08-05T09:38:02+00:00",
+  "last_sync_utc": "2026-08-05T09:21:15+00:00",
   "window_days": 400,
   "fires": {
-    "total": 337,
-    "active": 29,
-    "dying_down": 37,
-    "out": 271
+    "total": 338,
+    "active": 30,
+    "dying_down": 36,
+    "out": 272
   },
   "classes": {
     "agricultural": 16,
-    "forest": 184,
+    "forest": 185,
     "likely_agricultural": 122,
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 33,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 32,
+  "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3759,
-    "windy": 234,
+    "hot_dry": 3727,
+    "windy": 245,
     "met": 0
   },
   "official": {
-    "active": 38,
-    "not_extinguished": 102,
+    "active": 41,
+    "not_extinguished": 105,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 6,
-        "total": 170,
-        "last_report_utc": "2026-08-05T03:46:57+00:00"
+        "active": 8,
+        "total": 173,
+        "last_report_utc": "2026-08-05T09:21:16+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 2,
-        "total": 694,
-        "last_report_utc": "2026-08-04T18:01:00+00:00"
+        "active": 3,
+        "total": 697,
+        "last_report_utc": "2026-08-05T08:34:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,23 +63,9 @@
       }
     ]
   },
-  "burnt_ha_effis": 254761.0,
-  "detections": 4580,
+  "burnt_ha_effis": 254878.0,
+  "detections": 4587,
   "highlights": [
-    {
-      "id": "82778ce56f7a",
-      "ine": "22190",
-      "municipality": "El Pueyo de Araguás",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 98.9,
-      "pixel_area_ha": 253.1,
-      "detections": 46,
-      "last_utc": "2026-08-05T02:49:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "el-pueyo-de-araguas"
-    },
     {
       "id": "c9ddc794fef5",
       "ine": "28091",
@@ -87,12 +73,27 @@
       "province": "Madrid",
       "region": "Comunidad de Madrid",
       "frp_max_mw": 5.5,
-      "pixel_area_ha": 84.4,
-      "detections": 13,
-      "last_utc": "2026-08-05T02:49:00Z",
+      "pixel_area_ha": 98.4,
+      "detections": 16,
+      "last_utc": "2026-08-05T03:25:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "82778ce56f7a",
+      "ine": "22190",
+      "municipality": "El Pueyo de Araguás",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 98.9,
+      "pixel_area_ha": 267.1,
+      "official_area_ha": 89.0,
+      "detections": 47,
+      "last_utc": "2026-08-05T03:25:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "el-pueyo-de-araguas"
     },
     {
       "id": "bb0bd68efaac",
@@ -123,6 +124,20 @@
       "slug": "cieza-murcia"
     },
     {
+      "id": "ae19d90ae42f",
+      "ine": "29902",
+      "municipality": "Villanueva de la Concepción",
+      "province": "Málaga",
+      "region": "Andalucía",
+      "frp_max_mw": 1.6,
+      "pixel_area_ha": 56.2,
+      "detections": 4,
+      "last_utc": "2026-08-05T03:28:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villanueva-de-la-concepcion"
+    },
+    {
       "id": "4f232220f819",
       "ine": "13096",
       "municipality": "Villarrubia de los Ojos",
@@ -135,20 +150,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "villarrubia-de-los-ojos"
-    },
-    {
-      "id": "308e328472eb",
-      "ine": "04032",
-      "municipality": "Carboneras",
-      "province": "Almería",
-      "region": "Andalucía",
-      "frp_max_mw": 2.0,
-      "pixel_area_ha": 42.2,
-      "detections": 3,
-      "last_utc": "2026-08-05T02:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "carboneras"
     }
   ]
 }
