@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-04T23:23:00+00:00",
-  "last_sync_utc": "2026-08-04T21:22:41+00:00",
+  "generated_utc": "2026-08-05T03:29:00+00:00",
+  "last_sync_utc": "2026-08-05T03:26:27+00:00",
   "window_days": 400,
   "fires": {
     "total": 317,
-    "active": 23,
-    "dying_down": 29,
-    "out": 265
+    "active": 1,
+    "dying_down": 45,
+    "out": 271
   },
   "classes": {
     "agricultural": 16,
@@ -15,13 +15,13 @@
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 26,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 8,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3308,
-    "windy": 156,
-    "met": 3
+    "hot_dry": 3740,
+    "windy": 236,
+    "met": 0
   },
   "official": {
     "active": 48,
@@ -64,37 +64,8 @@
     ]
   },
   "burnt_ha_effis": 254761.0,
-  "detections": 4488,
+  "detections": 4492,
   "highlights": [
-    {
-      "id": "ff74530cfa84",
-      "ine": "33042",
-      "municipality": "Noreña",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 5.3,
-      "pixel_area_ha": 42.2,
-      "official_area_ha": 406.0,
-      "detections": 3,
-      "last_utc": "2026-08-04T13:48:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "norena"
-    },
-    {
-      "id": "dd570e13cc50",
-      "ine": "22163",
-      "municipality": "Nueno",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 53.3,
-      "pixel_area_ha": 168.7,
-      "detections": 27,
-      "last_utc": "2026-08-04T13:46:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "nueno"
-    },
     {
       "id": "82778ce56f7a",
       "ine": "22190",
@@ -102,40 +73,12 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 98.9,
-      "pixel_area_ha": 98.4,
-      "detections": 12,
-      "last_utc": "2026-08-04T13:46:00Z",
+      "pixel_area_ha": 154.7,
+      "detections": 16,
+      "last_utc": "2026-08-04T20:12:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "el-pueyo-de-araguas"
-    },
-    {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 5.5,
-      "pixel_area_ha": 56.2,
-      "detections": 7,
-      "last_utc": "2026-08-04T13:46:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "d37c7514cc04",
-      "ine": "47104",
-      "municipality": "Olmedo",
-      "province": "Valladolid",
-      "region": "Castilla y León",
-      "frp_max_mw": 6.1,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-04T15:16:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "olmedo"
     }
   ]
 }
