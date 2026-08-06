@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-05T23:13:50+00:00",
-  "last_sync_utc": "2026-08-05T23:13:20+00:00",
+  "generated_utc": "2026-08-06T03:32:28+00:00",
+  "last_sync_utc": "2026-08-06T03:29:52+00:00",
   "window_days": 400,
   "fires": {
     "total": 363,
-    "active": 23,
-    "dying_down": 52,
-    "out": 288
+    "active": 6,
+    "dying_down": 49,
+    "out": 308
   },
   "classes": {
     "agricultural": 16,
@@ -15,12 +15,12 @@
     "mixed": 7,
     "urban": 8
   },
-  "satellite_hotspots_24h": 34,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 6,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 4157,
-    "windy": 268,
+    "hot_dry": 3714,
+    "windy": 245,
     "met": 0
   },
   "official": {
@@ -66,20 +66,6 @@
   "burnt_ha_effis": 254878.0,
   "detections": 4631,
   "highlights": [
-    {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 98.4,
-      "detections": 20,
-      "last_utc": "2026-08-05T14:14:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
     {
       "id": "2478549964b5",
       "ine": "21074",
