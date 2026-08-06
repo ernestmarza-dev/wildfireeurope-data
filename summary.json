@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-06T12:13:35+00:00",
-  "last_sync_utc": "2026-08-06T12:11:00+00:00",
+  "generated_utc": "2026-08-06T15:07:07+00:00",
+  "last_sync_utc": "2026-08-06T14:57:41+00:00",
   "window_days": 400,
   "fires": {
-    "total": 371,
-    "active": 19,
-    "dying_down": 44,
-    "out": 308
+    "total": 378,
+    "active": 13,
+    "dying_down": 36,
+    "out": 329
   },
   "classes": {
     "agricultural": 16,
-    "forest": 199,
-    "likely_agricultural": 139,
-    "mixed": 9,
+    "forest": 200,
+    "likely_agricultural": 144,
+    "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 21,
+  "satellite_hotspots_24h": 22,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3855,
-    "windy": 230,
+    "hot_dry": 3869,
+    "windy": 256,
     "met": 0
   },
   "official": {
-    "active": 40,
-    "not_extinguished": 104,
+    "active": 41,
+    "not_extinguished": 107,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 27,
-        "total": 709,
-        "last_report_utc": "2026-08-05T10:00:00+00:00"
+        "active": 25,
+        "total": 714,
+        "last_report_utc": "2026-08-06T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 10,
-        "total": 191,
-        "last_report_utc": "2026-08-06T09:25:23+00:00"
+        "active": 13,
+        "total": 200,
+        "last_report_utc": "2026-08-06T14:57:43+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 3,
-        "total": 703,
-        "last_report_utc": "2026-08-05T17:17:00+00:00"
+        "total": 707,
+        "last_report_utc": "2026-08-06T14:06:00+00:00"
       },
       {
         "source": "bombers",
@@ -64,8 +64,23 @@
     ]
   },
   "burnt_ha_effis": 255317.0,
-  "detections": 4703,
+  "detections": 4712,
   "highlights": [
+    {
+      "id": "4ba55dd8e6ef",
+      "ine": "10178",
+      "municipality": "Talaván",
+      "province": "Cáceres",
+      "region": "Extremadura",
+      "frp_max_mw": 4.8,
+      "pixel_area_ha": 14.1,
+      "official_area_ha": 921.0,
+      "detections": 1,
+      "last_utc": "2026-08-06T12:14:00Z",
+      "status": "active",
+      "fire_class": "mixed",
+      "slug": "talavan"
+    },
     {
       "id": "8c2a9daa9079",
       "ine": "50089",
@@ -102,40 +117,11 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 98.4,
-      "detections": 26,
-      "last_utc": "2026-08-06T03:25:00Z",
+      "detections": 28,
+      "last_utc": "2026-08-06T12:14:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "77037029894a",
-      "ine": "21046",
-      "municipality": "Lucena del Puerto",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 98.3,
-      "pixel_area_ha": 70.3,
-      "official_area_ha": 67.0,
-      "detections": 6,
-      "last_utc": "2026-08-06T02:32:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "lucena-del-puerto"
-    },
-    {
-      "id": "308e328472eb",
-      "ine": "04032",
-      "municipality": "Carboneras",
-      "province": "Almería",
-      "region": "Andalucía",
-      "frp_max_mw": 2.2,
-      "pixel_area_ha": 56.2,
-      "detections": 7,
-      "last_utc": "2026-08-06T02:32:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "carboneras"
     },
     {
       "id": "3b21327e4471",
@@ -150,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "anover-de-tajo"
+    },
+    {
+      "id": "19c779354e52",
+      "ine": "25069",
+      "municipality": "Castelló de Farfanya",
+      "province": "Lleida",
+      "region": "Cataluña",
+      "frp_max_mw": 7.2,
+      "pixel_area_ha": 42.2,
+      "detections": 6,
+      "last_utc": "2026-08-06T03:06:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "castello-de-farfanya"
     }
   ]
 }
