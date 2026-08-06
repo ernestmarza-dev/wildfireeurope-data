@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-06T15:07:07+00:00",
-  "last_sync_utc": "2026-08-06T14:57:41+00:00",
+  "generated_utc": "2026-08-06T15:26:20+00:00",
+  "last_sync_utc": "2026-08-06T15:23:44+00:00",
   "window_days": 400,
   "fires": {
     "total": 378,
-    "active": 13,
-    "dying_down": 36,
+    "active": 10,
+    "dying_down": 39,
     "out": 329
   },
   "classes": {
@@ -122,34 +122,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "3b21327e4471",
-      "ine": "45014",
-      "municipality": "Añover de Tajo",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 1.6,
-      "pixel_area_ha": 56.2,
-      "detections": 11,
-      "last_utc": "2026-08-06T03:08:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "anover-de-tajo"
-    },
-    {
-      "id": "19c779354e52",
-      "ine": "25069",
-      "municipality": "Castelló de Farfanya",
-      "province": "Lleida",
-      "region": "Cataluña",
-      "frp_max_mw": 7.2,
-      "pixel_area_ha": 42.2,
-      "detections": 6,
-      "last_utc": "2026-08-06T03:06:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "castello-de-farfanya"
     }
   ]
 }
