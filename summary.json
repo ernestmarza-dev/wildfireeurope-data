@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-06T06:43:30+00:00",
-  "last_sync_utc": "2026-08-06T06:40:53+00:00",
+  "generated_utc": "2026-08-06T09:38:40+00:00",
+  "last_sync_utc": "2026-08-06T09:25:20+00:00",
   "window_days": 400,
   "fires": {
     "total": 371,
@@ -10,22 +10,22 @@
   },
   "classes": {
     "agricultural": 16,
-    "forest": 200,
-    "likely_agricultural": 140,
-    "mixed": 7,
+    "forest": 199,
+    "likely_agricultural": 139,
+    "mixed": 9,
     "urban": 8
   },
   "satellite_hotspots_24h": 21,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3826,
-    "windy": 203,
+    "hot_dry": 3855,
+    "windy": 230,
     "met": 0
   },
   "official": {
-    "active": 37,
-    "not_extinguished": 101,
+    "active": 40,
+    "not_extinguished": 104,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 7,
-        "total": 185,
-        "last_report_utc": "2026-08-06T03:52:18+00:00"
+        "active": 10,
+        "total": 191,
+        "last_report_utc": "2026-08-06T09:25:23+00:00"
       },
       {
         "source": "infoca",
@@ -63,8 +63,8 @@
       }
     ]
   },
-  "burnt_ha_effis": 254878.0,
-  "detections": 4689,
+  "burnt_ha_effis": 255317.0,
+  "detections": 4703,
   "highlights": [
     {
       "id": "8c2a9daa9079",
@@ -74,11 +74,25 @@
       "region": "Aragón",
       "frp_max_mw": 35.7,
       "pixel_area_ha": 112.5,
-      "detections": 14,
-      "last_utc": "2026-08-06T02:32:00Z",
+      "detections": 17,
+      "last_utc": "2026-08-06T03:51:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "cuarte-de-huerva"
+    },
+    {
+      "id": "2478549964b5",
+      "ine": "21074",
+      "municipality": "Villalba del Alcor",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 24.9,
+      "pixel_area_ha": 98.4,
+      "detections": 11,
+      "last_utc": "2026-08-06T03:28:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villalba-del-alcor"
     },
     {
       "id": "c9ddc794fef5",
@@ -88,8 +102,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 98.4,
-      "detections": 23,
-      "last_utc": "2026-08-06T02:32:00Z",
+      "detections": 26,
+      "last_utc": "2026-08-06T03:25:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
@@ -102,25 +116,12 @@
       "region": "Andalucía",
       "frp_max_mw": 98.3,
       "pixel_area_ha": 70.3,
+      "official_area_ha": 67.0,
       "detections": 6,
       "last_utc": "2026-08-06T02:32:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "lucena-del-puerto"
-    },
-    {
-      "id": "2478549964b5",
-      "ine": "21074",
-      "municipality": "Villalba del Alcor",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 24.9,
-      "pixel_area_ha": 70.3,
-      "detections": 6,
-      "last_utc": "2026-08-06T02:32:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villalba-del-alcor"
     },
     {
       "id": "308e328472eb",
@@ -137,18 +138,18 @@
       "slug": "carboneras"
     },
     {
-      "id": "44dad03514c9",
-      "ine": "24206",
-      "municipality": "Toral de los Vados",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 1.2,
+      "id": "3b21327e4471",
+      "ine": "45014",
+      "municipality": "Añover de Tajo",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 1.6,
       "pixel_area_ha": 56.2,
-      "detections": 5,
-      "last_utc": "2026-08-06T02:32:00Z",
+      "detections": 11,
+      "last_utc": "2026-08-06T03:08:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "toral-de-los-vados"
+      "slug": "anover-de-tajo"
     }
   ]
 }
