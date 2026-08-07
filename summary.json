@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-07T17:58:54+00:00",
-  "last_sync_utc": "2026-08-07T17:56:15+00:00",
+  "generated_utc": "2026-08-07T19:12:23+00:00",
+  "last_sync_utc": "2026-08-07T19:09:43+00:00",
   "window_days": 400,
   "fires": {
     "total": 414,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5075,
+  "detections": 5078,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,9 +88,9 @@
       "province": "Asturias",
       "region": "Principado de Asturias",
       "frp_max_mw": 73.1,
-      "pixel_area_ha": 182.8,
+      "pixel_area_ha": 196.8,
       "official_area_ha": 244.0,
-      "detections": 21,
+      "detections": 24,
       "last_utc": "2026-08-07T14:31:00Z",
       "status": "active",
       "fire_class": "forest",
