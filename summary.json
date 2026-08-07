@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-07T11:56:45+00:00",
-  "last_sync_utc": "2026-08-07T11:54:08+00:00",
+  "generated_utc": "2026-08-07T13:27:16+00:00",
+  "last_sync_utc": "2026-08-07T13:24:37+00:00",
   "window_days": 400,
   "fires": {
     "total": 403,
-    "active": 29,
-    "dying_down": 23,
+    "active": 32,
+    "dying_down": 20,
     "out": 351
   },
   "classes": {
@@ -15,7 +15,7 @@
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 29,
+  "satellite_hotspots_24h": 31,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255317.0,
-  "detections": 4854,
+  "detections": 4931,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,8 +73,8 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 191.3,
-      "pixel_area_ha": 604.6,
-      "detections": 65,
+      "pixel_area_ha": 703.0,
+      "detections": 111,
       "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -88,11 +88,25 @@
       "region": "Aragón",
       "frp_max_mw": 35.7,
       "pixel_area_ha": 112.5,
-      "detections": 19,
+      "detections": 20,
       "last_utc": "2026-08-07T02:11:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "cuarte-de-huerva"
+    },
+    {
+      "id": "983ef4017af9",
+      "ine": "33024",
+      "municipality": "Gijón",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 3.7,
+      "pixel_area_ha": 112.5,
+      "detections": 15,
+      "last_utc": "2026-08-07T03:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "gijon"
     },
     {
       "id": "2478549964b5",
@@ -102,7 +116,7 @@
       "region": "Andalucía",
       "frp_max_mw": 24.9,
       "pixel_area_ha": 98.4,
-      "detections": 21,
+      "detections": 23,
       "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -116,39 +130,25 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 98.4,
-      "detections": 35,
-      "last_utc": "2026-08-07T02:47:00Z",
+      "detections": 37,
+      "last_utc": "2026-08-07T03:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
+      "id": "efa04b94b589",
+      "ine": "33014",
+      "municipality": "Carreño",
       "province": "Asturias",
       "region": "Principado de Asturias",
-      "frp_max_mw": 3.0,
-      "pixel_area_ha": 98.4,
-      "detections": 11,
-      "last_utc": "2026-08-07T02:47:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gijon"
-    },
-    {
-      "id": "3b21327e4471",
-      "ine": "45014",
-      "municipality": "Añover de Tajo",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 1.8,
+      "frp_max_mw": 6.0,
       "pixel_area_ha": 70.3,
-      "detections": 13,
-      "last_utc": "2026-08-07T02:47:00Z",
+      "detections": 8,
+      "last_utc": "2026-08-07T09:24:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "anover-de-tajo"
+      "slug": "carreno"
     }
   ]
 }
