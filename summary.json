@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-07T21:53:40+00:00",
-  "last_sync_utc": "2026-08-07T21:51:00+00:00",
+  "generated_utc": "2026-08-07T22:52:45+00:00",
+  "last_sync_utc": "2026-08-07T22:50:09+00:00",
   "window_days": 400,
   "fires": {
-    "total": 414,
-    "active": 20,
+    "total": 430,
+    "active": 36,
     "dying_down": 35,
     "out": 359
   },
   "classes": {
     "agricultural": 16,
-    "forest": 224,
+    "forest": 240,
     "likely_agricultural": 156,
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 34,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 50,
+  "satellite_intense_24h": 25,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5356,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5078,
+  "detections": 5103,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21053",
-      "municipality": "Niebla",
+      "ine": "21072",
+      "municipality": "Valverde del Camino",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 848.9,
-      "pixel_area_ha": 1209.2,
+      "pixel_area_ha": 1321.6,
       "official_area_ha": 620.0,
-      "detections": 202,
-      "last_utc": "2026-08-07T15:31:00Z",
+      "detections": 211,
+      "last_utc": "2026-08-07T20:29:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "niebla"
+      "slug": "valverde-del-camino"
     },
     {
       "id": "7309967755e2",
