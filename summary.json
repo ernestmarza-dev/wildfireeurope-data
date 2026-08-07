@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-07T14:06:57+00:00",
-  "last_sync_utc": "2026-08-07T13:53:41+00:00",
+  "generated_utc": "2026-08-07T15:07:07+00:00",
+  "last_sync_utc": "2026-08-07T15:04:29+00:00",
   "window_days": 400,
   "fires": {
     "total": 403,
-    "active": 30,
-    "dying_down": 18,
-    "out": 355
+    "active": 16,
+    "dying_down": 29,
+    "out": 358
   },
   "classes": {
     "agricultural": 16,
@@ -82,20 +82,6 @@
       "slug": "niebla"
     },
     {
-      "id": "8c2a9daa9079",
-      "ine": "50089",
-      "municipality": "Cuarte de Huerva",
-      "province": "Zaragoza",
-      "region": "Aragón",
-      "frp_max_mw": 35.7,
-      "pixel_area_ha": 112.5,
-      "detections": 20,
-      "last_utc": "2026-08-07T02:11:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cuarte-de-huerva"
-    },
-    {
       "id": "983ef4017af9",
       "ine": "33024",
       "municipality": "Gijón",
@@ -150,6 +136,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
+    },
+    {
+      "id": "3b21327e4471",
+      "ine": "45014",
+      "municipality": "Añover de Tajo",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 1.8,
+      "pixel_area_ha": 70.3,
+      "detections": 16,
+      "last_utc": "2026-08-07T03:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "anover-de-tajo"
     }
   ]
 }
