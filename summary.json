@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-07T00:13:46+00:00",
-  "last_sync_utc": "2026-08-07T00:11:11+00:00",
+  "generated_utc": "2026-08-07T00:36:10+00:00",
+  "last_sync_utc": "2026-08-07T00:26:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 386,
-    "active": 18,
-    "dying_down": 33,
+    "active": 12,
+    "dying_down": 39,
     "out": 335
   },
   "classes": {
     "agricultural": 16,
-    "forest": 204,
-    "likely_agricultural": 148,
+    "forest": 205,
+    "likely_agricultural": 147,
     "mixed": 10,
     "urban": 8
   },
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5026,
-    "windy": 62,
+    "hot_dry": 5245,
+    "windy": 86,
     "met": 0
   },
   "official": {
-    "active": 41,
-    "not_extinguished": 107,
+    "active": 39,
+    "not_extinguished": 102,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 25,
-        "total": 714,
-        "last_report_utc": "2026-08-06T10:00:00+00:00"
+        "active": 26,
+        "total": 718,
+        "last_report_utc": "2026-08-06T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 13,
-        "total": 200,
-        "last_report_utc": "2026-08-06T14:57:43+00:00"
+        "active": 9,
+        "total": 205,
+        "last_report_utc": "2026-08-07T00:26:53+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 3,
-        "total": 707,
-        "last_report_utc": "2026-08-06T14:06:00+00:00"
+        "active": 4,
+        "total": 714,
+        "last_report_utc": "2026-08-06T18:20:00+00:00"
       },
       {
         "source": "bombers",
@@ -66,21 +66,6 @@
   "burnt_ha_effis": 255317.0,
   "detections": 4740,
   "highlights": [
-    {
-      "id": "4ba55dd8e6ef",
-      "ine": "10178",
-      "municipality": "Talaván",
-      "province": "Cáceres",
-      "region": "Extremadura",
-      "frp_max_mw": 4.8,
-      "pixel_area_ha": 14.1,
-      "official_area_ha": 921.0,
-      "detections": 1,
-      "last_utc": "2026-08-06T12:14:00Z",
-      "status": "active",
-      "fire_class": "mixed",
-      "slug": "talavan"
-    },
     {
       "id": "2478549964b5",
       "ine": "21074",
@@ -144,6 +129,20 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 114.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-06T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "niebla"
+    },
+    {
+      "id": "a849b929d4e6",
+      "ine": "21053",
+      "municipality": "Niebla",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 105.1,
       "pixel_area_ha": 14.1,
       "detections": 1,
       "last_utc": "2026-08-06T21:29:00Z",
