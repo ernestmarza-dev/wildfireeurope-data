@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-07T16:09:42+00:00",
-  "last_sync_utc": "2026-08-07T16:07:03+00:00",
+  "generated_utc": "2026-08-07T17:58:54+00:00",
+  "last_sync_utc": "2026-08-07T17:56:15+00:00",
   "window_days": 400,
   "fires": {
-    "total": 411,
-    "active": 20,
-    "dying_down": 32,
+    "total": 414,
+    "active": 22,
+    "dying_down": 33,
     "out": 359
   },
   "classes": {
     "agricultural": 16,
-    "forest": 222,
-    "likely_agricultural": 155,
+    "forest": 223,
+    "likely_agricultural": 157,
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 32,
-  "satellite_intense_24h": 8,
+  "satellite_hotspots_24h": 33,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5285,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5030,
+  "detections": 5075,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -72,11 +72,11 @@
       "municipality": "Niebla",
       "province": "Huelva",
       "region": "Andalucía",
-      "frp_max_mw": 191.3,
-      "pixel_area_ha": 942.0,
+      "frp_max_mw": 848.9,
+      "pixel_area_ha": 1209.2,
       "official_area_ha": 620.0,
-      "detections": 163,
-      "last_utc": "2026-08-07T14:10:00Z",
+      "detections": 202,
+      "last_utc": "2026-08-07T15:31:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "niebla"
@@ -90,11 +90,26 @@
       "frp_max_mw": 73.1,
       "pixel_area_ha": 182.8,
       "official_area_ha": 244.0,
-      "detections": 20,
-      "last_utc": "2026-08-07T13:36:00Z",
+      "detections": 21,
+      "last_utc": "2026-08-07T14:31:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villayon"
+    },
+    {
+      "id": "c2d7013a7eb5",
+      "ine": "24198",
+      "municipality": "Vega de Valcarce",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 10.4,
+      "pixel_area_ha": 28.1,
+      "official_area_ha": 196.0,
+      "detections": 2,
+      "last_utc": "2026-08-07T15:33:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vega-de-valcarce"
     },
     {
       "id": "983ef4017af9",
@@ -118,8 +133,8 @@
       "region": "Andalucía",
       "frp_max_mw": 24.9,
       "pixel_area_ha": 98.4,
-      "detections": 23,
-      "last_utc": "2026-08-07T09:26:00Z",
+      "detections": 24,
+      "last_utc": "2026-08-07T15:31:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
@@ -137,20 +152,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "efa04b94b589",
-      "ine": "33014",
-      "municipality": "Carreño",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 6.0,
-      "pixel_area_ha": 70.3,
-      "detections": 9,
-      "last_utc": "2026-08-07T12:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "carreno"
     }
   ]
 }
