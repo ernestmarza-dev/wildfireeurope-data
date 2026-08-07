@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-07T13:27:16+00:00",
-  "last_sync_utc": "2026-08-07T13:24:37+00:00",
+  "generated_utc": "2026-08-07T14:06:57+00:00",
+  "last_sync_utc": "2026-08-07T13:53:41+00:00",
   "window_days": 400,
   "fires": {
     "total": 403,
-    "active": 32,
-    "dying_down": 20,
-    "out": 351
+    "active": 30,
+    "dying_down": 18,
+    "out": 355
   },
   "classes": {
     "agricultural": 16,
-    "forest": 220,
-    "likely_agricultural": 149,
+    "forest": 221,
+    "likely_agricultural": 148,
     "mixed": 10,
     "urban": 8
   },
@@ -19,12 +19,12 @@
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5217,
-    "windy": 102,
-    "met": 14
+    "hot_dry": 5285,
+    "windy": 84,
+    "met": 0
   },
   "official": {
-    "active": 37,
+    "active": 38,
     "not_extinguished": 99,
     "regions": [
       "Andalucía",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 26,
-        "total": 718,
-        "last_report_utc": "2026-08-06T19:00:00+00:00"
+        "active": 25,
+        "total": 723,
+        "last_report_utc": "2026-08-07T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 7,
-        "total": 211,
-        "last_report_utc": "2026-08-07T07:53:33+00:00"
+        "active": 9,
+        "total": 216,
+        "last_report_utc": "2026-08-07T13:53:44+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 4,
-        "total": 714,
-        "last_report_utc": "2026-08-06T18:20:00+00:00"
+        "total": 718,
+        "last_report_utc": "2026-08-07T12:13:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 255317.0,
+  "burnt_ha_effis": 255948.0,
   "detections": 4931,
   "highlights": [
     {
@@ -74,6 +74,7 @@
       "region": "Andalucía",
       "frp_max_mw": 191.3,
       "pixel_area_ha": 703.0,
+      "official_area_ha": 620.0,
       "detections": 111,
       "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
