@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-07T00:36:10+00:00",
+  "generated_utc": "2026-08-07T03:52:57+00:00",
   "last_sync_utc": "2026-08-07T00:26:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 386,
-    "active": 12,
-    "dying_down": 39,
-    "out": 335
+    "active": 4,
+    "dying_down": 32,
+    "out": 350
   },
   "classes": {
     "agricultural": 16,
@@ -15,17 +15,17 @@
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 25,
-  "satellite_intense_24h": 8,
+  "satellite_hotspots_24h": 8,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5245,
-    "windy": 86,
-    "met": 0
+    "hot_dry": 5291,
+    "windy": 107,
+    "met": 14
   },
   "official": {
-    "active": 39,
-    "not_extinguished": 102,
+    "active": 40,
+    "not_extinguished": 103,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 9,
-        "total": 205,
-        "last_report_utc": "2026-08-07T00:26:53+00:00"
+        "active": 10,
+        "total": 209,
+        "last_report_utc": "2026-08-07T03:39:37+00:00"
       },
       {
         "source": "infoca",
@@ -66,48 +66,6 @@
   "burnt_ha_effis": 255317.0,
   "detections": 4740,
   "highlights": [
-    {
-      "id": "2478549964b5",
-      "ine": "21074",
-      "municipality": "Villalba del Alcor",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 24.9,
-      "pixel_area_ha": 98.4,
-      "detections": 16,
-      "last_utc": "2026-08-06T13:55:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villalba-del-alcor"
-    },
-    {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 98.4,
-      "detections": 30,
-      "last_utc": "2026-08-06T13:53:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "9fbd9f2c3771",
-      "ine": "21046",
-      "municipality": "Lucena del Puerto",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 476.1,
-      "pixel_area_ha": 42.2,
-      "detections": 4,
-      "last_utc": "2026-08-06T13:08:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "lucena-del-puerto"
-    },
     {
       "id": "c53cda1cb1e5",
       "ine": "21053",
@@ -143,6 +101,20 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 105.1,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-06T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "niebla"
+    },
+    {
+      "id": "d9fbbd9b13d2",
+      "ine": "21053",
+      "municipality": "Niebla",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 69.2,
       "pixel_area_ha": 14.1,
       "detections": 1,
       "last_utc": "2026-08-06T21:29:00Z",
