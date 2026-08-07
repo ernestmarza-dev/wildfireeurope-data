@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-08-07T11:03:23+00:00",
-  "last_sync_utc": "2026-08-07T11:02:52+00:00",
+  "generated_utc": "2026-08-07T11:56:45+00:00",
+  "last_sync_utc": "2026-08-07T11:54:08+00:00",
   "window_days": 400,
   "fires": {
-    "total": 390,
-    "active": 7,
-    "dying_down": 32,
+    "total": 403,
+    "active": 29,
+    "dying_down": 23,
     "out": 351
   },
   "classes": {
     "agricultural": 16,
-    "forest": 206,
-    "likely_agricultural": 150,
+    "forest": 220,
+    "likely_agricultural": 149,
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 9,
+  "satellite_hotspots_24h": 29,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255317.0,
-  "detections": 4757,
+  "detections": 4854,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,12 +73,26 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 191.3,
-      "pixel_area_ha": 168.7,
-      "detections": 12,
+      "pixel_area_ha": 604.6,
+      "detections": 65,
       "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "niebla"
+    },
+    {
+      "id": "8c2a9daa9079",
+      "ine": "50089",
+      "municipality": "Cuarte de Huerva",
+      "province": "Zaragoza",
+      "region": "Aragón",
+      "frp_max_mw": 35.7,
+      "pixel_area_ha": 112.5,
+      "detections": 19,
+      "last_utc": "2026-08-07T02:11:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cuarte-de-huerva"
     },
     {
       "id": "2478549964b5",
@@ -88,39 +102,53 @@
       "region": "Andalucía",
       "frp_max_mw": 24.9,
       "pixel_area_ha": 98.4,
-      "detections": 18,
+      "detections": 21,
       "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
     },
     {
-      "id": "aaee7c4ee1b9",
-      "ine": "12135",
-      "municipality": "Vila-real",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 12.5,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-07T09:26:00Z",
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 7.5,
+      "pixel_area_ha": 98.4,
+      "detections": 35,
+      "last_utc": "2026-08-07T02:47:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "vila-real"
+      "slug": "morata-de-tajuna"
     },
     {
-      "id": "0fe1e3d524eb",
-      "ine": "06044",
-      "municipality": "Don Benito",
-      "province": "Badajoz",
-      "region": "Extremadura",
-      "frp_max_mw": 11.4,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-07T04:29:00Z",
+      "id": "983ef4017af9",
+      "ine": "33024",
+      "municipality": "Gijón",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 3.0,
+      "pixel_area_ha": 98.4,
+      "detections": 11,
+      "last_utc": "2026-08-07T02:47:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "don-benito"
+      "slug": "gijon"
+    },
+    {
+      "id": "3b21327e4471",
+      "ine": "45014",
+      "municipality": "Añover de Tajo",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 1.8,
+      "pixel_area_ha": 70.3,
+      "detections": 13,
+      "last_utc": "2026-08-07T02:47:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "anover-de-tajo"
     }
   ]
 }
