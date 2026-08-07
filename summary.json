@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-08-06T15:26:20+00:00",
-  "last_sync_utc": "2026-08-06T15:23:44+00:00",
+  "generated_utc": "2026-08-07T00:13:46+00:00",
+  "last_sync_utc": "2026-08-07T00:11:11+00:00",
   "window_days": 400,
   "fires": {
-    "total": 378,
-    "active": 10,
-    "dying_down": 39,
-    "out": 329
+    "total": 386,
+    "active": 18,
+    "dying_down": 33,
+    "out": 335
   },
   "classes": {
     "agricultural": 16,
-    "forest": 200,
-    "likely_agricultural": 144,
+    "forest": 204,
+    "likely_agricultural": 148,
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 22,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 25,
+  "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3869,
-    "windy": 256,
+    "hot_dry": 5026,
+    "windy": 62,
     "met": 0
   },
   "official": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255317.0,
-  "detections": 4712,
+  "detections": 4740,
   "highlights": [
     {
       "id": "4ba55dd8e6ef",
@@ -82,20 +82,6 @@
       "slug": "talavan"
     },
     {
-      "id": "8c2a9daa9079",
-      "ine": "50089",
-      "municipality": "Cuarte de Huerva",
-      "province": "Zaragoza",
-      "region": "Aragón",
-      "frp_max_mw": 35.7,
-      "pixel_area_ha": 112.5,
-      "detections": 17,
-      "last_utc": "2026-08-06T03:51:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cuarte-de-huerva"
-    },
-    {
       "id": "2478549964b5",
       "ine": "21074",
       "municipality": "Villalba del Alcor",
@@ -103,8 +89,8 @@
       "region": "Andalucía",
       "frp_max_mw": 24.9,
       "pixel_area_ha": 98.4,
-      "detections": 11,
-      "last_utc": "2026-08-06T03:28:00Z",
+      "detections": 16,
+      "last_utc": "2026-08-06T13:55:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
@@ -117,11 +103,53 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 98.4,
-      "detections": 28,
-      "last_utc": "2026-08-06T12:14:00Z",
+      "detections": 30,
+      "last_utc": "2026-08-06T13:53:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "9fbd9f2c3771",
+      "ine": "21046",
+      "municipality": "Lucena del Puerto",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 476.1,
+      "pixel_area_ha": 42.2,
+      "detections": 4,
+      "last_utc": "2026-08-06T13:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "lucena-del-puerto"
+    },
+    {
+      "id": "c53cda1cb1e5",
+      "ine": "21053",
+      "municipality": "Niebla",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 191.3,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-06T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "niebla"
+    },
+    {
+      "id": "cbf06b4f90b1",
+      "ine": "21053",
+      "municipality": "Niebla",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 114.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-06T21:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "niebla"
     }
   ]
 }
