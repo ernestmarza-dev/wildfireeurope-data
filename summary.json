@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-07T09:14:13+00:00",
-  "last_sync_utc": "2026-08-07T09:11:36+00:00",
+  "generated_utc": "2026-08-07T11:03:23+00:00",
+  "last_sync_utc": "2026-08-07T11:02:52+00:00",
   "window_days": 400,
   "fires": {
-    "total": 386,
-    "active": 5,
-    "dying_down": 30,
+    "total": 390,
+    "active": 7,
+    "dying_down": 32,
     "out": 351
   },
   "classes": {
     "agricultural": 16,
-    "forest": 205,
-    "likely_agricultural": 147,
+    "forest": 206,
+    "likely_agricultural": 150,
     "mixed": 10,
     "urban": 8
   },
-  "satellite_hotspots_24h": 8,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 9,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5217,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255317.0,
-  "detections": 4751,
+  "detections": 4757,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,9 +73,9 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 191.3,
-      "pixel_area_ha": 154.7,
-      "detections": 11,
-      "last_utc": "2026-08-07T04:32:00Z",
+      "pixel_area_ha": 168.7,
+      "detections": 12,
+      "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "niebla"
@@ -88,39 +88,25 @@
       "region": "Andalucía",
       "frp_max_mw": 24.9,
       "pixel_area_ha": 98.4,
-      "detections": 17,
-      "last_utc": "2026-08-07T04:32:00Z",
+      "detections": 18,
+      "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
     },
     {
-      "id": "cbf06b4f90b1",
-      "ine": "21053",
-      "municipality": "Niebla",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 114.4,
+      "id": "aaee7c4ee1b9",
+      "ine": "12135",
+      "municipality": "Vila-real",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 12.5,
       "pixel_area_ha": 14.1,
       "detections": 1,
-      "last_utc": "2026-08-06T21:29:00Z",
+      "last_utc": "2026-08-07T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "niebla"
-    },
-    {
-      "id": "a849b929d4e6",
-      "ine": "21053",
-      "municipality": "Niebla",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 105.1,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-06T21:29:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "niebla"
+      "slug": "vila-real"
     },
     {
       "id": "0fe1e3d524eb",
