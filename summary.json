@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-08T11:40:07+00:00",
-  "last_sync_utc": "2026-08-08T11:37:27+00:00",
+  "generated_utc": "2026-08-08T13:09:59+00:00",
+  "last_sync_utc": "2026-08-08T13:07:20+00:00",
   "window_days": 400,
   "fires": {
-    "total": 432,
-    "active": 29,
-    "dying_down": 34,
+    "total": 436,
+    "active": 32,
+    "dying_down": 35,
     "out": 369
   },
   "classes": {
     "agricultural": 16,
     "forest": 243,
-    "likely_agricultural": 154,
+    "likely_agricultural": 158,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 36,
-  "satellite_intense_24h": 11,
+  "satellite_hotspots_24h": 34,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5501,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5577,
+  "detections": 5590,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 848.9,
-      "pixel_area_ha": 3711.8,
+      "pixel_area_ha": 3740.0,
       "official_area_ha": 816.0,
-      "detections": 599,
-      "last_utc": "2026-08-08T05:08:00Z",
+      "detections": 608,
+      "last_utc": "2026-08-08T10:06:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "niebla"
