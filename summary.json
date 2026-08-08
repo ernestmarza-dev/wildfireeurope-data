@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-08T07:43:34+00:00",
-  "last_sync_utc": "2026-08-08T07:31:57+00:00",
+  "generated_utc": "2026-08-08T08:56:38+00:00",
+  "last_sync_utc": "2026-08-08T08:53:58+00:00",
   "window_days": 400,
   "fires": {
     "total": 432,
-    "active": 31,
-    "dying_down": 32,
+    "active": 29,
+    "dying_down": 34,
     "out": 369
   },
   "classes": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5569,
+  "detections": 5577,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 848.9,
-      "pixel_area_ha": 3655.6,
+      "pixel_area_ha": 3711.8,
       "official_area_ha": 816.0,
-      "detections": 591,
-      "last_utc": "2026-08-08T02:49:00Z",
+      "detections": 599,
+      "last_utc": "2026-08-08T05:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "niebla"
