@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-08T14:51:38+00:00",
-  "last_sync_utc": "2026-08-08T13:28:59+00:00",
+  "generated_utc": "2026-08-08T15:41:41+00:00",
+  "last_sync_utc": "2026-08-08T15:38:59+00:00",
   "window_days": 400,
   "fires": {
-    "total": 436,
-    "active": 5,
-    "dying_down": 50,
-    "out": 381
+    "total": 438,
+    "active": 12,
+    "dying_down": 41,
+    "out": 385
   },
   "classes": {
     "agricultural": 16,
     "forest": 243,
-    "likely_agricultural": 158,
+    "likely_agricultural": 160,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 32,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 31,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5536,
@@ -64,22 +64,92 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 5590,
+  "detections": 5663,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21053",
-      "municipality": "Niebla",
+      "ine": "21072",
+      "municipality": "Valverde del Camino",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 848.9,
-      "pixel_area_ha": 3740.0,
+      "pixel_area_ha": 4119.6,
       "official_area_ha": 816.0,
-      "detections": 608,
-      "last_utc": "2026-08-08T10:06:00Z",
+      "detections": 663,
+      "last_utc": "2026-08-08T12:29:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "niebla"
+      "slug": "valverde-del-camino"
+    },
+    {
+      "id": "d5fc5c34efd7",
+      "ine": "12111",
+      "municipality": "Tírig",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 190.7,
+      "pixel_area_ha": 323.4,
+      "detections": 39,
+      "last_utc": "2026-08-08T12:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "tirig"
+    },
+    {
+      "id": "983ef4017af9",
+      "ine": "33024",
+      "municipality": "Gijón",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 6.5,
+      "pixel_area_ha": 126.5,
+      "detections": 26,
+      "last_utc": "2026-08-08T12:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "gijon"
+    },
+    {
+      "id": "2478549964b5",
+      "ine": "21074",
+      "municipality": "Villalba del Alcor",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 24.9,
+      "pixel_area_ha": 98.4,
+      "detections": 30,
+      "last_utc": "2026-08-08T12:29:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villalba-del-alcor"
+    },
+    {
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 7.5,
+      "pixel_area_ha": 98.4,
+      "detections": 44,
+      "last_utc": "2026-08-08T12:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "efa04b94b589",
+      "ine": "33014",
+      "municipality": "Carreño",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 6.0,
+      "pixel_area_ha": 70.3,
+      "detections": 11,
+      "last_utc": "2026-08-08T12:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carreno"
     }
   ]
 }
