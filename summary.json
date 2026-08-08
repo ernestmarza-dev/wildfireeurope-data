@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-08T17:42:36+00:00",
-  "last_sync_utc": "2026-08-08T17:39:58+00:00",
+  "generated_utc": "2026-08-08T18:55:52+00:00",
+  "last_sync_utc": "2026-08-08T18:53:13+00:00",
   "window_days": 400,
   "fires": {
     "total": 444,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 6025,
+  "detections": 6047,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -72,10 +72,10 @@
       "municipality": "Valverde del Camino",
       "province": "Huelva",
       "region": "Andalucía",
-      "frp_max_mw": 848.9,
-      "pixel_area_ha": 5694.3,
-      "detections": 965,
-      "last_utc": "2026-08-08T14:12:00Z",
+      "frp_max_mw": 1927.8,
+      "pixel_area_ha": 5806.8,
+      "detections": 987,
+      "last_utc": "2026-08-08T16:09:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "valverde-del-camino"
