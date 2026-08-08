@@ -1,6 +1,6 @@
 {
-  "sha": "80615a70ad49a1afc9bbf93ccc67743aba0c90cb",
-  "generated_utc": "2026-08-08T19:41:16+00:00",
+  "sha": "1078de3229f894c5ca16d5843c94cd22f3d2def8",
+  "generated_utc": "2026-08-08T20:46:03+00:00",
   "files": [
     "detections.json",
     "indicators.json",
