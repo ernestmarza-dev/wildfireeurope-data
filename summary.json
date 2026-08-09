@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-09T10:49:49+00:00",
-  "last_sync_utc": "2026-08-09T10:47:09+00:00",
+  "generated_utc": "2026-08-09T11:41:24+00:00",
+  "last_sync_utc": "2026-08-09T11:38:43+00:00",
   "window_days": 400,
   "fires": {
     "total": 466,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 6689,
+  "detections": 6698,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,9 +73,9 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 7817.4,
-      "detections": 1458,
-      "last_utc": "2026-08-09T04:08:00Z",
+      "pixel_area_ha": 7831.4,
+      "detections": 1461,
+      "last_utc": "2026-08-09T09:07:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "la-palma-del-condado"
@@ -87,9 +87,9 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 190.7,
-      "pixel_area_ha": 534.3,
-      "detections": 106,
-      "last_utc": "2026-08-09T04:08:00Z",
+      "pixel_area_ha": 576.5,
+      "detections": 110,
+      "last_utc": "2026-08-09T09:07:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "tirig"
@@ -115,9 +115,9 @@
       "province": "Segovia",
       "region": "Castilla y León",
       "frp_max_mw": 25.9,
-      "pixel_area_ha": 140.6,
-      "detections": 20,
-      "last_utc": "2026-08-09T03:15:00Z",
+      "pixel_area_ha": 154.7,
+      "detections": 21,
+      "last_utc": "2026-08-09T09:07:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vegas-de-matute"
