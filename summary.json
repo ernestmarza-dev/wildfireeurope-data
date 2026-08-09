@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-09T05:56:25+00:00",
-  "last_sync_utc": "2026-08-09T05:53:46+00:00",
+  "generated_utc": "2026-08-09T07:13:00+00:00",
+  "last_sync_utc": "2026-08-09T07:10:22+00:00",
   "window_days": 400,
   "fires": {
-    "total": 464,
-    "active": 34,
-    "dying_down": 29,
+    "total": 465,
+    "active": 36,
+    "dying_down": 28,
     "out": 401
   },
   "classes": {
     "agricultural": 16,
-    "forest": 266,
-    "likely_agricultural": 163,
+    "forest": 268,
+    "likely_agricultural": 162,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 37,
-  "satellite_intense_24h": 9,
+  "satellite_hotspots_24h": 39,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5485,
@@ -64,21 +64,21 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 6404,
+  "detections": 6501,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21077",
-      "municipality": "Villarrasa",
+      "ine": "21054",
+      "municipality": "La Palma del Condado",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 7479.9,
-      "detections": 1252,
-      "last_utc": "2026-08-09T02:11:00Z",
+      "pixel_area_ha": 7662.7,
+      "detections": 1330,
+      "last_utc": "2026-08-09T04:08:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villarrasa"
+      "slug": "la-palma-del-condado"
     },
     {
       "id": "d5fc5c34efd7",
@@ -87,12 +87,26 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 190.7,
-      "pixel_area_ha": 492.1,
-      "detections": 80,
-      "last_utc": "2026-08-09T02:11:00Z",
+      "pixel_area_ha": 520.2,
+      "detections": 84,
+      "last_utc": "2026-08-09T04:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "tirig"
+    },
+    {
+      "id": "def15a79e36f",
+      "ine": "32012",
+      "municipality": "Os Blancos",
+      "province": "Ourense",
+      "region": "Galicia",
+      "frp_max_mw": 38.1,
+      "pixel_area_ha": 182.8,
+      "detections": 24,
+      "last_utc": "2026-08-09T04:06:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "os-blancos"
     },
     {
       "id": "983ef4017af9",
@@ -135,20 +149,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
-    },
-    {
-      "id": "420ef90b6b34",
-      "ine": "40223",
-      "municipality": "Vegas de Matute",
-      "province": "Segovia",
-      "region": "Castilla y León",
-      "frp_max_mw": 25.9,
-      "pixel_area_ha": 84.4,
-      "detections": 10,
-      "last_utc": "2026-08-09T02:11:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vegas-de-matute"
     }
   ]
 }
