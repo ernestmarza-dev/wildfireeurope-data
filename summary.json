@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-08-09T07:47:41+00:00",
-  "last_sync_utc": "2026-08-09T07:37:07+00:00",
+  "generated_utc": "2026-08-09T08:58:38+00:00",
+  "last_sync_utc": "2026-08-09T08:55:59+00:00",
   "window_days": 400,
   "fires": {
-    "total": 465,
-    "active": 36,
-    "dying_down": 28,
-    "out": 401
+    "total": 466,
+    "active": 39,
+    "dying_down": 25,
+    "out": 402
   },
   "classes": {
     "agricultural": 16,
-    "forest": 268,
+    "forest": 269,
     "likely_agricultural": 162,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 39,
+  "satellite_hotspots_24h": 42,
   "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 6501,
+  "detections": 6689,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,8 +73,8 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 7662.7,
-      "detections": 1330,
+      "pixel_area_ha": 7817.4,
+      "detections": 1458,
       "last_utc": "2026-08-09T04:08:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -87,8 +87,8 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 190.7,
-      "pixel_area_ha": 520.2,
-      "detections": 84,
+      "pixel_area_ha": 534.3,
+      "detections": 106,
       "last_utc": "2026-08-09T04:08:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -101,12 +101,26 @@
       "province": "Ourense",
       "region": "Galicia",
       "frp_max_mw": 38.1,
-      "pixel_area_ha": 182.8,
-      "detections": 24,
+      "pixel_area_ha": 196.8,
+      "detections": 28,
       "last_utc": "2026-08-09T04:06:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "os-blancos"
+    },
+    {
+      "id": "420ef90b6b34",
+      "ine": "40223",
+      "municipality": "Vegas de Matute",
+      "province": "Segovia",
+      "region": "Castilla y León",
+      "frp_max_mw": 25.9,
+      "pixel_area_ha": 140.6,
+      "detections": 20,
+      "last_utc": "2026-08-09T03:15:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vegas-de-matute"
     },
     {
       "id": "983ef4017af9",
@@ -116,8 +130,8 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 6.5,
       "pixel_area_ha": 126.5,
-      "detections": 30,
-      "last_utc": "2026-08-09T02:11:00Z",
+      "detections": 31,
+      "last_utc": "2026-08-09T02:30:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
@@ -130,25 +144,11 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 47,
-      "last_utc": "2026-08-09T02:13:00Z",
+      "detections": 48,
+      "last_utc": "2026-08-09T02:30:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "2478549964b5",
-      "ine": "21074",
-      "municipality": "Villalba del Alcor",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 24.9,
-      "pixel_area_ha": 98.4,
-      "detections": 33,
-      "last_utc": "2026-08-09T02:11:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "villalba-del-alcor"
     }
   ]
 }
