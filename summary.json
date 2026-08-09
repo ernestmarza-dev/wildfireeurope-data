@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-09T22:52:08+00:00",
-  "last_sync_utc": "2026-08-09T20:47:30+00:00",
+  "generated_utc": "2026-08-09T23:43:40+00:00",
+  "last_sync_utc": "2026-08-09T23:41:02+00:00",
   "window_days": 400,
   "fires": {
-    "total": 481,
-    "active": 24,
+    "total": 503,
+    "active": 46,
     "dying_down": 40,
     "out": 417
   },
   "classes": {
     "agricultural": 16,
-    "forest": 273,
+    "forest": 295,
     "likely_agricultural": 173,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 42,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 64,
+  "satellite_intense_24h": 33,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5207,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 7296,
+  "detections": 7341,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,12 +73,27 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 10334.1,
-      "detections": 1945,
-      "last_utc": "2026-08-09T15:09:00Z",
+      "pixel_area_ha": 10474.7,
+      "detections": 1960,
+      "last_utc": "2026-08-09T20:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "valverde-del-camino"
+    },
+    {
+      "id": "1ed6b8db4aaa",
+      "ine": "21056",
+      "municipality": "Paterna del Campo",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 39.0,
+      "pixel_area_ha": 14.1,
+      "official_area_ha": 1429.0,
+      "detections": 1,
+      "last_utc": "2026-08-09T20:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "paterna-del-campo"
     },
     {
       "id": "d5fc5c34efd7",
@@ -101,9 +116,9 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 161.1,
-      "pixel_area_ha": 309.3,
-      "detections": 64,
-      "last_utc": "2026-08-09T15:12:00Z",
+      "pixel_area_ha": 323.4,
+      "detections": 65,
+      "last_utc": "2026-08-09T20:08:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "cati"
@@ -115,9 +130,9 @@
       "province": "Segovia",
       "region": "Castilla y León",
       "frp_max_mw": 2079.2,
-      "pixel_area_ha": 225.0,
-      "detections": 28,
-      "last_utc": "2026-08-09T15:12:00Z",
+      "pixel_area_ha": 253.1,
+      "detections": 30,
+      "last_utc": "2026-08-09T20:10:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vegas-de-matute"
@@ -135,20 +150,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "os-blancos"
-    },
-    {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 6.5,
-      "pixel_area_ha": 126.5,
-      "detections": 32,
-      "last_utc": "2026-08-09T12:57:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gijon"
     }
   ]
 }
