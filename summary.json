@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-09T02:32:14+00:00",
-  "last_sync_utc": "2026-08-08T23:39:04+00:00",
+  "generated_utc": "2026-08-09T02:50:46+00:00",
+  "last_sync_utc": "2026-08-09T02:37:16+00:00",
   "window_days": 400,
   "fires": {
     "total": 452,
-    "active": 12,
-    "dying_down": 42,
-    "out": 398
+    "active": 9,
+    "dying_down": 44,
+    "out": 399
   },
   "classes": {
     "agricultural": 16,
@@ -15,17 +15,17 @@
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 27,
-  "satellite_intense_24h": 14,
+  "satellite_hotspots_24h": 17,
+  "satellite_intense_24h": 12,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5460,
-    "windy": 292,
-    "met": 98
+    "hot_dry": 5485,
+    "windy": 370,
+    "met": 116
   },
   "official": {
-    "active": 44,
-    "not_extinguished": 111,
+    "active": 42,
+    "not_extinguished": 107,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,15 +43,15 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 13,
-        "total": 255,
-        "last_report_utc": "2026-08-08T19:15:40+00:00"
+        "active": 12,
+        "total": 261,
+        "last_report_utc": "2026-08-09T02:37:24+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 6,
-        "total": 732,
+        "active": 5,
+        "total": 733,
         "last_report_utc": "2026-08-08T18:15:00+00:00"
       },
       {
@@ -79,34 +79,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "valverde-del-camino"
-    },
-    {
-      "id": "d5fc5c34efd7",
-      "ine": "12111",
-      "municipality": "Tírig",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 190.7,
-      "pixel_area_ha": 393.7,
-      "detections": 60,
-      "last_utc": "2026-08-08T14:33:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "tirig"
-    },
-    {
-      "id": "be81b4846616",
-      "ine": "02055",
-      "municipality": "Nerpio",
-      "province": "Albacete",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 934.1,
-      "pixel_area_ha": 56.2,
-      "detections": 9,
-      "last_utc": "2026-08-08T14:31:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "nerpio"
     },
     {
       "id": "1b13c45d8b11",
@@ -149,6 +121,34 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "vegas-de-matute"
+    },
+    {
+      "id": "ab1b4c39b301",
+      "ine": "40223",
+      "municipality": "Vegas de Matute",
+      "province": "Segovia",
+      "region": "Castilla y León",
+      "frp_max_mw": 22.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-08T21:08:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vegas-de-matute"
+    },
+    {
+      "id": "163541c39fba",
+      "ine": "21012",
+      "municipality": "Berrocal",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 19.1,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-08T21:06:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "berrocal"
     }
   ]
 }
