@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-09T13:54:58+00:00",
+  "generated_utc": "2026-08-09T14:54:50+00:00",
   "last_sync_utc": "2026-08-09T11:38:43+00:00",
   "window_days": 400,
   "fires": {
     "total": 466,
-    "active": 32,
-    "dying_down": 30,
-    "out": 404
+    "active": 10,
+    "dying_down": 40,
+    "out": 416
   },
   "classes": {
     "agricultural": 16,
@@ -15,8 +15,8 @@
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 40,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 39,
+  "satellite_intense_24h": 9,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4982,
@@ -123,32 +123,32 @@
       "slug": "vegas-de-matute"
     },
     {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 6.5,
-      "pixel_area_ha": 126.5,
-      "detections": 31,
-      "last_utc": "2026-08-09T02:30:00Z",
+      "id": "cd0907dd89f5",
+      "ine": "12042",
+      "municipality": "Catí",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 14.9,
+      "pixel_area_ha": 98.4,
+      "detections": 10,
+      "last_utc": "2026-08-09T09:07:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "gijon"
+      "slug": "cati"
     },
     {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 48,
-      "last_utc": "2026-08-09T02:30:00Z",
+      "id": "4724283e3229",
+      "ine": "36047",
+      "municipality": "Rodeiro",
+      "province": "Pontevedra",
+      "region": "Galicia",
+      "frp_max_mw": 123.5,
+      "pixel_area_ha": 70.3,
+      "detections": 8,
+      "last_utc": "2026-08-09T03:15:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "morata-de-tajuna"
+      "slug": "rodeiro"
     }
   ]
 }
