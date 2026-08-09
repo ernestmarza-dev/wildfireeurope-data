@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-09T14:54:50+00:00",
-  "last_sync_utc": "2026-08-09T11:38:43+00:00",
+  "generated_utc": "2026-08-09T15:43:32+00:00",
+  "last_sync_utc": "2026-08-09T15:40:53+00:00",
   "window_days": 400,
   "fires": {
-    "total": 466,
+    "total": 470,
     "active": 10,
-    "dying_down": 40,
+    "dying_down": 44,
     "out": 416
   },
   "classes": {
     "agricultural": 16,
     "forest": 269,
-    "likely_agricultural": 162,
+    "likely_agricultural": 166,
     "mixed": 10,
     "urban": 9
   },
@@ -64,21 +64,21 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 6698,
+  "detections": 6847,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21054",
-      "municipality": "La Palma del Condado",
+      "ine": "21078",
+      "municipality": "Zalamea la Real",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 7831.4,
-      "detections": 1461,
-      "last_utc": "2026-08-09T09:07:00Z",
+      "pixel_area_ha": 8675.0,
+      "detections": 1576,
+      "last_utc": "2026-08-09T12:57:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "la-palma-del-condado"
+      "slug": "zalamea-la-real"
     },
     {
       "id": "d5fc5c34efd7",
@@ -87,9 +87,9 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 190.7,
-      "pixel_area_ha": 576.5,
-      "detections": 110,
-      "last_utc": "2026-08-09T09:07:00Z",
+      "pixel_area_ha": 604.6,
+      "detections": 123,
+      "last_utc": "2026-08-09T12:57:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "tirig"
@@ -109,6 +109,20 @@
       "slug": "os-blancos"
     },
     {
+      "id": "cd0907dd89f5",
+      "ine": "12042",
+      "municipality": "Catí",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 118.9,
+      "pixel_area_ha": 182.8,
+      "detections": 24,
+      "last_utc": "2026-08-09T12:57:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "cati"
+    },
+    {
       "id": "420ef90b6b34",
       "ine": "40223",
       "municipality": "Vegas de Matute",
@@ -123,32 +137,18 @@
       "slug": "vegas-de-matute"
     },
     {
-      "id": "cd0907dd89f5",
-      "ine": "12042",
-      "municipality": "Catí",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 14.9,
-      "pixel_area_ha": 98.4,
-      "detections": 10,
-      "last_utc": "2026-08-09T09:07:00Z",
+      "id": "983ef4017af9",
+      "ine": "33024",
+      "municipality": "Gijón",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 6.5,
+      "pixel_area_ha": 126.5,
+      "detections": 32,
+      "last_utc": "2026-08-09T12:57:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "cati"
-    },
-    {
-      "id": "4724283e3229",
-      "ine": "36047",
-      "municipality": "Rodeiro",
-      "province": "Pontevedra",
-      "region": "Galicia",
-      "frp_max_mw": 123.5,
-      "pixel_area_ha": 70.3,
-      "detections": 8,
-      "last_utc": "2026-08-09T03:15:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "rodeiro"
+      "slug": "gijon"
     }
   ]
 }
