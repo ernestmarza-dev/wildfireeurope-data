@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-10T15:13:33+00:00",
-  "last_sync_utc": "2026-08-10T15:10:53+00:00",
+  "generated_utc": "2026-08-10T17:06:22+00:00",
+  "last_sync_utc": "2026-08-10T17:03:41+00:00",
   "window_days": 400,
   "fires": {
-    "total": 493,
-    "active": 13,
-    "dying_down": 34,
-    "out": 446
+    "total": 514,
+    "active": 34,
+    "dying_down": 31,
+    "out": 449
   },
   "classes": {
     "agricultural": 17,
-    "forest": 280,
-    "likely_agricultural": 177,
+    "forest": 287,
+    "likely_agricultural": 191,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 23,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 30,
+  "satellite_intense_24h": 12,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4607,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 278553.0,
-  "detections": 8204,
+  "detections": 8820,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21078",
-      "municipality": "Zalamea la Real",
+      "ine": "21012",
+      "municipality": "Berrocal",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 15381.6,
+      "pixel_area_ha": 16829.8,
       "official_area_ha": 20784.0,
-      "detections": 2717,
-      "last_utc": "2026-08-10T12:38:00Z",
+      "detections": 3105,
+      "last_utc": "2026-08-10T15:48:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "zalamea-la-real"
+      "slug": "berrocal"
     },
     {
       "id": "187118fe102d",
@@ -87,13 +87,27 @@
       "municipality": "Las Peñas de Riglos",
       "province": "Huesca",
       "region": "Aragón",
-      "frp_max_mw": 257.7,
-      "pixel_area_ha": 464.0,
-      "detections": 40,
-      "last_utc": "2026-08-10T12:40:00Z",
+      "frp_max_mw": 5617.0,
+      "pixel_area_ha": 1518.5,
+      "detections": 187,
+      "last_utc": "2026-08-10T15:48:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
+    },
+    {
+      "id": "254bd6078a1b",
+      "ine": "24079",
+      "municipality": "Gradefes",
+      "province": "León",
+      "region": "Castilla y León",
+      "frp_max_mw": 173.9,
+      "pixel_area_ha": 351.5,
+      "detections": 46,
+      "last_utc": "2026-08-10T15:48:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "gradefes"
     },
     {
       "id": "983ef4017af9",
@@ -103,25 +117,11 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 24.1,
       "pixel_area_ha": 154.7,
-      "detections": 43,
-      "last_utc": "2026-08-10T12:40:00Z",
+      "detections": 45,
+      "last_utc": "2026-08-10T13:33:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
-    },
-    {
-      "id": "254bd6078a1b",
-      "ine": "24079",
-      "municipality": "Gradefes",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 173.9,
-      "pixel_area_ha": 112.5,
-      "detections": 8,
-      "last_utc": "2026-08-10T12:40:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gradefes"
     },
     {
       "id": "c9ddc794fef5",
@@ -145,8 +145,8 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 8.7,
       "pixel_area_ha": 70.3,
-      "detections": 21,
-      "last_utc": "2026-08-10T12:40:00Z",
+      "detections": 22,
+      "last_utc": "2026-08-10T13:16:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
