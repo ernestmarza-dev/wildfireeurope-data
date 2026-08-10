@@ -1,16 +1,16 @@
 {
-  "generated_utc": "2026-08-10T13:45:33+00:00",
-  "last_sync_utc": "2026-08-10T11:55:28+00:00",
+  "generated_utc": "2026-08-10T14:12:42+00:00",
+  "last_sync_utc": "2026-08-10T14:00:28+00:00",
   "window_days": 400,
   "fires": {
     "total": 486,
-    "active": 21,
-    "dying_down": 32,
+    "active": 18,
+    "dying_down": 35,
     "out": 433
   },
   "classes": {
-    "agricultural": 16,
-    "forest": 279,
+    "agricultural": 17,
+    "forest": 278,
     "likely_agricultural": 172,
     "mixed": 10,
     "urban": 9
@@ -19,13 +19,13 @@
   "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 4561,
-    "windy": 127,
-    "met": 11
+    "hot_dry": 4607,
+    "windy": 196,
+    "met": 2
   },
   "official": {
-    "active": 42,
-    "not_extinguished": 105,
+    "active": 51,
+    "not_extinguished": 115,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -37,22 +37,22 @@
         "source": "jcyl",
         "region": "Castilla y León",
         "active": 28,
-        "total": 756,
-        "last_report_utc": "2026-08-09T19:00:00+00:00"
+        "total": 759,
+        "last_report_utc": "2026-08-10T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 7,
-        "total": 280,
-        "last_report_utc": "2026-08-10T08:21:08+00:00"
+        "active": 16,
+        "total": 290,
+        "last_report_utc": "2026-08-10T14:00:31+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 7,
-        "total": 740,
-        "last_report_utc": "2026-08-09T17:28:00+00:00"
+        "total": 743,
+        "last_report_utc": "2026-08-10T13:29:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 276781.0,
+  "burnt_ha_effis": 278553.0,
   "detections": 8051,
   "highlights": [
     {
@@ -74,27 +74,12 @@
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
       "pixel_area_ha": 14861.4,
-      "official_area_ha": 19504.0,
+      "official_area_ha": 20784.0,
       "detections": 2620,
       "last_utc": "2026-08-10T09:47:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villarrasa"
-    },
-    {
-      "id": "420ef90b6b34",
-      "ine": "40223",
-      "municipality": "Vegas de Matute",
-      "province": "Segovia",
-      "region": "Castilla y León",
-      "frp_max_mw": 2079.2,
-      "pixel_area_ha": 309.3,
-      "official_area_ha": 792.0,
-      "detections": 34,
-      "last_utc": "2026-08-10T01:52:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "vegas-de-matute"
     },
     {
       "id": "d5fc5c34efd7",
@@ -152,6 +137,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "villalba-del-alcor"
+    },
+    {
+      "id": "efa04b94b589",
+      "ine": "33014",
+      "municipality": "Carreño",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 8.6,
+      "pixel_area_ha": 70.3,
+      "detections": 20,
+      "last_utc": "2026-08-10T02:11:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carreno"
     }
   ]
 }
