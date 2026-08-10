@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-10T20:58:41+00:00",
-  "last_sync_utc": "2026-08-10T20:55:59+00:00",
+  "generated_utc": "2026-08-10T21:55:37+00:00",
+  "last_sync_utc": "2026-08-10T21:52:54+00:00",
   "window_days": 400,
   "fires": {
-    "total": 514,
-    "active": 34,
-    "dying_down": 31,
+    "total": 511,
+    "active": 30,
+    "dying_down": 32,
     "out": 449
   },
   "classes": {
     "agricultural": 17,
-    "forest": 287,
-    "likely_agricultural": 191,
+    "forest": 286,
+    "likely_agricultural": 189,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 30,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4654,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 278553.0,
-  "detections": 8820,
+  "detections": 8894,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21012",
-      "municipality": "Berrocal",
+      "ine": "21078",
+      "municipality": "Zalamea la Real",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 16829.8,
+      "pixel_area_ha": 17490.6,
       "official_area_ha": 20784.0,
-      "detections": 3105,
-      "last_utc": "2026-08-10T15:48:00Z",
+      "detections": 3173,
+      "last_utc": "2026-08-10T20:46:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "berrocal"
+      "slug": "zalamea-la-real"
     },
     {
       "id": "187118fe102d",
