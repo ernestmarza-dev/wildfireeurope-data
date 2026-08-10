@@ -1,6 +1,6 @@
 {
-  "sha": "d16ef1e6e1d48e7cbc8bc813f895ca7f51d5cf60",
-  "generated_utc": "2026-08-10T11:58:13+00:00",
+  "sha": "763fac87a85aab2c3f522ce0f98f39fe29c5a172",
+  "generated_utc": "2026-08-10T13:45:37+00:00",
   "files": [
     "detections.json",
     "fires-year.geojson",
