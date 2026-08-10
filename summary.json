@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-08-10T06:21:30+00:00",
+  "generated_utc": "2026-08-10T08:34:07+00:00",
   "last_sync_utc": "2026-08-10T06:18:47+00:00",
   "window_days": 400,
   "fires": {
-    "total": 487,
-    "active": 23,
-    "dying_down": 37,
+    "total": 486,
+    "active": 20,
+    "dying_down": 39,
     "out": 427
   },
   "classes": {
     "agricultural": 16,
-    "forest": 281,
+    "forest": 280,
     "likely_agricultural": 171,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 28,
+  "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 4722,
-    "windy": 132,
-    "met": 17
+    "hot_dry": 4561,
+    "windy": 127,
+    "met": 11
   },
   "official": {
     "active": 42,
@@ -44,8 +44,8 @@
         "source": "112cv",
         "region": "Comunitat Valenciana",
         "active": 7,
-        "total": 279,
-        "last_report_utc": "2026-08-10T02:54:37+00:00"
+        "total": 280,
+        "last_report_utc": "2026-08-10T08:21:08+00:00"
       },
       {
         "source": "infoca",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 255948.0,
+  "burnt_ha_effis": 276781.0,
   "detections": 7961,
   "highlights": [
     {
@@ -74,39 +74,12 @@
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
       "pixel_area_ha": 14608.3,
+      "official_area_ha": 19504.0,
       "detections": 2534,
       "last_utc": "2026-08-10T02:58:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villarrasa"
-    },
-    {
-      "id": "d5fc5c34efd7",
-      "ine": "12111",
-      "municipality": "Tírig",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 190.7,
-      "pixel_area_ha": 646.8,
-      "detections": 138,
-      "last_utc": "2026-08-10T02:13:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "tirig"
-    },
-    {
-      "id": "cd0907dd89f5",
-      "ine": "12042",
-      "municipality": "Catí",
-      "province": "Castelló/Castellón",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 161.1,
-      "pixel_area_ha": 435.9,
-      "detections": 88,
-      "last_utc": "2026-08-10T02:56:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "cati"
     },
     {
       "id": "420ef90b6b34",
@@ -116,11 +89,27 @@
       "region": "Castilla y León",
       "frp_max_mw": 2079.2,
       "pixel_area_ha": 309.3,
+      "official_area_ha": 792.0,
       "detections": 34,
       "last_utc": "2026-08-10T01:52:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vegas-de-matute"
+    },
+    {
+      "id": "d5fc5c34efd7",
+      "ine": "12111",
+      "municipality": "Tírig",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 190.7,
+      "pixel_area_ha": 646.8,
+      "official_area_ha": 743.0,
+      "detections": 138,
+      "last_utc": "2026-08-10T02:13:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "tirig"
     },
     {
       "id": "983ef4017af9",
@@ -149,6 +138,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "2478549964b5",
+      "ine": "21074",
+      "municipality": "Villalba del Alcor",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 24.9,
+      "pixel_area_ha": 98.4,
+      "detections": 35,
+      "last_utc": "2026-08-10T02:11:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villalba-del-alcor"
     }
   ]
 }
