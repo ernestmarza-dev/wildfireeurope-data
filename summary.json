@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-10T08:56:34+00:00",
-  "last_sync_utc": "2026-08-10T06:18:47+00:00",
+  "generated_utc": "2026-08-10T10:36:31+00:00",
+  "last_sync_utc": "2026-08-10T10:33:46+00:00",
   "window_days": 400,
   "fires": {
-    "total": 486,
+    "total": 485,
     "active": 20,
-    "dying_down": 39,
-    "out": 427
+    "dying_down": 37,
+    "out": 428
   },
   "classes": {
     "agricultural": 16,
-    "forest": 280,
+    "forest": 279,
     "likely_agricultural": 171,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 28,
-  "satellite_intense_24h": 11,
+  "satellite_hotspots_24h": 27,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4561,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 276781.0,
-  "detections": 7961,
+  "detections": 8031,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21077",
-      "municipality": "Villarrasa",
+      "ine": "21054",
+      "municipality": "La Palma del Condado",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 14608.3,
+      "pixel_area_ha": 14777.1,
       "official_area_ha": 19504.0,
-      "detections": 2534,
-      "last_utc": "2026-08-10T02:58:00Z",
+      "detections": 2603,
+      "last_utc": "2026-08-10T04:46:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villarrasa"
+      "slug": "la-palma-del-condado"
     },
     {
       "id": "420ef90b6b34",
@@ -133,8 +133,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 53,
-      "last_utc": "2026-08-10T02:56:00Z",
+      "detections": 55,
+      "last_utc": "2026-08-10T03:32:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
