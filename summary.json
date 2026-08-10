@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-10T04:51:08+00:00",
-  "last_sync_utc": "2026-08-10T04:48:29+00:00",
+  "generated_utc": "2026-08-10T06:21:30+00:00",
+  "last_sync_utc": "2026-08-10T06:18:47+00:00",
   "window_days": 400,
   "fires": {
-    "total": 486,
-    "active": 17,
-    "dying_down": 42,
+    "total": 487,
+    "active": 23,
+    "dying_down": 37,
     "out": 427
   },
   "classes": {
     "agricultural": 16,
-    "forest": 279,
-    "likely_agricultural": 172,
+    "forest": 281,
+    "likely_agricultural": 171,
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 23,
-  "satellite_intense_24h": 13,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 12,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4722,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 255948.0,
-  "detections": 7478,
+  "detections": 7961,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,27 +73,12 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 11051.2,
-      "detections": 2006,
-      "last_utc": "2026-08-10T01:15:00Z",
+      "pixel_area_ha": 14608.3,
+      "detections": 2534,
+      "last_utc": "2026-08-10T02:58:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "villarrasa"
-    },
-    {
-      "id": "bc38cea41dff",
-      "ine": "21056",
-      "municipality": "Paterna del Campo",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 253.9,
-      "pixel_area_ha": 688.9,
-      "official_area_ha": 1429.0,
-      "detections": 53,
-      "last_utc": "2026-08-10T01:15:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "paterna-del-campo"
     },
     {
       "id": "d5fc5c34efd7",
@@ -103,8 +88,8 @@
       "region": "Comunitat Valenciana",
       "frp_max_mw": 190.7,
       "pixel_area_ha": 646.8,
-      "detections": 136,
-      "last_utc": "2026-08-10T01:15:00Z",
+      "detections": 138,
+      "last_utc": "2026-08-10T02:13:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "tirig"
@@ -116,9 +101,9 @@
       "province": "Castelló/Castellón",
       "region": "Comunitat Valenciana",
       "frp_max_mw": 161.1,
-      "pixel_area_ha": 365.6,
-      "detections": 68,
-      "last_utc": "2026-08-10T01:15:00Z",
+      "pixel_area_ha": 435.9,
+      "detections": 88,
+      "last_utc": "2026-08-10T02:56:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "cati"
@@ -130,9 +115,9 @@
       "province": "Segovia",
       "region": "Castilla y León",
       "frp_max_mw": 2079.2,
-      "pixel_area_ha": 295.3,
-      "detections": 33,
-      "last_utc": "2026-08-10T01:15:00Z",
+      "pixel_area_ha": 309.3,
+      "detections": 34,
+      "last_utc": "2026-08-10T01:52:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "vegas-de-matute"
@@ -144,12 +129,26 @@
       "province": "Asturias",
       "region": "Principado de Asturias",
       "frp_max_mw": 6.5,
-      "pixel_area_ha": 126.5,
-      "detections": 33,
-      "last_utc": "2026-08-10T01:15:00Z",
+      "pixel_area_ha": 140.6,
+      "detections": 40,
+      "last_utc": "2026-08-10T02:11:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
+    },
+    {
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 7.5,
+      "pixel_area_ha": 112.5,
+      "detections": 53,
+      "last_utc": "2026-08-10T02:56:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "morata-de-tajuna"
     }
   ]
 }
