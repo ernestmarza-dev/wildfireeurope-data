@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-10T10:36:31+00:00",
-  "last_sync_utc": "2026-08-10T10:33:46+00:00",
+  "generated_utc": "2026-08-10T11:58:09+00:00",
+  "last_sync_utc": "2026-08-10T11:55:28+00:00",
   "window_days": 400,
   "fires": {
-    "total": 485,
-    "active": 20,
+    "total": 486,
+    "active": 21,
     "dying_down": 37,
     "out": 428
   },
   "classes": {
     "agricultural": 16,
     "forest": 279,
-    "likely_agricultural": 171,
+    "likely_agricultural": 172,
     "mixed": 10,
     "urban": 9
   },
   "satellite_hotspots_24h": 27,
-  "satellite_intense_24h": 10,
+  "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 4561,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 276781.0,
-  "detections": 8031,
+  "detections": 8051,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21054",
-      "municipality": "La Palma del Condado",
+      "ine": "21077",
+      "municipality": "Villarrasa",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 14777.1,
+      "pixel_area_ha": 14861.4,
       "official_area_ha": 19504.0,
-      "detections": 2603,
-      "last_utc": "2026-08-10T04:46:00Z",
+      "detections": 2620,
+      "last_utc": "2026-08-10T09:47:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "la-palma-del-condado"
+      "slug": "villarrasa"
     },
     {
       "id": "420ef90b6b34",
@@ -117,10 +117,10 @@
       "municipality": "Gijón",
       "province": "Asturias",
       "region": "Principado de Asturias",
-      "frp_max_mw": 6.5,
-      "pixel_area_ha": 140.6,
-      "detections": 40,
-      "last_utc": "2026-08-10T02:11:00Z",
+      "frp_max_mw": 24.1,
+      "pixel_area_ha": 154.7,
+      "detections": 42,
+      "last_utc": "2026-08-10T09:43:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
