@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-11T02:50:19+00:00",
+  "generated_utc": "2026-08-11T04:44:31+00:00",
   "last_sync_utc": "2026-08-11T02:37:02+00:00",
   "window_days": 400,
   "fires": {
     "total": 511,
-    "active": 8,
-    "dying_down": 47,
-    "out": 456
+    "active": 3,
+    "dying_down": 44,
+    "out": 464
   },
   "classes": {
     "agricultural": 17,
@@ -15,7 +15,7 @@
     "mixed": 10,
     "urban": 9
   },
-  "satellite_hotspots_24h": 16,
+  "satellite_hotspots_24h": 13,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -82,34 +82,6 @@
       "slug": "zalamea-la-real"
     },
     {
-      "id": "187118fe102d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 5617.0,
-      "pixel_area_ha": 1518.5,
-      "detections": 187,
-      "last_utc": "2026-08-10T15:48:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
-    },
-    {
-      "id": "254bd6078a1b",
-      "ine": "24079",
-      "municipality": "Gradefes",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 173.9,
-      "pixel_area_ha": 351.5,
-      "detections": 46,
-      "last_utc": "2026-08-10T15:48:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gradefes"
-    },
-    {
       "id": "8fe56ef3f798",
       "ine": "21012",
       "municipality": "Berrocal",
@@ -122,20 +94,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "berrocal"
-    },
-    {
-      "id": "d411d651dc0d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 1347.5,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-10T15:48:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
     },
     {
       "id": "3492f7001f54",
