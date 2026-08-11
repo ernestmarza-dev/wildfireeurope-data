@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-11T07:29:16+00:00",
-  "last_sync_utc": "2026-08-11T06:00:16+00:00",
+  "generated_utc": "2026-08-11T08:01:14+00:00",
+  "last_sync_utc": "2026-08-11T07:49:28+00:00",
   "window_days": 400,
   "fires": {
-    "total": 521,
-    "active": 24,
-    "dying_down": 33,
+    "total": 523,
+    "active": 28,
+    "dying_down": 31,
     "out": 464
   },
   "classes": {
-    "agricultural": 17,
-    "forest": 296,
-    "likely_agricultural": 189,
+    "agricultural": 21,
+    "forest": 299,
+    "likely_agricultural": 183,
     "mixed": 10,
-    "urban": 9
+    "urban": 10
   },
-  "satellite_hotspots_24h": 28,
+  "satellite_hotspots_24h": 31,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5068,
-    "windy": 38,
+    "hot_dry": 5161,
+    "windy": 67,
     "met": 0
   },
   "official": {
-    "active": 49,
-    "not_extinguished": 112,
+    "active": 46,
+    "not_extinguished": 109,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,9 +43,9 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 15,
-        "total": 317,
-        "last_report_utc": "2026-08-11T02:37:07+00:00"
+        "active": 12,
+        "total": 320,
+        "last_report_utc": "2026-08-11T07:49:33+00:00"
       },
       {
         "source": "infoca",
@@ -58,28 +58,28 @@
         "source": "bombers",
         "region": "Cataluña",
         "active": 0,
-        "total": 2223,
-        "last_report_utc": "2026-08-03T22:00:00+00:00"
+        "total": 2348,
+        "last_report_utc": "2026-08-09T22:00:00+00:00"
       }
     ]
   },
-  "burnt_ha_effis": 278553.0,
-  "detections": 9492,
+  "burnt_ha_effis": 290360.0,
+  "detections": 9697,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21077",
-      "municipality": "Villarrasa",
+      "ine": "21012",
+      "municipality": "Berrocal",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 20232.3,
-      "official_area_ha": 20784.0,
-      "detections": 3597,
-      "last_utc": "2026-08-11T02:38:00Z",
+      "pixel_area_ha": 20555.7,
+      "official_area_ha": 27166.0,
+      "detections": 3757,
+      "last_utc": "2026-08-11T03:47:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villarrasa"
+      "slug": "berrocal"
     },
     {
       "id": "187118fe102d",
@@ -88,12 +88,27 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 2235.5,
-      "detections": 307,
-      "last_utc": "2026-08-11T02:38:00Z",
+      "pixel_area_ha": 2291.8,
+      "official_area_ha": 3735.0,
+      "detections": 332,
+      "last_utc": "2026-08-11T03:45:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
+    },
+    {
+      "id": "983ef4017af9",
+      "ine": "33024",
+      "municipality": "Gijón",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 24.1,
+      "pixel_area_ha": 168.7,
+      "detections": 66,
+      "last_utc": "2026-08-11T03:32:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "gijon"
     },
     {
       "id": "254bd6078a1b",
@@ -103,39 +118,12 @@
       "region": "Castilla y León",
       "frp_max_mw": 173.9,
       "pixel_area_ha": 351.5,
+      "official_area_ha": 126.0,
       "detections": 47,
       "last_utc": "2026-08-11T02:38:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gradefes"
-    },
-    {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 24.1,
-      "pixel_area_ha": 154.7,
-      "detections": 59,
-      "last_utc": "2026-08-11T02:38:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gijon"
-    },
-    {
-      "id": "7812d09ad424",
-      "ine": "22044",
-      "municipality": "Bailo",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 4.0,
-      "pixel_area_ha": 140.6,
-      "detections": 14,
-      "last_utc": "2026-08-11T02:38:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "bailo"
     },
     {
       "id": "c9ddc794fef5",
@@ -145,11 +133,25 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 61,
-      "last_utc": "2026-08-11T02:38:00Z",
+      "detections": 63,
+      "last_utc": "2026-08-11T03:13:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "efa04b94b589",
+      "ine": "33014",
+      "municipality": "Carreño",
+      "province": "Asturias",
+      "region": "Principado de Asturias",
+      "frp_max_mw": 8.7,
+      "pixel_area_ha": 84.4,
+      "detections": 26,
+      "last_utc": "2026-08-11T03:13:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carreno"
     }
   ]
 }
