@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-11T19:17:58+00:00",
-  "last_sync_utc": "2026-08-11T19:15:15+00:00",
+  "generated_utc": "2026-08-11T19:55:54+00:00",
+  "last_sync_utc": "2026-08-11T19:40:07+00:00",
   "window_days": 400,
   "fires": {
     "total": 540,
@@ -9,23 +9,23 @@
     "out": 476
   },
   "classes": {
-    "agricultural": 21,
-    "forest": 301,
-    "likely_agricultural": 198,
+    "agricultural": 22,
+    "forest": 303,
+    "likely_agricultural": 195,
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 30,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 31,
+  "satellite_intense_24h": 8,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5112,
-    "windy": 71,
-    "met": 0
+    "hot_dry": 5219,
+    "windy": 89,
+    "met": 31
   },
   "official": {
-    "active": 47,
-    "not_extinguished": 109,
+    "active": 51,
+    "not_extinguished": 115,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 28,
-        "total": 759,
-        "last_report_utc": "2026-08-10T10:00:00+00:00"
+        "active": 29,
+        "total": 771,
+        "last_report_utc": "2026-08-11T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 13,
-        "total": 326,
-        "last_report_utc": "2026-08-11T14:01:47+00:00"
+        "active": 16,
+        "total": 333,
+        "last_report_utc": "2026-08-11T19:40:14+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 6,
-        "total": 746,
-        "last_report_utc": "2026-08-10T17:27:00+00:00"
+        "total": 747,
+        "last_report_utc": "2026-08-11T13:17:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 290832.0,
+  "burnt_ha_effis": 291265.0,
   "detections": 10415,
   "highlights": [
     {
@@ -139,18 +139,18 @@
       "slug": "carreno"
     },
     {
-      "id": "06490babb985",
-      "ine": "39075",
-      "municipality": "Santander",
-      "province": "Cantabria",
-      "region": "Cantabria",
-      "frp_max_mw": 2.8,
+      "id": "c3754c20ab65",
+      "ine": "09215",
+      "municipality": "Merindad de Sotoscueva",
+      "province": "Burgos",
+      "region": "Castilla y León",
+      "frp_max_mw": 28.9,
       "pixel_area_ha": 42.2,
-      "detections": 3,
-      "last_utc": "2026-08-11T13:16:00Z",
+      "detections": 5,
+      "last_utc": "2026-08-11T14:01:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "santander"
+      "slug": "merindad-de-sotoscueva"
     }
   ]
 }
