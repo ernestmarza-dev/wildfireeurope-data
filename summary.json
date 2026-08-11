@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-11T22:01:19+00:00",
-  "last_sync_utc": "2026-08-11T21:58:35+00:00",
+  "generated_utc": "2026-08-11T22:58:49+00:00",
+  "last_sync_utc": "2026-08-11T22:56:06+00:00",
   "window_days": 400,
   "fires": {
     "total": 544,
-    "active": 27,
-    "dying_down": 40,
+    "active": 26,
+    "dying_down": 41,
     "out": 477
   },
   "classes": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 291265.0,
-  "detections": 10427,
+  "detections": 10448,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 22397.6,
+      "pixel_area_ha": 22510.1,
       "official_area_ha": 27166.0,
-      "detections": 4299,
-      "last_utc": "2026-08-11T16:26:00Z",
+      "detections": 4314,
+      "last_utc": "2026-08-11T21:27:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "berrocal"
@@ -139,18 +139,18 @@
       "slug": "carreno"
     },
     {
-      "id": "c3754c20ab65",
-      "ine": "09215",
-      "municipality": "Merindad de Sotoscueva",
-      "province": "Burgos",
-      "region": "Castilla y León",
-      "frp_max_mw": 28.9,
-      "pixel_area_ha": 42.2,
+      "id": "a68315d157c5",
+      "ine": "41013",
+      "municipality": "Aznalcóllar",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 1131.4,
+      "pixel_area_ha": 70.3,
       "detections": 5,
-      "last_utc": "2026-08-11T14:01:00Z",
+      "last_utc": "2026-08-11T21:27:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "merindad-de-sotoscueva"
+      "slug": "aznalcollar"
     }
   ]
 }
