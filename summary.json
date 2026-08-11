@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-11T14:12:13+00:00",
-  "last_sync_utc": "2026-08-11T14:01:43+00:00",
+  "generated_utc": "2026-08-11T15:13:59+00:00",
+  "last_sync_utc": "2026-08-11T15:11:16+00:00",
   "window_days": 400,
   "fires": {
     "total": 524,
-    "active": 23,
+    "active": 14,
     "dying_down": 34,
-    "out": 467
+    "out": 476
   },
   "classes": {
     "agricultural": 21,
@@ -64,37 +64,37 @@
     ]
   },
   "burnt_ha_effis": 290832.0,
-  "detections": 9716,
+  "detections": 9816,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21053",
-      "municipality": "Niebla",
+      "ine": "21078",
+      "municipality": "Zalamea la Real",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 20668.2,
+      "pixel_area_ha": 20921.3,
       "official_area_ha": 27166.0,
-      "detections": 3773,
-      "last_utc": "2026-08-11T10:24:00Z",
+      "detections": 3833,
+      "last_utc": "2026-08-11T12:19:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "niebla"
+      "slug": "zalamea-la-real"
     },
     {
       "id": "187118fe102d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
+      "ine": "22044",
+      "municipality": "Bailo",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 2319.9,
+      "pixel_area_ha": 2516.7,
       "official_area_ha": 3952.0,
-      "detections": 334,
-      "last_utc": "2026-08-11T08:45:00Z",
+      "detections": 365,
+      "last_utc": "2026-08-11T12:19:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
+      "slug": "bailo"
     },
     {
       "id": "983ef4017af9",
@@ -104,26 +104,11 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 24.1,
       "pixel_area_ha": 168.7,
-      "detections": 66,
-      "last_utc": "2026-08-11T03:32:00Z",
+      "detections": 70,
+      "last_utc": "2026-08-11T12:21:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
-    },
-    {
-      "id": "254bd6078a1b",
-      "ine": "24079",
-      "municipality": "Gradefes",
-      "province": "León",
-      "region": "Castilla y León",
-      "frp_max_mw": 173.9,
-      "pixel_area_ha": 351.5,
-      "official_area_ha": 126.0,
-      "detections": 47,
-      "last_utc": "2026-08-11T02:38:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gradefes"
     },
     {
       "id": "c9ddc794fef5",
@@ -133,8 +118,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 63,
-      "last_utc": "2026-08-11T03:13:00Z",
+      "detections": 64,
+      "last_utc": "2026-08-11T12:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
@@ -147,11 +132,25 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 8.7,
       "pixel_area_ha": 84.4,
-      "detections": 26,
-      "last_utc": "2026-08-11T03:13:00Z",
+      "detections": 27,
+      "last_utc": "2026-08-11T12:21:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
+    },
+    {
+      "id": "3b21327e4471",
+      "ine": "45014",
+      "municipality": "Añover de Tajo",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 1.8,
+      "pixel_area_ha": 70.3,
+      "detections": 29,
+      "last_utc": "2026-08-11T03:13:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "anover-de-tajo"
     }
   ]
 }
