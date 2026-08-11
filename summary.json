@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-11T09:13:41+00:00",
-  "last_sync_utc": "2026-08-11T09:10:57+00:00",
+  "generated_utc": "2026-08-11T11:02:57+00:00",
+  "last_sync_utc": "2026-08-11T11:00:15+00:00",
   "window_days": 400,
   "fires": {
     "total": 523,
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 290360.0,
-  "detections": 9697,
+  "detections": 9704,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21012",
-      "municipality": "Berrocal",
+      "ine": "21032",
+      "municipality": "Escacena del Campo",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 20555.7,
+      "pixel_area_ha": 20597.9,
       "official_area_ha": 27166.0,
-      "detections": 3757,
-      "last_utc": "2026-08-11T03:47:00Z",
+      "detections": 3762,
+      "last_utc": "2026-08-11T08:48:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "berrocal"
+      "slug": "escacena-del-campo"
     },
     {
       "id": "187118fe102d",
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 2291.8,
+      "pixel_area_ha": 2319.9,
       "official_area_ha": 3735.0,
-      "detections": 332,
-      "last_utc": "2026-08-11T03:45:00Z",
+      "detections": 334,
+      "last_utc": "2026-08-11T08:45:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
