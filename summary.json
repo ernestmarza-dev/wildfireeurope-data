@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-11T11:02:57+00:00",
-  "last_sync_utc": "2026-08-11T11:00:15+00:00",
+  "generated_utc": "2026-08-11T11:55:31+00:00",
+  "last_sync_utc": "2026-08-11T11:52:47+00:00",
   "window_days": 400,
   "fires": {
-    "total": 523,
-    "active": 28,
+    "total": 524,
+    "active": 29,
     "dying_down": 31,
     "out": 464
   },
   "classes": {
     "agricultural": 21,
     "forest": 299,
-    "likely_agricultural": 183,
+    "likely_agricultural": 184,
     "mixed": 10,
     "urban": 10
   },
@@ -64,22 +64,22 @@
     ]
   },
   "burnt_ha_effis": 290360.0,
-  "detections": 9704,
+  "detections": 9716,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21032",
-      "municipality": "Escacena del Campo",
+      "ine": "21053",
+      "municipality": "Niebla",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 20597.9,
+      "pixel_area_ha": 20668.2,
       "official_area_ha": 27166.0,
-      "detections": 3762,
-      "last_utc": "2026-08-11T08:48:00Z",
+      "detections": 3773,
+      "last_utc": "2026-08-11T10:24:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "escacena-del-campo"
+      "slug": "niebla"
     },
     {
       "id": "187118fe102d",
