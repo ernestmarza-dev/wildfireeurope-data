@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-11T15:13:59+00:00",
-  "last_sync_utc": "2026-08-11T15:11:16+00:00",
+  "generated_utc": "2026-08-11T17:11:27+00:00",
+  "last_sync_utc": "2026-08-11T17:08:40+00:00",
   "window_days": 400,
   "fires": {
-    "total": 524,
-    "active": 14,
-    "dying_down": 34,
+    "total": 537,
+    "active": 20,
+    "dying_down": 41,
     "out": 476
   },
   "classes": {
     "agricultural": 21,
-    "forest": 299,
-    "likely_agricultural": 184,
+    "forest": 300,
+    "likely_agricultural": 196,
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 28,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5112,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 290832.0,
-  "detections": 9816,
+  "detections": 10263,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 20921.3,
+      "pixel_area_ha": 21947.7,
       "official_area_ha": 27166.0,
-      "detections": 3833,
-      "last_utc": "2026-08-11T12:19:00Z",
+      "detections": 4157,
+      "last_utc": "2026-08-11T14:48:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "zalamea-la-real"
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 2516.7,
+      "pixel_area_ha": 2783.9,
       "official_area_ha": 3952.0,
-      "detections": 365,
-      "last_utc": "2026-08-11T12:19:00Z",
+      "detections": 444,
+      "last_utc": "2026-08-11T14:48:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "bailo"
@@ -132,25 +132,25 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 8.7,
       "pixel_area_ha": 84.4,
-      "detections": 27,
-      "last_utc": "2026-08-11T12:21:00Z",
+      "detections": 29,
+      "last_utc": "2026-08-11T13:16:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
     },
     {
-      "id": "3b21327e4471",
-      "ine": "45014",
-      "municipality": "Añover de Tajo",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 1.8,
-      "pixel_area_ha": 70.3,
-      "detections": 29,
-      "last_utc": "2026-08-11T03:13:00Z",
+      "id": "06490babb985",
+      "ine": "39075",
+      "municipality": "Santander",
+      "province": "Cantabria",
+      "region": "Cantabria",
+      "frp_max_mw": 2.8,
+      "pixel_area_ha": 42.2,
+      "detections": 3,
+      "last_utc": "2026-08-11T13:16:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "anover-de-tajo"
+      "slug": "santander"
     }
   ]
 }
