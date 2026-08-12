@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-12T17:10:11+00:00",
-  "last_sync_utc": "2026-08-12T17:07:25+00:00",
+  "generated_utc": "2026-08-12T19:17:58+00:00",
+  "last_sync_utc": "2026-08-12T19:15:15+00:00",
   "window_days": 400,
   "fires": {
     "total": 569,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 299488.0,
-  "detections": 12431,
+  "detections": 12481,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,9 +88,9 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 4611.7,
+      "pixel_area_ha": 4738.2,
       "official_area_ha": 5393.0,
-      "detections": 781,
+      "detections": 818,
       "last_utc": "2026-08-12T15:26:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -117,8 +117,8 @@
       "province": "Asturias",
       "region": "Principado de Asturias",
       "frp_max_mw": 113.0,
-      "pixel_area_ha": 154.7,
-      "detections": 17,
+      "pixel_area_ha": 168.7,
+      "detections": 23,
       "last_utc": "2026-08-12T15:26:00Z",
       "status": "active",
       "fire_class": "forest",
