@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-12T14:23:53+00:00",
-  "last_sync_utc": "2026-08-12T14:01:58+00:00",
+  "generated_utc": "2026-08-12T15:11:05+00:00",
+  "last_sync_utc": "2026-08-12T15:08:21+00:00",
   "window_days": 400,
   "fires": {
-    "total": 549,
-    "active": 19,
-    "dying_down": 30,
-    "out": 500
+    "total": 550,
+    "active": 11,
+    "dying_down": 33,
+    "out": 506
   },
   "classes": {
     "agricultural": 22,
     "forest": 313,
-    "likely_agricultural": 194,
+    "likely_agricultural": 195,
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 24,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 23,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 5681,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 299488.0,
-  "detections": 11491,
+  "detections": 11517,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -83,18 +83,18 @@
     },
     {
       "id": "187118fe102d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
+      "ine": "22044",
+      "municipality": "Bailo",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 3979.0,
+      "pixel_area_ha": 4063.3,
       "official_area_ha": 5393.0,
-      "detections": 644,
-      "last_utc": "2026-08-12T09:24:00Z",
+      "detections": 665,
+      "last_utc": "2026-08-12T12:02:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
+      "slug": "bailo"
     },
     {
       "id": "983ef4017af9",
@@ -125,32 +125,32 @@
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "efa04b94b589",
+      "id": "f94e17826e68",
+      "ine": "45076",
+      "municipality": "Hormigos",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 2.4,
+      "pixel_area_ha": 42.2,
+      "detections": 3,
+      "last_utc": "2026-08-12T03:15:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "hormigos"
+    },
+    {
+      "id": "35d6cb8a2143",
       "ine": "33014",
       "municipality": "Carreño",
       "province": "Asturias",
       "region": "Principado de Asturias",
-      "frp_max_mw": 8.7,
-      "pixel_area_ha": 84.4,
-      "detections": 33,
-      "last_utc": "2026-08-12T02:53:00Z",
+      "frp_max_mw": 1.1,
+      "pixel_area_ha": 28.1,
+      "detections": 7,
+      "last_utc": "2026-08-12T03:15:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
-    },
-    {
-      "id": "3b21327e4471",
-      "ine": "45202",
-      "municipality": "Yepes",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 1.9,
-      "pixel_area_ha": 70.3,
-      "detections": 31,
-      "last_utc": "2026-08-12T02:56:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "yepes"
     }
   ]
 }
