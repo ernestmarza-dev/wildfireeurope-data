@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-08-12T04:58:35+00:00",
-  "last_sync_utc": "2026-08-12T04:55:54+00:00",
+  "generated_utc": "2026-08-12T06:23:50+00:00",
+  "last_sync_utc": "2026-08-12T06:23:09+00:00",
   "window_days": 400,
   "fires": {
-    "total": 542,
-    "active": 16,
-    "dying_down": 31,
+    "total": 544,
+    "active": 21,
+    "dying_down": 28,
     "out": 495
   },
   "classes": {
     "agricultural": 22,
-    "forest": 308,
-    "likely_agricultural": 192,
+    "forest": 311,
+    "likely_agricultural": 191,
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 19,
+  "satellite_hotspots_24h": 24,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 291265.0,
-  "detections": 10684,
+  "detections": 10978,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 24281.6,
+      "pixel_area_ha": 25364.2,
       "official_area_ha": 27166.0,
-      "detections": 4508,
-      "last_utc": "2026-08-12T01:34:00Z",
+      "detections": 4739,
+      "last_utc": "2026-08-12T02:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "la-palma-del-condado"
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 3543.1,
+      "pixel_area_ha": 3754.0,
       "official_area_ha": 3952.0,
-      "detections": 522,
-      "last_utc": "2026-08-12T01:34:00Z",
+      "detections": 563,
+      "last_utc": "2026-08-12T02:17:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
@@ -103,9 +103,9 @@
       "province": "Asturias",
       "region": "Principado de Asturias",
       "frp_max_mw": 24.1,
-      "pixel_area_ha": 182.8,
-      "detections": 73,
-      "last_utc": "2026-08-12T01:32:00Z",
+      "pixel_area_ha": 196.8,
+      "detections": 79,
+      "last_utc": "2026-08-12T02:17:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "gijon"
@@ -118,8 +118,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 65,
-      "last_utc": "2026-08-12T01:34:00Z",
+      "detections": 66,
+      "last_utc": "2026-08-12T02:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
@@ -132,25 +132,25 @@
       "region": "Principado de Asturias",
       "frp_max_mw": 8.7,
       "pixel_area_ha": 84.4,
-      "detections": 31,
-      "last_utc": "2026-08-12T01:32:00Z",
+      "detections": 32,
+      "last_utc": "2026-08-12T02:17:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "carreno"
     },
     {
-      "id": "e0628ff0fa52",
-      "ine": "03014",
-      "municipality": "Alacant/Alicante",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 1.4,
-      "pixel_area_ha": 42.2,
-      "detections": 4,
-      "last_utc": "2026-08-12T01:34:00Z",
+      "id": "03f8aa7ab0c0",
+      "ine": "21054",
+      "municipality": "La Palma del Condado",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 3.5,
+      "pixel_area_ha": 84.4,
+      "detections": 8,
+      "last_utc": "2026-08-12T02:19:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "alacant-alicante"
+      "slug": "la-palma-del-condado"
     }
   ]
 }
