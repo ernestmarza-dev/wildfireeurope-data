@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-12T10:19:34+00:00",
-  "last_sync_utc": "2026-08-12T10:16:49+00:00",
+  "generated_utc": "2026-08-12T11:57:45+00:00",
+  "last_sync_utc": "2026-08-12T11:55:01+00:00",
   "window_days": 400,
   "fires": {
-    "total": 546,
-    "active": 21,
+    "total": 548,
+    "active": 23,
     "dying_down": 30,
     "out": 495
   },
   "classes": {
     "agricultural": 22,
     "forest": 313,
-    "likely_agricultural": 191,
+    "likely_agricultural": 193,
     "mixed": 10,
     "urban": 10
   },
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 298128.0,
-  "detections": 11449,
+  "detections": 11491,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 25982.9,
+      "pixel_area_ha": 26137.5,
       "official_area_ha": 32576.0,
-      "detections": 5094,
-      "last_utc": "2026-08-12T04:25:00Z",
+      "detections": 5129,
+      "last_utc": "2026-08-12T09:26:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "paterna-del-campo"
@@ -90,8 +90,8 @@
       "frp_max_mw": 5617.0,
       "pixel_area_ha": 3979.0,
       "official_area_ha": 5406.0,
-      "detections": 640,
-      "last_utc": "2026-08-12T04:23:00Z",
+      "detections": 644,
+      "last_utc": "2026-08-12T09:24:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
