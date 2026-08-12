@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-11T23:55:40+00:00",
-  "last_sync_utc": "2026-08-11T23:52:57+00:00",
+  "generated_utc": "2026-08-12T02:40:27+00:00",
+  "last_sync_utc": "2026-08-12T02:37:46+00:00",
   "window_days": 400,
   "fires": {
     "total": 544,
-    "active": 26,
-    "dying_down": 41,
-    "out": 477
+    "active": 13,
+    "dying_down": 36,
+    "out": 495
   },
   "classes": {
     "agricultural": 22,
@@ -15,13 +15,13 @@
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 35,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 20,
+  "satellite_intense_24h": 11,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5219,
-    "windy": 89,
-    "met": 31
+    "hot_dry": 5665,
+    "windy": 7,
+    "met": 0
   },
   "official": {
     "active": 51,
@@ -97,48 +97,6 @@
       "slug": "bailo"
     },
     {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 24.1,
-      "pixel_area_ha": 168.7,
-      "detections": 70,
-      "last_utc": "2026-08-11T12:21:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gijon"
-    },
-    {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 64,
-      "last_utc": "2026-08-11T12:19:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "efa04b94b589",
-      "ine": "33014",
-      "municipality": "Carreño",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 8.7,
-      "pixel_area_ha": 84.4,
-      "detections": 29,
-      "last_utc": "2026-08-11T13:16:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "carreno"
-    },
-    {
       "id": "a68315d157c5",
       "ine": "41013",
       "municipality": "Aznalcóllar",
@@ -151,6 +109,48 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "aznalcollar"
+    },
+    {
+      "id": "e5b40ab403e6",
+      "ine": "41013",
+      "municipality": "Aznalcóllar",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 27.9,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-11T21:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "aznalcollar"
+    },
+    {
+      "id": "dcf359210c96",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 19.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-11T19:49:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "santa-cruz-de-la-seros"
+    },
+    {
+      "id": "0f044cc5c05e",
+      "ine": "12135",
+      "municipality": "Vila-real",
+      "province": "Castelló/Castellón",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 14.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-11T14:48:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "vila-real"
     }
   ]
 }
