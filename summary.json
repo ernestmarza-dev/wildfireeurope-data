@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-12T11:57:45+00:00",
-  "last_sync_utc": "2026-08-12T11:55:01+00:00",
+  "generated_utc": "2026-08-12T13:40:48+00:00",
+  "last_sync_utc": "2026-08-12T13:38:02+00:00",
   "window_days": 400,
   "fires": {
     "total": 548,
-    "active": 23,
-    "dying_down": 30,
-    "out": 495
+    "active": 19,
+    "dying_down": 33,
+    "out": 496
   },
   "classes": {
     "agricultural": 22,
@@ -15,7 +15,7 @@
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 26,
+  "satellite_hotspots_24h": 25,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
