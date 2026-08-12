@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-12T13:40:48+00:00",
-  "last_sync_utc": "2026-08-12T13:38:02+00:00",
+  "generated_utc": "2026-08-12T14:23:53+00:00",
+  "last_sync_utc": "2026-08-12T14:01:58+00:00",
   "window_days": 400,
   "fires": {
-    "total": 548,
+    "total": 549,
     "active": 19,
-    "dying_down": 33,
-    "out": 496
+    "dying_down": 30,
+    "out": 500
   },
   "classes": {
     "agricultural": 22,
     "forest": 313,
-    "likely_agricultural": 193,
+    "likely_agricultural": 194,
     "mixed": 10,
     "urban": 10
   },
-  "satellite_hotspots_24h": 25,
-  "satellite_intense_24h": 7,
+  "satellite_hotspots_24h": 24,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 5775,
-    "windy": 7,
+    "hot_dry": 5681,
+    "windy": 11,
     "met": 0
   },
   "official": {
-    "active": 49,
-    "not_extinguished": 113,
+    "active": 36,
+    "not_extinguished": 102,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 29,
-        "total": 771,
-        "last_report_utc": "2026-08-11T19:00:00+00:00"
+        "active": 26,
+        "total": 773,
+        "last_report_utc": "2026-08-12T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 13,
-        "total": 339,
-        "last_report_utc": "2026-08-12T08:01:46+00:00"
+        "active": 8,
+        "total": 341,
+        "last_report_utc": "2026-08-12T14:02:03+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 7,
-        "total": 748,
-        "last_report_utc": "2026-08-12T00:00:00+00:00"
+        "active": 2,
+        "total": 767,
+        "last_report_utc": "2026-08-12T12:23:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 298128.0,
+  "burnt_ha_effis": 299488.0,
   "detections": 11491,
   "highlights": [
     {
@@ -74,7 +74,7 @@
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
       "pixel_area_ha": 26137.5,
-      "official_area_ha": 32576.0,
+      "official_area_ha": 33946.0,
       "detections": 5129,
       "last_utc": "2026-08-12T09:26:00Z",
       "status": "active",
@@ -89,7 +89,7 @@
       "region": "Aragón",
       "frp_max_mw": 5617.0,
       "pixel_area_ha": 3979.0,
-      "official_area_ha": 5406.0,
+      "official_area_ha": 5393.0,
       "detections": 644,
       "last_utc": "2026-08-12T09:24:00Z",
       "status": "active",
