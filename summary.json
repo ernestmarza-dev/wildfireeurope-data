@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-12T08:39:10+00:00",
-  "last_sync_utc": "2026-08-12T08:36:24+00:00",
+  "generated_utc": "2026-08-12T10:19:34+00:00",
+  "last_sync_utc": "2026-08-12T10:16:49+00:00",
   "window_days": 400,
   "fires": {
     "total": 546,
-    "active": 23,
-    "dying_down": 28,
+    "active": 21,
+    "dying_down": 30,
     "out": 495
   },
   "classes": {
