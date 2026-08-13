@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-13T15:11:04+00:00",
-  "last_sync_utc": "2026-08-13T15:08:21+00:00",
+  "generated_utc": "2026-08-13T17:09:34+00:00",
+  "last_sync_utc": "2026-08-13T17:06:46+00:00",
   "window_days": 400,
   "fires": {
-    "total": 586,
-    "active": 4,
-    "dying_down": 48,
-    "out": 534
+    "total": 592,
+    "active": 12,
+    "dying_down": 44,
+    "out": 536
   },
   "classes": {
     "agricultural": 23,
     "forest": 338,
-    "likely_agricultural": 204,
+    "likely_agricultural": 210,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 26,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 6192,
@@ -64,51 +64,80 @@
     ]
   },
   "burnt_ha_effis": 310038.0,
-  "detections": 13445,
+  "detections": 13767,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21032",
-      "municipality": "Escacena del Campo",
+      "ine": "21078",
+      "municipality": "Zalamea la Real",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 31719.4,
+      "pixel_area_ha": 32605.1,
       "official_area_ha": 41290.0,
-      "detections": 6393,
-      "last_utc": "2026-08-13T10:04:00Z",
+      "detections": 6582,
+      "last_utc": "2026-08-13T14:18:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "escacena-del-campo"
+      "slug": "zalamea-la-real"
     },
     {
       "id": "187118fe102d",
-      "ine": "22044",
-      "municipality": "Bailo",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 6847.2,
+      "pixel_area_ha": 7718.9,
       "official_area_ha": 8359.0,
-      "detections": 1194,
-      "last_utc": "2026-08-13T11:45:00Z",
+      "detections": 1307,
+      "last_utc": "2026-08-13T14:27:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "bailo"
+      "slug": "santa-cruz-de-la-seros"
     },
     {
-      "id": "b38fff2e359d",
-      "ine": "22208",
-      "municipality": "Santa Cilia",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 34.6,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-13T04:59:00Z",
+      "id": "c9ddc794fef5",
+      "ine": "28091",
+      "municipality": "Morata de Tajuña",
+      "province": "Madrid",
+      "region": "Comunidad de Madrid",
+      "frp_max_mw": 7.5,
+      "pixel_area_ha": 112.5,
+      "detections": 82,
+      "last_utc": "2026-08-13T12:38:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "santa-cilia"
+      "slug": "morata-de-tajuna"
+    },
+    {
+      "id": "ffe0f35839fa",
+      "ine": "48078",
+      "municipality": "Portugalete",
+      "province": "Bizkaia",
+      "region": "País Vasco",
+      "frp_max_mw": 3.4,
+      "pixel_area_ha": 42.2,
+      "detections": 7,
+      "last_utc": "2026-08-13T13:25:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "portugalete"
+    },
+    {
+      "id": "8cbad3823495",
+      "ine": "01004",
+      "municipality": "Artziniega",
+      "province": "Araba/Álava",
+      "region": "País Vasco",
+      "frp_max_mw": 37.7,
+      "pixel_area_ha": 42.2,
+      "official_area_ha": 15.0,
+      "detections": 6,
+      "last_utc": "2026-08-13T14:20:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "artziniega"
     }
   ]
 }
