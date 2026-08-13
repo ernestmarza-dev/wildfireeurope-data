@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-13T03:25:21+00:00",
+  "generated_utc": "2026-08-13T05:08:50+00:00",
   "last_sync_utc": "2026-08-13T03:11:41+00:00",
   "window_days": 400,
   "fires": {
     "total": 598,
-    "active": 40,
-    "dying_down": 34,
+    "active": 32,
+    "dying_down": 42,
     "out": 524
   },
   "classes": {
@@ -97,49 +97,6 @@
       "slug": "bailo"
     },
     {
-      "id": "93b9a565875e",
-      "ine": "33046",
-      "municipality": "Peñamellera Alta",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 113.0,
-      "pixel_area_ha": 168.7,
-      "detections": 23,
-      "last_utc": "2026-08-12T15:26:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "penamellera-alta"
-    },
-    {
-      "id": "825ab591d34e",
-      "ine": "18902",
-      "municipality": "El Valle",
-      "province": "Granada",
-      "region": "Andalucía",
-      "frp_max_mw": 104.0,
-      "pixel_area_ha": 56.2,
-      "official_area_ha": 146.0,
-      "detections": 4,
-      "last_utc": "2026-08-12T15:26:00Z",
-      "status": "active",
-      "fire_class": "mixed",
-      "slug": "el-valle"
-    },
-    {
-      "id": "bebec59507bb",
-      "ine": "34076",
-      "municipality": "Fuentes de Nava",
-      "province": "Palencia",
-      "region": "Castilla y León",
-      "frp_max_mw": 108.9,
-      "pixel_area_ha": 84.4,
-      "detections": 9,
-      "last_utc": "2026-08-12T15:26:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "fuentes-de-nava"
-    },
-    {
       "id": "de6c163cc0ac",
       "ine": "41057",
       "municipality": "El Madroño",
@@ -152,6 +109,48 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "el-madrono"
+    },
+    {
+      "id": "8bbcb3eb0516",
+      "ine": "21032",
+      "municipality": "Escacena del Campo",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 475.9,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-12T20:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "escacena-del-campo"
+    },
+    {
+      "id": "8d352a3c78ee",
+      "ine": "41013",
+      "municipality": "Aznalcóllar",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 337.3,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-12T20:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "aznalcollar"
+    },
+    {
+      "id": "3df11dee3e33",
+      "ine": "21032",
+      "municipality": "Escacena del Campo",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 258.8,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-12T20:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "escacena-del-campo"
     }
   ]
 }
