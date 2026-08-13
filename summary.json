@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-13T00:02:08+00:00",
-  "last_sync_utc": "2026-08-12T20:58:03+00:00",
+  "generated_utc": "2026-08-13T02:42:51+00:00",
+  "last_sync_utc": "2026-08-13T02:40:01+00:00",
   "window_days": 400,
   "fires": {
-    "total": 569,
-    "active": 26,
-    "dying_down": 32,
-    "out": 511
+    "total": 598,
+    "active": 40,
+    "dying_down": 38,
+    "out": 520
   },
   "classes": {
     "agricultural": 22,
-    "forest": 318,
-    "likely_agricultural": 208,
+    "forest": 348,
+    "likely_agricultural": 207,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 28,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 51,
+  "satellite_intense_24h": 35,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 6114,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 299488.0,
-  "detections": 12481,
+  "detections": 12581,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,10 +73,10 @@
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 28696.5,
+      "pixel_area_ha": 29076.1,
       "official_area_ha": 33946.0,
-      "detections": 5853,
-      "last_utc": "2026-08-12T15:26:00Z",
+      "detections": 5903,
+      "last_utc": "2026-08-12T20:27:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "zalamea-la-real"
@@ -88,27 +88,13 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 4738.2,
+      "pixel_area_ha": 4864.8,
       "official_area_ha": 5393.0,
-      "detections": 818,
-      "last_utc": "2026-08-12T15:26:00Z",
+      "detections": 838,
+      "last_utc": "2026-08-12T20:29:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "bailo"
-    },
-    {
-      "id": "983ef4017af9",
-      "ine": "33024",
-      "municipality": "Gijón",
-      "province": "Asturias",
-      "region": "Principado de Asturias",
-      "frp_max_mw": 24.1,
-      "pixel_area_ha": 210.9,
-      "detections": 94,
-      "last_utc": "2026-08-12T12:57:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "gijon"
     },
     {
       "id": "93b9a565875e",
@@ -140,19 +126,32 @@
       "slug": "el-valle"
     },
     {
-      "id": "7aff4e0ec0e0",
-      "ine": "24037",
-      "municipality": "Cármenes",
-      "province": "León",
+      "id": "bebec59507bb",
+      "ine": "34076",
+      "municipality": "Fuentes de Nava",
+      "province": "Palencia",
       "region": "Castilla y León",
-      "frp_max_mw": 12.1,
-      "pixel_area_ha": 14.1,
-      "official_area_ha": 128.0,
-      "detections": 1,
-      "last_utc": "2026-08-12T13:42:00Z",
+      "frp_max_mw": 108.9,
+      "pixel_area_ha": 84.4,
+      "detections": 9,
+      "last_utc": "2026-08-12T15:26:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "carmenes"
+      "slug": "fuentes-de-nava"
+    },
+    {
+      "id": "de6c163cc0ac",
+      "ine": "41057",
+      "municipality": "El Madroño",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 520.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-12T20:27:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "el-madrono"
     }
   ]
 }
