@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-13T13:41:13+00:00",
-  "last_sync_utc": "2026-08-13T13:38:30+00:00",
+  "generated_utc": "2026-08-13T14:16:53+00:00",
+  "last_sync_utc": "2026-08-13T14:03:18+00:00",
   "window_days": 400,
   "fires": {
     "total": 586,
-    "active": 21,
-    "dying_down": 36,
+    "active": 18,
+    "dying_down": 39,
     "out": 529
   },
   "classes": {
     "agricultural": 23,
-    "forest": 336,
-    "likely_agricultural": 206,
+    "forest": 338,
+    "likely_agricultural": 204,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 31,
-  "satellite_intense_24h": 11,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 10,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6151,
-    "windy": 212,
-    "met": 139
+    "hot_dry": 6192,
+    "windy": 121,
+    "met": 74
   },
   "official": {
-    "active": 40,
-    "not_extinguished": 109,
+    "active": 41,
+    "not_extinguished": 108,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,16 +36,16 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 28,
-        "total": 785,
-        "last_report_utc": "2026-08-12T19:00:00+00:00"
+        "active": 24,
+        "total": 795,
+        "last_report_utc": "2026-08-13T10:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 11,
-        "total": 352,
-        "last_report_utc": "2026-08-13T08:02:58+00:00"
+        "active": 16,
+        "total": 362,
+        "last_report_utc": "2026-08-13T14:03:21+00:00"
       },
       {
         "source": "infoca",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "burnt_ha_effis": 308855.0,
+  "burnt_ha_effis": 310038.0,
   "detections": 13425,
   "highlights": [
     {
@@ -74,7 +74,7 @@
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
       "pixel_area_ha": 31719.4,
-      "official_area_ha": 40216.0,
+      "official_area_ha": 41290.0,
       "detections": 6393,
       "last_utc": "2026-08-13T10:04:00Z",
       "status": "active",
