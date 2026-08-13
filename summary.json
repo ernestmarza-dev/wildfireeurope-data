@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-13T14:16:53+00:00",
-  "last_sync_utc": "2026-08-13T14:03:18+00:00",
+  "generated_utc": "2026-08-13T15:11:04+00:00",
+  "last_sync_utc": "2026-08-13T15:08:21+00:00",
   "window_days": 400,
   "fires": {
     "total": 586,
-    "active": 18,
-    "dying_down": 39,
-    "out": 529
+    "active": 4,
+    "dying_down": 48,
+    "out": 534
   },
   "classes": {
     "agricultural": 23,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 310038.0,
-  "detections": 13425,
+  "detections": 13445,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,69 +88,27 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 6720.7,
+      "pixel_area_ha": 6847.2,
       "official_area_ha": 8359.0,
-      "detections": 1174,
-      "last_utc": "2026-08-13T10:04:00Z",
+      "detections": 1194,
+      "last_utc": "2026-08-13T11:45:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "bailo"
     },
     {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 81,
-      "last_utc": "2026-08-13T02:56:00Z",
+      "id": "b38fff2e359d",
+      "ine": "22208",
+      "municipality": "Santa Cilia",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 34.6,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-13T04:59:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "3b21327e4471",
-      "ine": "45014",
-      "municipality": "Añover de Tajo",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 1.9,
-      "pixel_area_ha": 70.3,
-      "detections": 33,
-      "last_utc": "2026-08-13T02:36:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "anover-de-tajo"
-    },
-    {
-      "id": "579ada3ca65c",
-      "ine": "06078",
-      "municipality": "Malpartida de la Serena",
-      "province": "Badajoz",
-      "region": "Extremadura",
-      "frp_max_mw": 6.2,
-      "pixel_area_ha": 56.2,
-      "detections": 6,
-      "last_utc": "2026-08-13T02:56:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "malpartida-de-la-serena"
-    },
-    {
-      "id": "e0628ff0fa52",
-      "ine": "03014",
-      "municipality": "Alacant/Alicante",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 1.8,
-      "pixel_area_ha": 56.2,
-      "detections": 10,
-      "last_utc": "2026-08-13T02:56:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "alacant-alicante"
+      "slug": "santa-cilia"
     }
   ]
 }
