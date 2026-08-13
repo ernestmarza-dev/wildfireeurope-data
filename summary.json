@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-13T06:28:05+00:00",
-  "last_sync_utc": "2026-08-13T06:25:19+00:00",
+  "generated_utc": "2026-08-13T08:14:20+00:00",
+  "last_sync_utc": "2026-08-13T08:02:56+00:00",
   "window_days": 400,
   "fires": {
-    "total": 584,
-    "active": 24,
+    "total": 586,
+    "active": 26,
     "dying_down": 36,
     "out": 524
   },
   "classes": {
-    "agricultural": 22,
-    "forest": 334,
-    "likely_agricultural": 207,
+    "agricultural": 23,
+    "forest": 337,
+    "likely_agricultural": 205,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 32,
-  "satellite_intense_24h": 12,
+  "satellite_hotspots_24h": 34,
+  "satellite_intense_24h": 14,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6209,
-    "windy": 141,
-    "met": 79
+    "hot_dry": 6151,
+    "windy": 212,
+    "met": 139
   },
   "official": {
-    "active": 39,
-    "not_extinguished": 108,
+    "active": 40,
+    "not_extinguished": 109,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 9,
-        "total": 350,
-        "last_report_utc": "2026-08-13T03:11:43+00:00"
+        "active": 11,
+        "total": 352,
+        "last_report_utc": "2026-08-13T08:02:58+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
-        "active": 2,
-        "total": 767,
-        "last_report_utc": "2026-08-12T12:23:00+00:00"
+        "active": 1,
+        "total": 770,
+        "last_report_utc": "2026-08-12T16:30:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,23 +63,23 @@
       }
     ]
   },
-  "burnt_ha_effis": 299488.0,
-  "detections": 13394,
+  "burnt_ha_effis": 308855.0,
+  "detections": 13411,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21054",
-      "municipality": "La Palma del Condado",
+      "ine": "21032",
+      "municipality": "Escacena del Campo",
       "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 31620.9,
-      "official_area_ha": 33946.0,
-      "detections": 6373,
-      "last_utc": "2026-08-13T02:56:00Z",
+      "pixel_area_ha": 31663.1,
+      "official_area_ha": 40216.0,
+      "detections": 6385,
+      "last_utc": "2026-08-13T05:01:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "la-palma-del-condado"
+      "slug": "escacena-del-campo"
     },
     {
       "id": "187118fe102d",
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 6692.6,
-      "official_area_ha": 5393.0,
-      "detections": 1166,
-      "last_utc": "2026-08-13T03:23:00Z",
+      "pixel_area_ha": 6706.6,
+      "official_area_ha": 8359.0,
+      "detections": 1169,
+      "last_utc": "2026-08-13T04:59:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "bailo"
@@ -109,20 +109,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "bebec59507bb",
-      "ine": "34102",
-      "municipality": "Mazariegos",
-      "province": "Palencia",
-      "region": "Castilla y León",
-      "frp_max_mw": 108.9,
-      "pixel_area_ha": 98.4,
-      "detections": 10,
-      "last_utc": "2026-08-13T02:36:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "mazariegos"
     },
     {
       "id": "3b21327e4471",
@@ -151,6 +137,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "malpartida-de-la-serena"
+    },
+    {
+      "id": "e0628ff0fa52",
+      "ine": "03014",
+      "municipality": "Alacant/Alicante",
+      "province": "Alacant/Alicante",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 1.8,
+      "pixel_area_ha": 56.2,
+      "detections": 10,
+      "last_utc": "2026-08-13T02:56:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "alacant-alicante"
     }
   ]
 }
