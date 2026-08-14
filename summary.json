@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-08-14T15:05:03+00:00",
-  "last_sync_utc": "2026-08-14T15:02:14+00:00",
+  "generated_utc": "2026-08-14T16:04:35+00:00",
+  "last_sync_utc": "2026-08-14T16:01:48+00:00",
   "window_days": 400,
   "fires": {
-    "total": 614,
-    "active": 8,
-    "dying_down": 30,
+    "total": 621,
+    "active": 13,
+    "dying_down": 32,
     "out": 576
   },
   "classes": {
     "agricultural": 26,
-    "forest": 358,
-    "likely_agricultural": 209,
+    "forest": 359,
+    "likely_agricultural": 215,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 26,
+  "satellite_hotspots_24h": 27,
   "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -64,37 +64,37 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 14600,
+  "detections": 14797,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "21012",
-      "municipality": "Berrocal",
-      "province": "Huelva",
+      "ine": "41057",
+      "municipality": "El Madroño",
+      "province": "Sevilla",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33842.4,
+      "pixel_area_ha": 33856.5,
       "official_area_ha": 45792.0,
-      "detections": 6846,
-      "last_utc": "2026-08-14T12:17:00Z",
+      "detections": 6877,
+      "last_utc": "2026-08-14T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "berrocal"
+      "slug": "el-madrono"
     },
     {
       "id": "187118fe102d",
-      "ine": "22209",
-      "municipality": "Santa Cruz de la Serós",
+      "ine": "22173",
+      "municipality": "Las Peñas de Riglos",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 10024.8,
+      "pixel_area_ha": 10671.5,
       "official_area_ha": 11871.0,
-      "detections": 1727,
-      "last_utc": "2026-08-14T12:19:00Z",
+      "detections": 1878,
+      "last_utc": "2026-08-14T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "santa-cruz-de-la-seros"
+      "slug": "las-penas-de-riglos"
     },
     {
       "id": "c9ddc794fef5",
@@ -104,39 +104,39 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 87,
-      "last_utc": "2026-08-14T12:19:00Z",
+      "detections": 88,
+      "last_utc": "2026-08-14T13:40:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "ffe0f35839fa",
-      "ine": "48078",
-      "municipality": "Portugalete",
-      "province": "Bizkaia",
-      "region": "País Vasco",
-      "frp_max_mw": 3.4,
-      "pixel_area_ha": 56.2,
-      "detections": 12,
-      "last_utc": "2026-08-14T03:19:00Z",
+      "id": "1e9b56bf1c9d",
+      "ine": "22158",
+      "municipality": "Monzón",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 4.9,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-14T13:04:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "portugalete"
+      "slug": "monzon"
     },
     {
-      "id": "34974092c948",
-      "ine": "21055",
-      "municipality": "Palos de la Frontera",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 3.6,
-      "pixel_area_ha": 28.1,
-      "detections": 3,
-      "last_utc": "2026-08-14T03:21:00Z",
+      "id": "925b3a1d9397",
+      "ine": "03055",
+      "municipality": "Catral",
+      "province": "Alacant/Alicante",
+      "region": "Comunitat Valenciana",
+      "frp_max_mw": 8.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-14T13:04:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "palos-de-la-frontera"
+      "slug": "catral"
     }
   ]
 }
