@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-14T08:32:20+00:00",
-  "last_sync_utc": "2026-08-14T07:59:10+00:00",
+  "generated_utc": "2026-08-14T10:16:34+00:00",
+  "last_sync_utc": "2026-08-14T10:13:47+00:00",
   "window_days": 400,
   "fires": {
     "total": 623,
-    "active": 30,
-    "dying_down": 31,
+    "active": 9,
+    "dying_down": 52,
     "out": 562
   },
   "classes": {
@@ -111,20 +111,6 @@
       "slug": "aznalcollar"
     },
     {
-      "id": "df5d71bf764b",
-      "ine": "41013",
-      "municipality": "Aznalcóllar",
-      "province": "Sevilla",
-      "region": "Andalucía",
-      "frp_max_mw": 1298.9,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-13T21:06:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "aznalcollar"
-    },
-    {
       "id": "97ff26975392",
       "ine": "41013",
       "municipality": "Aznalcóllar",
@@ -139,18 +125,32 @@
       "slug": "aznalcollar"
     },
     {
-      "id": "9c85e6f0d3e6",
+      "id": "cd37f9f142e5",
       "ine": "41013",
       "municipality": "Aznalcóllar",
       "province": "Sevilla",
       "region": "Andalucía",
-      "frp_max_mw": 439.2,
+      "frp_max_mw": 44.1,
       "pixel_area_ha": 28.1,
       "detections": 2,
-      "last_utc": "2026-08-13T21:06:00Z",
+      "last_utc": "2026-08-14T04:02:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "aznalcollar"
+    },
+    {
+      "id": "259655969202",
+      "ine": "22173",
+      "municipality": "Las Peñas de Riglos",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 35.3,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-14T04:02:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "las-penas-de-riglos"
     }
   ]
 }
