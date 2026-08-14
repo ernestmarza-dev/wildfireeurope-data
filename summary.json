@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-14T14:08:53+00:00",
-  "last_sync_utc": "2026-08-14T13:58:17+00:00",
+  "generated_utc": "2026-08-14T15:05:03+00:00",
+  "last_sync_utc": "2026-08-14T15:02:14+00:00",
   "window_days": 400,
   "fires": {
-    "total": 612,
-    "active": 21,
-    "dying_down": 26,
-    "out": 565
+    "total": 614,
+    "active": 8,
+    "dying_down": 30,
+    "out": 576
   },
   "classes": {
     "agricultural": 26,
     "forest": 358,
-    "likely_agricultural": 207,
+    "likely_agricultural": 209,
     "mixed": 11,
     "urban": 10
   },
@@ -64,37 +64,37 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 14546,
+  "detections": 14600,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "41013",
-      "municipality": "Aznalcóllar",
-      "province": "Sevilla",
+      "ine": "21012",
+      "municipality": "Berrocal",
+      "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33814.3,
+      "pixel_area_ha": 33842.4,
       "official_area_ha": 45792.0,
-      "detections": 6837,
-      "last_utc": "2026-08-14T09:07:00Z",
+      "detections": 6846,
+      "last_utc": "2026-08-14T12:17:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "aznalcollar"
+      "slug": "berrocal"
     },
     {
       "id": "187118fe102d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 9603.0,
+      "pixel_area_ha": 10024.8,
       "official_area_ha": 11871.0,
-      "detections": 1685,
-      "last_utc": "2026-08-14T09:05:00Z",
+      "detections": 1727,
+      "last_utc": "2026-08-14T12:19:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
+      "slug": "santa-cruz-de-la-seros"
     },
     {
       "id": "c9ddc794fef5",
@@ -104,39 +104,11 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 86,
-      "last_utc": "2026-08-14T03:21:00Z",
+      "detections": 87,
+      "last_utc": "2026-08-14T12:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "8cbad3823495",
-      "ine": "01004",
-      "municipality": "Artziniega",
-      "province": "Araba/Álava",
-      "region": "País Vasco",
-      "frp_max_mw": 37.7,
-      "pixel_area_ha": 70.3,
-      "detections": 12,
-      "last_utc": "2026-08-14T02:36:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "artziniega"
-    },
-    {
-      "id": "3b21327e4471",
-      "ine": "45014",
-      "municipality": "Añover de Tajo",
-      "province": "Toledo",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 2.9,
-      "pixel_area_ha": 70.3,
-      "detections": 35,
-      "last_utc": "2026-08-14T02:36:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "anover-de-tajo"
     },
     {
       "id": "ffe0f35839fa",
@@ -151,6 +123,20 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "portugalete"
+    },
+    {
+      "id": "34974092c948",
+      "ine": "21055",
+      "municipality": "Palos de la Frontera",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 3.6,
+      "pixel_area_ha": 28.1,
+      "detections": 3,
+      "last_utc": "2026-08-14T03:21:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "palos-de-la-frontera"
     }
   ]
 }
