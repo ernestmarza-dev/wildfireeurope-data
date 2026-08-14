@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-14T16:04:35+00:00",
-  "last_sync_utc": "2026-08-14T16:01:48+00:00",
+  "generated_utc": "2026-08-14T17:08:49+00:00",
+  "last_sync_utc": "2026-08-14T17:05:59+00:00",
   "window_days": 400,
   "fires": {
-    "total": 621,
-    "active": 13,
+    "total": 623,
+    "active": 15,
     "dying_down": 32,
     "out": 576
   },
   "classes": {
     "agricultural": 26,
     "forest": 359,
-    "likely_agricultural": 215,
+    "likely_agricultural": 217,
     "mixed": 11,
     "urban": 10
   },
@@ -64,37 +64,37 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 14797,
+  "detections": 14872,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
-      "ine": "41057",
-      "municipality": "El Madroño",
-      "province": "Sevilla",
+      "ine": "21012",
+      "municipality": "Berrocal",
+      "province": "Huelva",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33856.5,
+      "pixel_area_ha": 33884.6,
       "official_area_ha": 45792.0,
-      "detections": 6877,
-      "last_utc": "2026-08-14T13:40:00Z",
+      "detections": 6900,
+      "last_utc": "2026-08-14T15:03:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "el-madrono"
+      "slug": "berrocal"
     },
     {
       "id": "187118fe102d",
-      "ine": "22173",
-      "municipality": "Las Peñas de Riglos",
+      "ine": "22208",
+      "municipality": "Santa Cilia",
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 10671.5,
+      "pixel_area_ha": 10854.3,
       "official_area_ha": 11871.0,
-      "detections": 1878,
-      "last_utc": "2026-08-14T13:40:00Z",
+      "detections": 1918,
+      "last_utc": "2026-08-14T13:59:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "las-penas-de-riglos"
+      "slug": "santa-cilia"
     },
     {
       "id": "c9ddc794fef5",
@@ -104,8 +104,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 88,
-      "last_utc": "2026-08-14T13:40:00Z",
+      "detections": 89,
+      "last_utc": "2026-08-14T13:59:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
