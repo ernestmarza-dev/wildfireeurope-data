@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-13T23:55:23+00:00",
-  "last_sync_utc": "2026-08-13T23:52:36+00:00",
+  "generated_utc": "2026-08-14T02:39:16+00:00",
+  "last_sync_utc": "2026-08-14T02:38:37+00:00",
   "window_days": 400,
   "fires": {
     "total": 619,
-    "active": 39,
-    "dying_down": 42,
-    "out": 538
+    "active": 27,
+    "dying_down": 40,
+    "out": 552
   },
   "classes": {
     "agricultural": 23,
@@ -15,13 +15,13 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 48,
-  "satellite_intense_24h": 28,
+  "satellite_hotspots_24h": 38,
+  "satellite_intense_24h": 27,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6141,
-    "windy": 90,
-    "met": 39
+    "hot_dry": 6183,
+    "windy": 515,
+    "met": 317
   },
   "official": {
     "active": 42,
@@ -97,34 +97,6 @@
       "slug": "santa-cilia"
     },
     {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 82,
-      "last_utc": "2026-08-13T12:38:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "ffe0f35839fa",
-      "ine": "48078",
-      "municipality": "Portugalete",
-      "province": "Bizkaia",
-      "region": "País Vasco",
-      "frp_max_mw": 3.4,
-      "pixel_area_ha": 42.2,
-      "detections": 7,
-      "last_utc": "2026-08-13T13:25:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "portugalete"
-    },
-    {
       "id": "df5d71bf764b",
       "ine": "41013",
       "municipality": "Aznalcóllar",
@@ -147,6 +119,34 @@
       "frp_max_mw": 439.2,
       "pixel_area_ha": 28.1,
       "detections": 2,
+      "last_utc": "2026-08-13T21:06:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "aznalcollar"
+    },
+    {
+      "id": "fa8cb90ed888",
+      "ine": "41013",
+      "municipality": "Aznalcóllar",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 369.2,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-13T21:06:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "aznalcollar"
+    },
+    {
+      "id": "e275a0d2c8b2",
+      "ine": "41013",
+      "municipality": "Aznalcóllar",
+      "province": "Sevilla",
+      "region": "Andalucía",
+      "frp_max_mw": 1682.4,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
       "last_utc": "2026-08-13T21:06:00Z",
       "status": "active",
       "fire_class": "forest",
