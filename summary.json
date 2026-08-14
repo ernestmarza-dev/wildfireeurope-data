@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-08-14T17:08:49+00:00",
-  "last_sync_utc": "2026-08-14T17:05:59+00:00",
+  "generated_utc": "2026-08-14T19:10:33+00:00",
+  "last_sync_utc": "2026-08-14T19:07:46+00:00",
   "window_days": 400,
   "fires": {
-    "total": 623,
-    "active": 15,
+    "total": 624,
+    "active": 16,
     "dying_down": 32,
     "out": 576
   },
   "classes": {
     "agricultural": 26,
     "forest": 359,
-    "likely_agricultural": 217,
+    "likely_agricultural": 218,
     "mixed": 11,
     "urban": 10
   },
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 14872,
+  "detections": 14907,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 10854.3,
+      "pixel_area_ha": 11065.2,
       "official_area_ha": 11871.0,
-      "detections": 1918,
-      "last_utc": "2026-08-14T13:59:00Z",
+      "detections": 1952,
+      "last_utc": "2026-08-14T15:05:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cilia"
