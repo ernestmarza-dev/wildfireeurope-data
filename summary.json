@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-14T20:42:20+00:00",
-  "last_sync_utc": "2026-08-14T20:39:32+00:00",
+  "generated_utc": "2026-08-14T21:37:53+00:00",
+  "last_sync_utc": "2026-08-14T21:35:04+00:00",
   "window_days": 400,
   "fires": {
     "total": 624,
@@ -15,8 +15,8 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 27,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 23,
+  "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 6211,
