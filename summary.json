@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-08-14T13:36:51+00:00",
-  "last_sync_utc": "2026-08-14T13:34:03+00:00",
+  "generated_utc": "2026-08-14T14:08:53+00:00",
+  "last_sync_utc": "2026-08-14T13:58:17+00:00",
   "window_days": 400,
   "fires": {
-    "total": 616,
-    "active": 24,
-    "dying_down": 28,
-    "out": 564
+    "total": 612,
+    "active": 21,
+    "dying_down": 26,
+    "out": 565
   },
   "classes": {
     "agricultural": 26,
-    "forest": 362,
+    "forest": 358,
     "likely_agricultural": 207,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 31,
-  "satellite_intense_24h": 10,
+  "satellite_hotspots_24h": 26,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6193,
-    "windy": 763,
-    "met": 317
+    "hot_dry": 6182,
+    "windy": 630,
+    "met": 261
   },
   "official": {
-    "active": 37,
-    "not_extinguished": 106,
+    "active": 42,
+    "not_extinguished": 114,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -36,23 +36,23 @@
       {
         "source": "jcyl",
         "region": "Castilla y León",
-        "active": 24,
-        "total": 795,
-        "last_report_utc": "2026-08-13T10:00:00+00:00"
+        "active": 28,
+        "total": 806,
+        "last_report_utc": "2026-08-13T19:00:00+00:00"
       },
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 11,
-        "total": 384,
-        "last_report_utc": "2026-08-14T07:59:13+00:00"
+        "active": 12,
+        "total": 391,
+        "last_report_utc": "2026-08-14T13:58:20+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 2,
-        "total": 779,
-        "last_report_utc": "2026-08-13T21:32:00+00:00"
+        "total": 783,
+        "last_report_utc": "2026-08-14T12:00:00+00:00"
       },
       {
         "source": "bombers",
@@ -63,8 +63,8 @@
       }
     ]
   },
-  "burnt_ha_effis": 312772.0,
-  "detections": 14391,
+  "burnt_ha_effis": 318257.0,
+  "detections": 14546,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -73,9 +73,9 @@
       "province": "Sevilla",
       "region": "Andalucía",
       "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33772.1,
-      "official_area_ha": 42454.0,
-      "detections": 6791,
+      "pixel_area_ha": 33814.3,
+      "official_area_ha": 45792.0,
+      "detections": 6837,
       "last_utc": "2026-08-14T09:07:00Z",
       "status": "active",
       "fire_class": "forest",
@@ -88,27 +88,13 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 9476.4,
-      "official_area_ha": 9724.0,
-      "detections": 1607,
+      "pixel_area_ha": 9603.0,
+      "official_area_ha": 11871.0,
+      "detections": 1685,
       "last_utc": "2026-08-14T09:05:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "las-penas-de-riglos"
-    },
-    {
-      "id": "33f1734b1a0c",
-      "ine": "41013",
-      "municipality": "Aznalcóllar",
-      "province": "Sevilla",
-      "region": "Andalucía",
-      "frp_max_mw": 1682.4,
-      "pixel_area_ha": 674.9,
-      "detections": 61,
-      "last_utc": "2026-08-14T09:07:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "aznalcollar"
     },
     {
       "id": "c9ddc794fef5",
@@ -118,25 +104,25 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 85,
+      "detections": 86,
       "last_utc": "2026-08-14T03:21:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
     },
     {
-      "id": "df5d71bf764b",
-      "ine": "41013",
-      "municipality": "Aznalcóllar",
-      "province": "Sevilla",
-      "region": "Andalucía",
-      "frp_max_mw": 1298.9,
+      "id": "8cbad3823495",
+      "ine": "01004",
+      "municipality": "Artziniega",
+      "province": "Araba/Álava",
+      "region": "País Vasco",
+      "frp_max_mw": 37.7,
       "pixel_area_ha": 70.3,
-      "detections": 5,
-      "last_utc": "2026-08-14T01:41:00Z",
+      "detections": 12,
+      "last_utc": "2026-08-14T02:36:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "aznalcollar"
+      "slug": "artziniega"
     },
     {
       "id": "3b21327e4471",
@@ -146,11 +132,25 @@
       "region": "Castilla-La Mancha",
       "frp_max_mw": 2.9,
       "pixel_area_ha": 70.3,
-      "detections": 34,
-      "last_utc": "2026-08-14T02:17:00Z",
+      "detections": 35,
+      "last_utc": "2026-08-14T02:36:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "anover-de-tajo"
+    },
+    {
+      "id": "ffe0f35839fa",
+      "ine": "48078",
+      "municipality": "Portugalete",
+      "province": "Bizkaia",
+      "region": "País Vasco",
+      "frp_max_mw": 3.4,
+      "pixel_area_ha": 56.2,
+      "detections": 12,
+      "last_utc": "2026-08-14T03:19:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "portugalete"
     }
   ]
 }
