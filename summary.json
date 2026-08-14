@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-14T11:53:58+00:00",
-  "last_sync_utc": "2026-08-14T11:53:16+00:00",
+  "generated_utc": "2026-08-14T13:36:51+00:00",
+  "last_sync_utc": "2026-08-14T13:34:03+00:00",
   "window_days": 400,
   "fires": {
     "total": 616,
     "active": 24,
-    "dying_down": 30,
-    "out": 562
+    "dying_down": 28,
+    "out": 564
   },
   "classes": {
     "agricultural": 26,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 312772.0,
-  "detections": 14350,
+  "detections": 14391,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,9 +88,9 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 9364.0,
+      "pixel_area_ha": 9476.4,
       "official_area_ha": 9724.0,
-      "detections": 1566,
+      "detections": 1607,
       "last_utc": "2026-08-14T09:05:00Z",
       "status": "active",
       "fire_class": "forest",
