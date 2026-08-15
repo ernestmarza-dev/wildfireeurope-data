@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-15T01:54:11+00:00",
+  "generated_utc": "2026-08-15T02:20:42+00:00",
   "last_sync_utc": "2026-08-14T23:31:24+00:00",
   "window_days": 400,
   "fires": {
     "total": 624,
-    "active": 8,
-    "dying_down": 34,
-    "out": 582
+    "active": 3,
+    "dying_down": 37,
+    "out": 584
   },
   "classes": {
     "agricultural": 26,
@@ -15,17 +15,17 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 21,
+  "satellite_hotspots_24h": 13,
   "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3268,
-    "windy": 522,
-    "met": 35
+    "hot_dry": 3420,
+    "windy": 490,
+    "met": 16
   },
   "official": {
-    "active": 40,
-    "not_extinguished": 112,
+    "active": 35,
+    "not_extinguished": 105,
     "regions": [
       "Andalucía",
       "Castilla y León",
@@ -43,16 +43,16 @@
       {
         "source": "112cv",
         "region": "Comunitat Valenciana",
-        "active": 10,
-        "total": 397,
-        "last_report_utc": "2026-08-14T19:32:55+00:00"
+        "active": 5,
+        "total": 398,
+        "last_report_utc": "2026-08-15T02:07:10+00:00"
       },
       {
         "source": "infoca",
         "region": "Andalucía",
         "active": 2,
-        "total": 788,
-        "last_report_utc": "2026-08-14T17:10:00+00:00"
+        "total": 790,
+        "last_report_utc": "2026-08-14T20:22:00+00:00"
       },
       {
         "source": "bombers",
@@ -95,20 +95,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cilia"
-    },
-    {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 89,
-      "last_utc": "2026-08-14T13:59:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "morata-de-tajuna"
     }
   ]
 }
