@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-15T11:32:44+00:00",
-  "last_sync_utc": "2026-08-15T11:29:53+00:00",
+  "generated_utc": "2026-08-15T12:57:43+00:00",
+  "last_sync_utc": "2026-08-15T12:54:54+00:00",
   "window_days": 400,
   "fires": {
-    "total": 641,
-    "active": 27,
+    "total": 645,
+    "active": 31,
     "dying_down": 25,
     "out": 589
   },
   "classes": {
     "agricultural": 26,
-    "forest": 376,
-    "likely_agricultural": 218,
+    "forest": 377,
+    "likely_agricultural": 221,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 28,
-  "satellite_intense_24h": 3,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 4,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3570,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 15089,
+  "detections": 15098,
   "highlights": [
     {
       "id": "d9fbbd9b13d2",
@@ -88,10 +88,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 12218.1,
+      "pixel_area_ha": 12246.3,
       "official_area_ha": 11871.0,
-      "detections": 2076,
-      "last_utc": "2026-08-15T04:38:00Z",
+      "detections": 2081,
+      "last_utc": "2026-08-15T09:43:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cruz-de-la-seros"
