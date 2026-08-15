@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-15T15:33:44+00:00",
+  "generated_utc": "2026-08-15T16:45:05+00:00",
   "last_sync_utc": "2026-08-15T15:30:56+00:00",
   "window_days": 400,
   "fires": {
     "total": 649,
-    "active": 10,
-    "dying_down": 37,
+    "active": 9,
+    "dying_down": 38,
     "out": 602
   },
   "classes": {
@@ -80,21 +80,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cruz-de-la-seros"
-    },
-    {
-      "id": "2de6a05a897c",
-      "ine": "36034",
-      "municipality": "As Neves",
-      "province": "Pontevedra",
-      "region": "Galicia",
-      "frp_max_mw": 13.4,
-      "pixel_area_ha": 14.1,
-      "official_area_ha": 3333.0,
-      "detections": 1,
-      "last_utc": "2026-08-15T04:38:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "as-neves"
     },
     {
       "id": "5ef9566a993d",
