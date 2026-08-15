@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-15T14:42:02+00:00",
-  "last_sync_utc": "2026-08-15T12:54:54+00:00",
+  "generated_utc": "2026-08-15T15:33:44+00:00",
+  "last_sync_utc": "2026-08-15T15:30:56+00:00",
   "window_days": 400,
   "fires": {
-    "total": 645,
-    "active": 14,
-    "dying_down": 32,
-    "out": 599
+    "total": 649,
+    "active": 10,
+    "dying_down": 37,
+    "out": 602
   },
   "classes": {
     "agricultural": 26,
-    "forest": 377,
-    "likely_agricultural": 221,
+    "forest": 378,
+    "likely_agricultural": 224,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 28,
-  "satellite_intense_24h": 4,
+  "satellite_hotspots_24h": 29,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3690,
@@ -64,23 +64,8 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 15098,
+  "detections": 15112,
   "highlights": [
-    {
-      "id": "d9fbbd9b13d2",
-      "ine": "21012",
-      "municipality": "Berrocal",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33884.6,
-      "official_area_ha": 45792.0,
-      "detections": 6905,
-      "last_utc": "2026-08-15T03:04:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "berrocal"
-    },
     {
       "id": "187118fe102d",
       "ine": "22209",
@@ -112,46 +97,32 @@
       "slug": "as-neves"
     },
     {
-      "id": "c9ddc794fef5",
-      "ine": "28091",
-      "municipality": "Morata de Tajuña",
-      "province": "Madrid",
-      "region": "Comunidad de Madrid",
-      "frp_max_mw": 7.5,
-      "pixel_area_ha": 112.5,
-      "detections": 92,
-      "last_utc": "2026-08-15T03:02:00Z",
+      "id": "5ef9566a993d",
+      "ine": "49094",
+      "municipality": "Hermisende",
+      "province": "Zamora",
+      "region": "Castilla y León",
+      "frp_max_mw": 424.7,
+      "pixel_area_ha": 225.0,
+      "detections": 25,
+      "last_utc": "2026-08-15T12:46:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "morata-de-tajuna"
+      "slug": "hermisende"
     },
     {
-      "id": "160acdcacfe3",
-      "ine": "13096",
-      "municipality": "Villarrubia de los Ojos",
-      "province": "Ciudad Real",
-      "region": "Castilla-La Mancha",
-      "frp_max_mw": 6.5,
-      "pixel_area_ha": 42.2,
-      "detections": 6,
-      "last_utc": "2026-08-15T03:04:00Z",
+      "id": "74eb33534f29",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 317.0,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-15T09:43:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "villarrubia-de-los-ojos"
-    },
-    {
-      "id": "b550422cb21b",
-      "ine": "08251",
-      "municipality": "Santa Margarida i els Monjos",
-      "province": "Barcelona",
-      "region": "Cataluña",
-      "frp_max_mw": 2.7,
-      "pixel_area_ha": 42.2,
-      "detections": 14,
-      "last_utc": "2026-08-15T03:02:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "santa-margarida-i-els-monjos"
+      "slug": "santa-cruz-de-la-seros"
     }
   ]
 }
