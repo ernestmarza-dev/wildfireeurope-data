@@ -1,20 +1,21 @@
 {
-  "generated_utc": "2026-08-15T04:49:26+00:00",
-  "last_sync_utc": "2026-08-15T03:00:28+00:00",
+  "generated_utc": "2026-08-15T05:37:50+00:00",
+  "last_sync_utc": "2026-08-15T05:35:04+00:00",
   "window_days": 400,
   "fires": {
-    "total": 624,
-    "dying_down": 39,
+    "total": 631,
+    "active": 12,
+    "dying_down": 34,
     "out": 585
   },
   "classes": {
     "agricultural": 26,
-    "forest": 359,
+    "forest": 366,
     "likely_agricultural": 218,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 5,
+  "satellite_hotspots_24h": 15,
   "satellite_intense_24h": 2,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -63,6 +64,93 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 14907,
-  "highlights": []
+  "detections": 14934,
+  "highlights": [
+    {
+      "id": "d9fbbd9b13d2",
+      "ine": "21012",
+      "municipality": "Berrocal",
+      "province": "Huelva",
+      "region": "Andalucía",
+      "frp_max_mw": 1927.8,
+      "pixel_area_ha": 33884.6,
+      "official_area_ha": 45792.0,
+      "detections": 6901,
+      "last_utc": "2026-08-15T01:24:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "berrocal"
+    },
+    {
+      "id": "187118fe102d",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 5617.0,
+      "pixel_area_ha": 11248.0,
+      "official_area_ha": 11871.0,
+      "detections": 1965,
+      "last_utc": "2026-08-15T01:22:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "santa-cruz-de-la-seros"
+    },
+    {
+      "id": "1ab59a5918e1",
+      "ine": "22209",
+      "municipality": "Santa Cruz de la Serós",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 9.7,
+      "pixel_area_ha": 56.2,
+      "detections": 4,
+      "last_utc": "2026-08-15T01:22:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "santa-cruz-de-la-seros"
+    },
+    {
+      "id": "b550422cb21b",
+      "ine": "08251",
+      "municipality": "Santa Margarida i els Monjos",
+      "province": "Barcelona",
+      "region": "Cataluña",
+      "frp_max_mw": 2.6,
+      "pixel_area_ha": 42.2,
+      "detections": 10,
+      "last_utc": "2026-08-15T01:22:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "santa-margarida-i-els-monjos"
+    },
+    {
+      "id": "6c1f9d94f994",
+      "ine": "04032",
+      "municipality": "Carboneras",
+      "province": "Almería",
+      "region": "Andalucía",
+      "frp_max_mw": 3.3,
+      "pixel_area_ha": 28.1,
+      "detections": 4,
+      "last_utc": "2026-08-15T01:24:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "carboneras"
+    },
+    {
+      "id": "160acdcacfe3",
+      "ine": "13096",
+      "municipality": "Villarrubia de los Ojos",
+      "province": "Ciudad Real",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 2.2,
+      "pixel_area_ha": 14.1,
+      "detections": 1,
+      "last_utc": "2026-08-15T01:22:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "villarrubia-de-los-ojos"
+    }
+  ]
 }
