@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-15T21:32:58+00:00",
-  "last_sync_utc": "2026-08-15T21:30:10+00:00",
+  "generated_utc": "2026-08-15T22:35:36+00:00",
+  "last_sync_utc": "2026-08-15T22:32:47+00:00",
   "window_days": 400,
   "fires": {
-    "total": 656,
-    "active": 16,
-    "dying_down": 38,
+    "total": 657,
+    "active": 13,
+    "dying_down": 42,
     "out": 602
   },
   "classes": {
     "agricultural": 26,
-    "forest": 379,
+    "forest": 380,
     "likely_agricultural": 230,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 30,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 31,
+  "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3066,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 15151,
+  "detections": 15154,
   "highlights": [
     {
       "id": "187118fe102d",
@@ -102,26 +102,26 @@
       "province": "Granada",
       "region": "Andalucía",
       "frp_max_mw": 314.0,
-      "pixel_area_ha": 84.4,
-      "detections": 11,
-      "last_utc": "2026-08-15T15:41:00Z",
+      "pixel_area_ha": 98.4,
+      "detections": 12,
+      "last_utc": "2026-08-15T20:46:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "turon"
     },
     {
-      "id": "74eb33534f29",
-      "ine": "22209",
-      "municipality": "Santa Cruz de la Serós",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 317.0,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-15T09:43:00Z",
+      "id": "47461256d699",
+      "ine": "32037",
+      "municipality": "Xunqueira de Espadanedo",
+      "province": "Ourense",
+      "region": "Galicia",
+      "frp_max_mw": 11.9,
+      "pixel_area_ha": 28.1,
+      "detections": 2,
+      "last_utc": "2026-08-15T20:46:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "santa-cruz-de-la-seros"
+      "slug": "xunqueira-de-espadanedo"
     }
   ]
 }
