@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-15T16:45:05+00:00",
-  "last_sync_utc": "2026-08-15T15:30:56+00:00",
+  "generated_utc": "2026-08-15T17:33:08+00:00",
+  "last_sync_utc": "2026-08-15T17:30:16+00:00",
   "window_days": 400,
   "fires": {
-    "total": 649,
-    "active": 9,
+    "total": 656,
+    "active": 16,
     "dying_down": 38,
     "out": 602
   },
   "classes": {
     "agricultural": 26,
-    "forest": 378,
-    "likely_agricultural": 224,
+    "forest": 379,
+    "likely_agricultural": 230,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 29,
-  "satellite_intense_24h": 5,
+  "satellite_hotspots_24h": 30,
+  "satellite_intense_24h": 6,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3690,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 15112,
+  "detections": 15151,
   "highlights": [
     {
       "id": "187118fe102d",
@@ -73,10 +73,10 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 12246.3,
+      "pixel_area_ha": 12288.4,
       "official_area_ha": 11871.0,
-      "detections": 2081,
-      "last_utc": "2026-08-15T09:43:00Z",
+      "detections": 2084,
+      "last_utc": "2026-08-15T15:44:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cruz-de-la-seros"
@@ -88,12 +88,26 @@
       "province": "Zamora",
       "region": "Castilla y León",
       "frp_max_mw": 424.7,
-      "pixel_area_ha": 225.0,
-      "detections": 25,
-      "last_utc": "2026-08-15T12:46:00Z",
+      "pixel_area_ha": 351.5,
+      "detections": 39,
+      "last_utc": "2026-08-15T13:23:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "hermisende"
+    },
+    {
+      "id": "137e1be8c486",
+      "ine": "18181",
+      "municipality": "Turón",
+      "province": "Granada",
+      "region": "Andalucía",
+      "frp_max_mw": 314.0,
+      "pixel_area_ha": 84.4,
+      "detections": 11,
+      "last_utc": "2026-08-15T15:41:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "turon"
     },
     {
       "id": "74eb33534f29",
