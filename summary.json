@@ -1,11 +1,10 @@
 {
-  "generated_utc": "2026-08-15T03:01:10+00:00",
+  "generated_utc": "2026-08-15T03:58:06+00:00",
   "last_sync_utc": "2026-08-15T03:00:28+00:00",
   "window_days": 400,
   "fires": {
     "total": 624,
-    "active": 3,
-    "dying_down": 36,
+    "dying_down": 39,
     "out": 585
   },
   "classes": {
@@ -15,7 +14,7 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 7,
+  "satellite_hotspots_24h": 5,
   "satellite_intense_24h": 2,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
@@ -65,36 +64,5 @@
   },
   "burnt_ha_effis": 318257.0,
   "detections": 14907,
-  "highlights": [
-    {
-      "id": "d9fbbd9b13d2",
-      "ine": "21012",
-      "municipality": "Berrocal",
-      "province": "Huelva",
-      "region": "Andalucía",
-      "frp_max_mw": 1927.8,
-      "pixel_area_ha": 33884.6,
-      "official_area_ha": 45792.0,
-      "detections": 6900,
-      "last_utc": "2026-08-14T15:03:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "berrocal"
-    },
-    {
-      "id": "187118fe102d",
-      "ine": "22208",
-      "municipality": "Santa Cilia",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 5617.0,
-      "pixel_area_ha": 11065.2,
-      "official_area_ha": 11871.0,
-      "detections": 1952,
-      "last_utc": "2026-08-14T15:05:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "santa-cilia"
-    }
-  ]
+  "highlights": []
 }
