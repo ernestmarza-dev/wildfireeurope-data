@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-14T23:34:12+00:00",
+  "generated_utc": "2026-08-15T01:54:11+00:00",
   "last_sync_utc": "2026-08-14T23:31:24+00:00",
   "window_days": 400,
   "fires": {
     "total": 624,
-    "active": 16,
-    "dying_down": 32,
-    "out": 576
+    "active": 8,
+    "dying_down": 34,
+    "out": 582
   },
   "classes": {
     "agricultural": 26,
@@ -15,13 +15,13 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 23,
+  "satellite_hotspots_24h": 21,
   "satellite_intense_24h": 3,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 6211,
-    "windy": 635,
-    "met": 160
+    "hot_dry": 3268,
+    "windy": 522,
+    "met": 35
   },
   "official": {
     "active": 40,
@@ -109,34 +109,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
-    },
-    {
-      "id": "1e9b56bf1c9d",
-      "ine": "22158",
-      "municipality": "Monzón",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 4.9,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-14T13:04:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "monzon"
-    },
-    {
-      "id": "925b3a1d9397",
-      "ine": "03055",
-      "municipality": "Catral",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 8.2,
-      "pixel_area_ha": 14.1,
-      "detections": 1,
-      "last_utc": "2026-08-14T13:04:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "catral"
     }
   ]
 }
