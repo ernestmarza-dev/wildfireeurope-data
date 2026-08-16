@@ -1,22 +1,22 @@
 {
-  "generated_utc": "2026-08-16T05:40:05+00:00",
-  "last_sync_utc": "2026-08-16T05:37:16+00:00",
+  "generated_utc": "2026-08-16T06:57:47+00:00",
+  "last_sync_utc": "2026-08-16T06:54:56+00:00",
   "window_days": 400,
   "fires": {
-    "total": 659,
-    "active": 12,
-    "dying_down": 33,
+    "total": 666,
+    "active": 21,
+    "dying_down": 31,
     "out": 614
   },
   "classes": {
     "agricultural": 26,
-    "forest": 384,
+    "forest": 391,
     "likely_agricultural": 228,
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 13,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 21,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3038,
@@ -64,7 +64,7 @@
     ]
   },
   "burnt_ha_effis": 318257.0,
-  "detections": 15172,
+  "detections": 15219,
   "highlights": [
     {
       "id": "187118fe102d",
@@ -73,13 +73,27 @@
       "province": "Huesca",
       "region": "Aragón",
       "frp_max_mw": 5617.0,
-      "pixel_area_ha": 12372.8,
+      "pixel_area_ha": 12513.4,
       "official_area_ha": 11871.0,
-      "detections": 2091,
-      "last_utc": "2026-08-16T01:39:00Z",
+      "detections": 2104,
+      "last_utc": "2026-08-16T01:58:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cruz-de-la-seros"
+    },
+    {
+      "id": "5ef9566a993d",
+      "ine": "49094",
+      "municipality": "Hermisende",
+      "province": "Zamora",
+      "region": "Castilla y León",
+      "frp_max_mw": 424.7,
+      "pixel_area_ha": 365.6,
+      "detections": 40,
+      "last_utc": "2026-08-16T03:38:00Z",
+      "status": "active",
+      "fire_class": "forest",
+      "slug": "hermisende"
     },
     {
       "id": "c9ddc794fef5",
@@ -89,8 +103,8 @@
       "region": "Comunidad de Madrid",
       "frp_max_mw": 7.5,
       "pixel_area_ha": 112.5,
-      "detections": 95,
-      "last_utc": "2026-08-16T01:39:00Z",
+      "detections": 99,
+      "last_utc": "2026-08-16T03:19:00Z",
       "status": "active",
       "fire_class": "forest",
       "slug": "morata-de-tajuna"
@@ -110,46 +124,32 @@
       "slug": "turon"
     },
     {
-      "id": "e0628ff0fa52",
-      "ine": "03014",
-      "municipality": "Alacant/Alicante",
-      "province": "Alacant/Alicante",
-      "region": "Comunitat Valenciana",
-      "frp_max_mw": 1.8,
-      "pixel_area_ha": 56.2,
-      "detections": 15,
-      "last_utc": "2026-08-16T01:39:00Z",
+      "id": "3b21327e4471",
+      "ine": "45202",
+      "municipality": "Yepes",
+      "province": "Toledo",
+      "region": "Castilla-La Mancha",
+      "frp_max_mw": 2.9,
+      "pixel_area_ha": 84.4,
+      "detections": 39,
+      "last_utc": "2026-08-16T03:19:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "alacant-alicante"
+      "slug": "yepes"
     },
     {
-      "id": "47461256d699",
-      "ine": "32037",
-      "municipality": "Xunqueira de Espadanedo",
-      "province": "Ourense",
-      "region": "Galicia",
-      "frp_max_mw": 11.9,
-      "pixel_area_ha": 28.1,
-      "detections": 2,
-      "last_utc": "2026-08-15T20:46:00Z",
+      "id": "33942a2aa294",
+      "ine": "22130",
+      "municipality": "Jaca",
+      "province": "Huesca",
+      "region": "Aragón",
+      "frp_max_mw": 1.6,
+      "pixel_area_ha": 84.4,
+      "detections": 6,
+      "last_utc": "2026-08-16T01:58:00Z",
       "status": "active",
       "fire_class": "forest",
-      "slug": "xunqueira-de-espadanedo"
-    },
-    {
-      "id": "6c1f9d94f994",
-      "ine": "04032",
-      "municipality": "Carboneras",
-      "province": "Almería",
-      "region": "Andalucía",
-      "frp_max_mw": 3.3,
-      "pixel_area_ha": 28.1,
-      "detections": 7,
-      "last_utc": "2026-08-16T01:39:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "carboneras"
+      "slug": "jaca"
     }
   ]
 }
