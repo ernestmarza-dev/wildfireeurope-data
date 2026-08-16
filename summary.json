@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-08-15T23:32:37+00:00",
-  "last_sync_utc": "2026-08-15T23:29:45+00:00",
+  "generated_utc": "2026-08-16T01:56:19+00:00",
+  "last_sync_utc": "2026-08-16T01:53:32+00:00",
   "window_days": 400,
   "fires": {
     "total": 657,
-    "active": 13,
-    "dying_down": 42,
-    "out": 602
+    "active": 5,
+    "dying_down": 43,
+    "out": 609
   },
   "classes": {
     "agricultural": 26,
@@ -15,13 +15,13 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 31,
+  "satellite_hotspots_24h": 29,
   "satellite_intense_24h": 7,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
-    "hot_dry": 3066,
-    "windy": 348,
-    "met": 8
+    "hot_dry": 3082,
+    "windy": 11,
+    "met": 2
   },
   "official": {
     "active": 48,
@@ -80,20 +80,6 @@
       "status": "active",
       "fire_class": "forest",
       "slug": "santa-cruz-de-la-seros"
-    },
-    {
-      "id": "5ef9566a993d",
-      "ine": "49094",
-      "municipality": "Hermisende",
-      "province": "Zamora",
-      "region": "Castilla y León",
-      "frp_max_mw": 424.7,
-      "pixel_area_ha": 351.5,
-      "detections": 39,
-      "last_utc": "2026-08-15T13:23:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "hermisende"
     },
     {
       "id": "137e1be8c486",
