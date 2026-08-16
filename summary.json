@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-08-16T03:09:42+00:00",
-  "last_sync_utc": "2026-08-16T03:08:56+00:00",
+  "generated_utc": "2026-08-16T04:47:59+00:00",
+  "last_sync_utc": "2026-08-16T04:45:09+00:00",
   "window_days": 400,
   "fires": {
     "total": 657,
-    "active": 5,
-    "dying_down": 38,
+    "active": 2,
+    "dying_down": 41,
     "out": 614
   },
   "classes": {
@@ -15,8 +15,8 @@
     "mixed": 11,
     "urban": 10
   },
-  "satellite_hotspots_24h": 6,
-  "satellite_intense_24h": 6,
+  "satellite_hotspots_24h": 5,
+  "satellite_intense_24h": 5,
   "satellite_intense_min_frp_mw": 10.0,
   "rule_30_30_30": {
     "hot_dry": 3038,
@@ -66,21 +66,6 @@
   "burnt_ha_effis": 318257.0,
   "detections": 15154,
   "highlights": [
-    {
-      "id": "187118fe102d",
-      "ine": "22209",
-      "municipality": "Santa Cruz de la Serós",
-      "province": "Huesca",
-      "region": "Aragón",
-      "frp_max_mw": 5617.0,
-      "pixel_area_ha": 12288.4,
-      "official_area_ha": 11871.0,
-      "detections": 2084,
-      "last_utc": "2026-08-15T15:44:00Z",
-      "status": "active",
-      "fire_class": "forest",
-      "slug": "santa-cruz-de-la-seros"
-    },
     {
       "id": "137e1be8c486",
       "ine": "18181",
